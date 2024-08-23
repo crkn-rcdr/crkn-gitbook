@@ -49,8 +49,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
     * Avoid relying on specific gestures or hover interactions that could be difficult for some users to figure out.&#x20;
     * Controls used to navigate, expand, and collapse content should be easy to discover and use, even for those with fine motor or dexterity challenges. For example, by triggering the expansion functionality when the entire expansion panel header is pressed, rather than just a small '+' icon.
     * Use consistent UI patterns to signal the presence of hidden content, such as:&#x20;
-      * A "+" symbol to indicate expandable content&#x20;
-      * Triangles next to sub-menu items&#x20;
+      * A "+" symbol to indicate expandable content.
+      * Triangles next to sub-menu items.
 13. Offer a search function to allow users to directly locate and skip-to the desired information or function in the viewer, bypassing the need to navigate complex menus.&#x20;
     * Menu systems and most site navigation require the user to understand the menu categories.  In some cases, users know the correct category via memory, rather than logic.&#x20;
     * For example, most users remember that the print function is often found under the file menu. Users with impaired memory may not be able to find these menu items based on recall.&#x20;
@@ -80,14 +80,14 @@ By conducting comprehensive usability and accessibility research on Mirador view
       * Minimize the use of animations, transitions, or other dynamic elements.&#x20;
       * Allow users to adjust spacing to their comfort level.&#x20;
     * For color blindness:  &#x20;
-      * Configure high-contrast themes targeted for the various forms of color blindness&#x20;
+      * Configure high-contrast themes targeted for the various forms of color blindness.&#x20;
     * For people with low vision:&#x20;
       * Allow users to adjust font sizes.&#x20;
       * Allow them to adjust the weight of the font.&#x20;
     * For people with dyslexia:&#x20;
       * Allow configure the letter spacing, which will help them differentiate between letters.&#x20;
     * For people with dyscalculia:&#x20;
-      * Avoid using symbolic representations of numbers, e.g. use the word ‘nine’ instead of ‘9’&#x20;
+      * Avoid using symbolic representations of numbers, e.g. use the word ‘nine’ instead of ‘9.’&#x20;
       * Do not use percentage signs to indicate progression of how many pages were read or how far someone is in a video, but rather use indicator bars like ‘YouTube’ videos.&#x20;
 
 ## Our Research
