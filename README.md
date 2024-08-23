@@ -90,7 +90,7 @@ By conducting comprehensive usability and accessibility research on Mirador view
       * Avoid using symbolic representations of numbers, e.g. use the word ‘nine’ instead of ‘9.’&#x20;
       * Do not use percentage signs to indicate progression of how many pages were read or how far someone is in a video, but rather use indicator bars like ‘YouTube’ videos.&#x20;
 
-## Our Research
+## Supporting Research
 
 ### Project Background
 
