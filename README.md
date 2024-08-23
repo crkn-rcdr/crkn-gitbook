@@ -10,7 +10,7 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <details>
 
-<summary>Avoid displaying a long list of images before other functionality. This can be problematic for users who navigate using a screen reader or keyboard tabbing. </summary>
+<summary>Avoid displaying a long list of images before other functionality, because this can be problematic for users who navigate using a screen reader or keyboard tabbing. </summary>
 
 * These users would have to listen to or tab through the entire manifest content before being able to interact with other features of the viewer.&#x20;
 * Instead, consider providing an alternative way for users to access the list of images, such as through a selection menu. This will allow all users, including those relying on assistive technologies, to more easily access the other features and functionality of the image viewer.&#x20;
