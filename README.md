@@ -37,12 +37,13 @@ By conducting comprehensive usability and accessibility research on Mirador view
 10. Display the IIIF summary field prominently near the title of the IIIF manifest&#x20;
     * When creating your manifests, ensure that you add a summary that can be understood by people with a lower secondary education reading level.&#x20;
     * Emphasize key keywords and use common, everyday language in the summaries. This should help users quickly understand the purpose and content of the IIIF item.&#x20;
-11. Avoid displaying too much content - even if your IIIF items are rich in data, only display the most essential information by default. Showing too much information can create confusion and make it harder for users to find basic functionality. Busy components with too much text, imagery, and other content can cause confusion, anxiety, and loss of focus.
-    * Separate additional details into other web components displayed below the image viewer.  &#x20;
-    * Provide users with no more than five main choices per screen and remove unnecessary content. &#x20;
-    * Keep extra links that don't relate to the main purpose of the page confined to the footer.&#x20;
-    * Separate additional details into other web components or well-defined sections using whitespace, headings, shapes, displayed below the image viewer.  &#x20;
-12. If you need to include the additional information within the image viewer itself, leverage expansion panel UI patterns to ensure efficient interaction for screen reader and keyboard users. While expansion panels can be a space-saving solution, they can also make it difficult for some users to guess the content inside. Separating information into distinct UI components is generally preferred for better accessibility.  &#x20;
+11. Avoid displaying too much content - even if your IIIF items are rich in data, only display the most essential information by default.&#x20;
+    * Showing too much information can create confusion and make it harder for users to find basic functionality. Busy components with too much text, imagery, and other content can cause confusion, anxiety, and loss of focus.
+    * Some alternative strategies you can employ include: &#x20;
+      * Provide users with no more than five main choices per screen and remove unnecessary content. &#x20;
+      * Keep extra links that don't relate to the main purpose of the page confined to the footer.&#x20;
+      * Separate additional details into other web components or well-defined sections using whitespace, headings, shapes, displayed below the image viewer.  &#x20;
+12. If you need to include the additional information within the image viewer itself, leverage expansion panel UI patterns to ensure efficient interaction for screen reader and keyboard users. &#x20;
     * Make sure to update the aria-expanded attribute as the user toggles the element open and closed.&#x20;
     * When a web page first loads, any sub-menus or expandable content should be in a collapsed state by default.&#x20;
     * Avoid relying on specific gestures or hover interactions that could be difficult for some users to figure out.&#x20;
@@ -50,6 +51,7 @@ By conducting comprehensive usability and accessibility research on Mirador view
     * Use consistent UI patterns to signal the presence of hidden content, such as:&#x20;
       * A "+" symbol to indicate expandable content.
       * Triangles next to sub-menu items.
+    * While expansion panels can be a space-saving solution, they can also make it difficult for some users to guess the content inside. Separating information into distinct UI components is generally preferred for better accessibility. &#x20;
 13. Offer a search function to allow users to directly locate and skip-to the desired information or function in the viewer, bypassing the need to navigate complex menus.&#x20;
     * Menu systems and most site navigation require the user to understand the menu categories.  In some cases, users know the correct category via memory, rather than logic.&#x20;
     * For example, most users remember that the print function is often found under the file menu. Users with impaired memory may not be able to find these menu items based on recall.&#x20;
