@@ -6,9 +6,7 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 ## Recommendations
 
-...
-
-1. ..
+1. ....
 
 ...
 
@@ -338,6 +336,6 @@ Through the Mirador Community Calls, CRKN presented the findings of our accessib
 
 To address the issues created by CRKN as well as existing issues, an 'Accessibility + UX' project was created on GitHub. CRKN has also received access to contribute to Mirador Base code on GitHub.
 
-{% embed url="https://github.com/orgs/ProjectMirador/projects/4/views/1" %}
+{% @github-files/github-code-block url="https://github.com/orgs/ProjectMirador/projects/4/views/1" %}
 
 CRKN and NYU are processing the related issues into actionable development tickets, and populating the project. Development time will be alloted to the issues within the project upon final release of Mirador version 4.
