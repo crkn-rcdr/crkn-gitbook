@@ -73,7 +73,7 @@ By conducting comprehensive usability and accessibility research on Mirador view
     * Screen readers create dynamically generated summary of the page. Take advantage of [ARIA Landmark Roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/landmark\_role) to create 'skip links' especially designed for users who are relying on screen readers.&#x20;
     * Make use of an aria-live attribute is set on an empty element. When an update to the page occurs, the empty element with that aria-live attribute should be updated with a brief announcement informing the user an update has been made.&#x20;
     * When creating table of contents, hierarchical displays and menus etc. make sure you implement [aria levels](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-level) for people making use of screen readers.&#x20;
-18. Build in customization options. Prominently display a "Customize" button or link, making it easily accessible from the main interface. Many neurodiverse individuals can experience sensory sensitivities that can be overwhelming in certain environments. Some people also have visual differences, such as color blindness and low vision, which can cause them to need a different-than-standard theme. &#x20;
+18. Build in customization options. Prominently display a "Customize" button or link, making it easily accessible from the main interface. &#x20;
     * Sensory friendly settings would include:&#x20;
       * Neutral, muted color palettes rather than bright, saturated shades.&#x20;
       * No harsh contrasts and busy patterns that can be visually overwhelming.&#x20;
