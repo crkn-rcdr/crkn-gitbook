@@ -40,7 +40,6 @@ By conducting comprehensive usability and accessibility research on Mirador view
 11. Avoid displaying too much content - even if your IIIF items are rich in data, only display the most essential information by default. Showing too much information can create confusion and make it harder for users to find basic functionality. Busy components with too much text, imagery, and other content can cause confusion, anxiety, and loss of focus.
     * Separate additional details into other web components displayed below the image viewer.  &#x20;
     * Provide users with no more than five main choices per screen and remove unnecessary content. &#x20;
-    * Consider offering a simplified version as an alternative, generated from the same codebase possibly as a fork.&#x20;
     * Keep extra links that don't relate to the main purpose of the page confined to the footer.&#x20;
     * Separate additional details into other web components or well-defined sections using whitespace, headings, shapes, displayed below the image viewer.  &#x20;
 12. If you need to include the additional information within the image viewer itself, leverage expansion panel UI patterns to ensure efficient interaction for screen reader and keyboard users. While expansion panels can be a space-saving solution, they can also make it difficult for some users to guess the content inside. Separating information into distinct UI components is generally preferred for better accessibility.  &#x20;
