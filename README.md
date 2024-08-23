@@ -18,33 +18,32 @@ By conducting comprehensive usability and accessibility research on Mirador view
 3. Provide a skip link to the table of contents (ranges) of a manifest, if available. This will help users relying on screen readers and keyboard navigation get a good overview of the contents of the manifest, as well as aid them in quickly navigating to the information they are interested in. &#x20;
 4. If you have OCR information available, display it for the user before the image in the sequence of html elements, and ideally, provide a skip link to it. This will make the content of your viewer accessible for people making use of screen readers.&#x20;
 5. Avoid hiding important features or burying them in nested menus or "more" options. Users, particularly those with cognitive or learning disabilities, need to be able to easily locate and access key functionality.&#x20;
-6. For a IIIF image viewer, ensure the following critical features are prominently displayed and accessible:
-   * Searching within the current item&#x20;
+6. Keeping common and important features prominent, rather than hidden in dropdown menus or "more" options. This will increase the chances that all users can successfully complete tasks and navigate the image viewer. Common features for our users are:
+   * Full-text searching within the current item (if available)
    * Navigating to a specific image number&#x20;
    * Image navigation buttons (e.g. previous, next)&#x20;
    * Download options&#x20;
-   * Gallery/collection view&#x20;
-7. Keeping these common and important features readily accessible, rather than hidden in dropdown menus or "more" options, will increase the chances that all users can successfully complete tasks and navigate the image viewer.&#x20;
-8. Avoid relying on tooltips to convey important information in the IIIF image viewer interface. Tooltips may not be accessible to all users, particularly those using touch-screen devices such as iPads.&#x20;
+   * Gallery/grid view&#x20;
+7. Avoid relying on tooltips to convey important information in the IIIF image viewer interface. Tooltips may not be accessible to all users, particularly those using touch-screen devices such as iPads.&#x20;
    * Many elderly individuals use tablets like the iPad as their primary computing device. For these users, tooltips that only appear on hover are not a reliable way to communicate functionality or provide context.&#x20;
    * Instead, opt for clear, visible labels to describe the purpose and actions of interface elements. This ensures all users, including those on touch-screen devices, can understand the user interface without having to rely on hover-based tooltips.&#x20;
-9. Use a combination of icon and label buttons instead of relying solely on icons. This makes the functionality clearer for all users, including those who are less technologically savvy. While icons can be visually appealing, words provide more explicit information about what each button does. Additionally, ensure that:&#x20;
+8. Use a combination of icon and label buttons instead of relying solely on icons. This makes the functionality clearer for all users, including those who are less technologically savvy. While icons can be visually appealing, words provide more explicit information about what each button does. Additionally, ensure that:&#x20;
    * Labels are written in easy-to-understand language.&#x20;
    * Place labels next to the relevant controls and ensure they are readable by assistive technologies.&#x20;
-10. Make all labels for buttons, headers, IIIF metadata, and other interface elements configurable. This is especially important for IIIF related concepts, which may use technical or domain-specific language that could be confusing for some patrons.
-    * This allows institutions to customize the descriptive data shown about their items to better suit the needs and expectations of their unique patrons.
-    * &#x20;By making labels configurable, institutions can ensure the terminology and language used aligns with what their users are familiar with.&#x20;
-    * For example, a university library may want to use more academic-focused language for their IIIF image viewer, while a public library may prefer more general, user-friendly terms.&#x20;
-11. Display the IIIF summary field prominently near the title of the IIIF manifest&#x20;
+9. Make all labels for buttons, headers, IIIF metadata, and other interface elements configurable. This is especially important for IIIF related concepts, which may use technical or domain-specific language that could be confusing for some patrons.
+   * This allows institutions to customize the descriptive data shown about their items to better suit the needs and expectations of their unique patrons.
+   * &#x20;By making labels configurable, institutions can ensure the terminology and language used aligns with what their users are familiar with.&#x20;
+   * For example, a university library may want to use more academic-focused language for their IIIF image viewer, while a public library may prefer more general, user-friendly terms.&#x20;
+10. Display the IIIF summary field prominently near the title of the IIIF manifest&#x20;
     * When creating your manifests, ensure that you add a summary that can be understood by people with a lower secondary education reading level.&#x20;
     * Emphasize key keywords and use common, everyday language in the summaries. This should help users quickly understand the purpose and content of the IIIF item.&#x20;
-12. Avoid displaying too much content - even if your IIIF items are rich in data, only display the most essential information by default. Showing too much information can create confusion and make it harder for users to find basic functionality. Busy components with too much text, imagery, and other content can cause confusion, anxiety, and loss of focus.
+11. Avoid displaying too much content - even if your IIIF items are rich in data, only display the most essential information by default. Showing too much information can create confusion and make it harder for users to find basic functionality. Busy components with too much text, imagery, and other content can cause confusion, anxiety, and loss of focus.
     * Separate additional details into other web components displayed below the image viewer.  &#x20;
     * Provide users with no more than five main choices per screen and remove unnecessary content. &#x20;
     * Consider offering a simplified version as an alternative, generated from the same codebase as the main content.&#x20;
     * Keep extra links that don't relate to the main purpose of the page confined to the footer.&#x20;
     * Separate additional details into other web components or well-defined sections using whitespace, headings, shapes, displayed below the image viewer.  &#x20;
-13. If you need to include the additional information within the image viewer itself, leverage expansion panel UI patterns to ensure efficient interaction for screen reader and keyboard users. While expansion panels can be a space-saving solution, they can also make it difficult for some users to guess the content inside. Separating information into distinct UI components is generally preferred for better accessibility.  &#x20;
+12. If you need to include the additional information within the image viewer itself, leverage expansion panel UI patterns to ensure efficient interaction for screen reader and keyboard users. While expansion panels can be a space-saving solution, they can also make it difficult for some users to guess the content inside. Separating information into distinct UI components is generally preferred for better accessibility.  &#x20;
     * Make sure to update the aria-expanded attribute as the user toggles the element open and closed.&#x20;
     * When a web page first loads, any sub-menus or expandable content should be in a collapsed state by default.&#x20;
     * Avoid relying on specific gestures or hover interactions that could be difficult for some users to figure out.&#x20;
@@ -52,28 +51,28 @@ By conducting comprehensive usability and accessibility research on Mirador view
     * Use consistent UI patterns to signal the presence of hidden content, such as:&#x20;
       * A "+" symbol to indicate expandable content&#x20;
       * Triangles next to sub-menu items&#x20;
-14. Offer a search function to allow users to directly locate and skip-to the desired information or function in the viewer, bypassing the need to navigate complex menus.&#x20;
+13. Offer a search function to allow users to directly locate and skip-to the desired information or function in the viewer, bypassing the need to navigate complex menus.&#x20;
     * Menu systems and most site navigation require the user to understand the menu categories.  In some cases, users know the correct category via memory, rather than logic.&#x20;
     * For example, most users remember that the print function is often found under the file menu. Users with impaired memory may not be able to find these menu items based on recall.&#x20;
     * Users with impaired short-term memory, age related forgetfulness, or who are easily distracted may also find navigating a site and going to many pages to look for content difficult. If it takes too long, they may lose focus and forget what they are looking for.&#x20;
-15. Maintain a stable layout, avoiding unexpected shifts in the user interface. For larger screens, the side navigation menu should remain open and visible, maintaining a consistent layout. This ensures users can easily access the menu options without any disruptive content shifts. Alternatively, if the side menu is designed to be collapsible, it should overlay the image content rather than shifting the image display when toggled. This preserves the user's context and prevents the focus (the image) from being unexpectedly rearranged.&#x20;
+14. Maintain a stable layout, avoiding unexpected shifts in the user interface. For larger screens, the side navigation menu should remain open and visible, maintaining a consistent layout. This ensures users can easily access the menu options without any disruptive content shifts. Alternatively, if the side menu is designed to be collapsible, it should overlay the image content rather than shifting the image display when toggled. This preserves the user's context and prevents the focus (the image) from being unexpectedly rearranged.&#x20;
     * Sudden, unpredictable changes in the user interface can be highly disorienting, especially for users with cognitive or learning disabilities. Shifting controls, content, or layout can cause loss of focus, anxiety, and difficulty understanding or interacting with the interface.&#x20;
     * For users with slow hand-eye coordination or impaired cognitive processing, even minor unexpected shifts in the position of controls can result in inadvertent, incorrect actions. This can further compound disorientation and confusion.&#x20;
     * Some other examples of problematic unexpected changes include:&#x20;
       * Automatic launching of new windows or pop-ups, and opening of new content or features without user initiation&#x20;
       * Form submissions triggered by means other than a clearly labeled submit button&#x20;
       * Changes in selected options or navigation paths, for instance, if new content appears and pushes down the information a user is currently reading.&#x20;
-16. Do not auto-play A/V content on page load as this can be overwhelming for neurodiverse individuals.&#x20;
-17. Provide clear navigational aids, such as a table of contents and segmented content with labeled ranges, whether your manifest is a document or an audio/video recording.&#x20;
+15. Do not auto-play A/V content on page load as this can be overwhelming for neurodiverse individuals.&#x20;
+16. Provide clear navigational aids, such as a table of contents and segmented content with labeled ranges, whether your manifest is a document or an audio/video recording.&#x20;
     * For print materials, the table of contents should list the major headings and subheadings, allowing users to quickly jump to the relevant sections. This is particularly helpful for users with attention or cognitive impairments, as they can easily return to a specific point in the document if they become distracted or lose their place.&#x20;
     * For A/V content, the table of contents should provide links or markers to different segments or "chapters" within the media. This allows users to easily navigate to the specific part of the audio or video they want to access, rather than having to scrub through the entire timeline. Aim for segments that are 6 minutes or less in duration, to accommodate neurodiverse users.&#x20;
     * If a transcript is available for the A/V content, it should be easily accessible and navigable, mirroring the structure of the segmented media. This allows users to switch between the audio/video and the textual representation, providing greater accessibility and flexibility.&#x20;
-18. Pay special attention to the following ARIA best practices to best support individuals using screen readers.&#x20;
+17. Pay special attention to the following ARIA best practices to best support individuals using screen readers.&#x20;
     * Ensure all interactable elements include [aria labels](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label) for screen readers.&#x20;
     * Screen readers create dynamically generated summary of the page. Take advantage of [ARIA Landmark Roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/landmark\_role) to create 'skip links' especially designed for users who are relying on screen readers.&#x20;
     * Make use of an aria-live attribute is set on an empty element. When an update to the page occurs, the empty element with that aria-live attribute should be updated with a brief announcement informing the user an update has been made.&#x20;
     * When creating table of contents, hierarchical displays and menus etc. make sure you implement [aria levels](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-level) for people making use of screen readers.&#x20;
-19. Build in customization options. Prominently display a "Customize" button or link, making it easily accessible from the main interface. Many neurodiverse individuals can experience sensory sensitivities that can be overwhelming in certain environments. Some people also have visual differences, such as color blindness and low vision, which can cause them to need a different-than-standard theme. &#x20;
+18. Build in customization options. Prominently display a "Customize" button or link, making it easily accessible from the main interface. Many neurodiverse individuals can experience sensory sensitivities that can be overwhelming in certain environments. Some people also have visual differences, such as color blindness and low vision, which can cause them to need a different-than-standard theme. &#x20;
     * Sensory friendly settings would include:&#x20;
       * Neutral, muted color palettes rather than bright, saturated shades.&#x20;
       * No harsh contrasts and busy patterns that can be visually overwhelming.&#x20;
