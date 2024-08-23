@@ -406,7 +406,7 @@ For discovery of pain-points, it was found that the analysis of screen recording
 
 One enhancement that could be made to future studies is putting an emphasis on staying on-task during the usability test, to ensure automated heat maps and KPIs remain more useful for analysis.
 
-This version of the CRKN Mirador viewer will be included in open beta testing of our new access platform as we head into Q4 of 2024. Further feedback will be gathered from end users and stakeholders via this open beta testing.
+This version of the CRKN Mirador viewer will be included in open beta testing of our new access platform as we head into Q4 of 2024. Further feedback will be gathered from end users and stakeholders via this open beta testing. CRKN will also work towards ensuring the full suite of recommendations outlined are implemented in our viewer.
 
 ### Community Participation
 
@@ -414,8 +414,6 @@ GLAMs are known for their digital innovation, yet many, especially smaller insti
 
 Through the Mirador Community Calls, CRKN presented the findings of our accessibility and usability tests to the Mirador Group. This group included people from Harvard, Stanford, NYU, Universität Leipzig and more. Since CRKN tested Mirador version 3, there was some discussion about how to confirm that the issues we opened would still be relevant in version 4, with NYU volunteering to verify the issues are still present in Mirador version 4. The Mirador repository also included additional UX and Accessibility issues that were not created by CRKN as a result of this study.
 
-To address the issues created by CRKN as well as existing issues, an 'Accessibility + UX' project was created on GitHub. CRKN has also received access to contribute to Mirador Base code on GitHub.
+To address the issues created by CRKN as well as existing issues, an ['Accessibility + UX' project](https://github.com/orgs/ProjectMirador/projects/4/views/1) was created on GitHub. CRKN has also received access to contribute to Mirador Base code on GitHub.
 
-{% @github-files/github-code-block url="https://github.com/orgs/ProjectMirador/projects/4/views/1" %}
-
-CRKN and NYU are processing the related issues into actionable development tickets, and populating the project. Development time will be alloted to the issues within the project upon final release of Mirador version 4.
+CRKN and NYU are processing the related issues into actionable development tickets, and populating the project. Development time will be allotted to the issues within the project upon final release of Mirador version 4.
