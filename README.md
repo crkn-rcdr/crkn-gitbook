@@ -10,7 +10,7 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <details>
 
-<summary>Pay special attention to the following ARIA best practices to best support individuals using screen readers. </summary>
+<summary>Pay special attention to the following ARIA best practices to best support individuals using screen readers. Including aria-live for announcing changes made to the UI while using the viewer.</summary>
 
 * Ensure all interactable elements include [aria labels](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label) for screen readers.&#x20;
 * Screen readers create dynamically generated summary of the page. Take advantage of [ARIA Landmark Roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/landmark\_role) to create 'skip links' especially designed for users who are relying on screen readers.&#x20;
