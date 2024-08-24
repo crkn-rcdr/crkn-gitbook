@@ -73,7 +73,7 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <details>
 
-<summary>Avoid relying on tooltips to convey information</summary>
+<summary>Avoid relying on tooltips to convey information.</summary>
 
 * Tooltips may not be accessible to all users, particularly those using touch-screen devices such as iPads.
 * Many elderly individuals use tablets like the iPad as their primary computing device. For these users, tooltips that only appear on hover are not a reliable way to communicate functionality or provide context.&#x20;
@@ -111,10 +111,11 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <details>
 
-<summary>Display the IIIF summary field prominently near the title of the IIIF manifest </summary>
+<summary>Display the IIIF summary field prominently near the title of the IIIF manifest.</summary>
 
+* This should help users quickly understand the purpose and content of the IIIF item.&#x20;
 * When creating your manifests, ensure that you add a summary that can be understood by people with a lower secondary education reading level.&#x20;
-* Emphasize key keywords and use common, everyday language in the summaries. This should help users quickly understand the purpose and content of the IIIF item.&#x20;
+* Emphasize key keywords and use common, everyday language in the summaries.&#x20;
 
 </details>
 
