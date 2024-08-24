@@ -10,6 +10,19 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <details>
 
+<summary>Pay special attention to the following ARIA best practices to best support individuals using screen readers. </summary>
+
+* Ensure all interactable elements include [aria labels](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label) for screen readers.&#x20;
+* Screen readers create dynamically generated summary of the page. Take advantage of [ARIA Landmark Roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/landmark\_role) to create 'skip links' especially designed for users who are relying on screen readers.&#x20;
+* Make use of an aria-live attribute is set on an empty element. When an update to the page occurs, the empty element with that aria-live attribute should be updated with a brief announcement informing the user an update has been made.&#x20;
+* When creating table of contents, hierarchical displays and menus etc. make sure you implement [aria levels](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-level) for people making use of screen readers.&#x20;
+
+</details>
+
+
+
+<details>
+
 <summary>Avoid displaying a long list of images before other functionality, because this can be problematic for users who navigate using a screen reader or keyboard tabbing. </summary>
 
 * These users would have to listen to or tab through the entire manifest content before being able to interact with other features of the viewer.&#x20;
@@ -36,7 +49,19 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <details>
 
-<summary>Provide a skip link to the table of contents (ranges) of a manifest, if available. </summary>
+<summary>Provide clear navigational aids, such as a table of contents and segmented content using ranges in your IIIF manifests, whether your manifest is a document or an audio/video recording.</summary>
+
+* For print materials, the table of contents should list the major headings and subheadings, allowing users to quickly jump to the relevant sections. This is particularly helpful for users with attention or cognitive impairments, as they can easily return to a specific point in the document if they become distracted or lose their place.&#x20;
+* For A/V content, the table of contents should provide links or markers to different segments or "chapters" within the media. This allows users to easily navigate to the specific part of the audio or video they want to access, rather than having to scrub through the entire timeline. Aim for segments that are 6 minutes or less in duration, to accommodate neurodiverse users.&#x20;
+* If a transcript is available for the A/V content, it should be easily accessible and navigable, mirroring the structure of the segmented media. This allows users to switch between the audio/video and the textual representation, providing greater accessibility and flexibility.&#x20;
+
+</details>
+
+
+
+<details>
+
+<summary>Provide a skip link to the table of contents and segmented content (ranges) of a manifest. </summary>
 
 * This will help users relying on screen readers and keyboard navigation get a good overview of the contents of the manifest, as well as aid them in quickly navigating to the information they are interested in. &#x20;
 
@@ -111,6 +136,33 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <details>
 
+<summary>Build in customization options for various display settings.</summary>
+
+* Prominently display a "Customize" button or link, making it easily accessible from the main interface. &#x20;
+  * Sensory friendly settings would include:&#x20;
+    * Neutral, muted color palettes rather than bright, saturated shades.&#x20;
+    * No harsh contrasts and busy patterns that can be visually overwhelming.&#x20;
+    * Clean, simple, sans-serif font styles.&#x20;
+    * Minimize the use of animations, transitions, or other dynamic elements.&#x20;
+    * Allow users to adjust spacing to their comfort level.&#x20;
+    * Do not auto-play A/V content on page load as this can be overwhelming for neurodiverse individuals.&#x20;
+  * For color blindness:  &#x20;
+    * Configure high-contrast themes targeted for the various forms of color blindness.&#x20;
+  * For people with low vision:&#x20;
+    * Allow users to adjust font sizes.&#x20;
+    * Allow them to adjust the weight of the font.&#x20;
+  * For people with dyslexia:&#x20;
+    * Allow configure the letter spacing, which will help them differentiate between letters.&#x20;
+  * For people with dyscalculia:&#x20;
+    * Avoid using symbolic representations of numbers, e.g. use the word ‘nine’ instead of ‘9.’&#x20;
+    * Do not use percentage signs to indicate progression of how many pages were read or how far someone is in a video, but rather use indicator bars like ‘YouTube’ videos.&#x20;
+
+</details>
+
+
+
+<details>
+
 <summary>Display the IIIF summary field prominently near the title of the IIIF manifest.</summary>
 
 * This should help users quickly understand the purpose and content of the IIIF item.&#x20;
@@ -155,7 +207,7 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <details>
 
-<summary>Offer a search function to allow users to directly locate and skip-to the desired information or function in the viewer, bypassing the need to navigate complex menus.</summary>
+<summary>Offer a search function to allow users to directly locate and skip-to the desired information or function in the viewer, bypassing the need to navigate many context menus.</summary>
 
 * Menu systems and most site navigation require the user to understand the menu categories.  In some cases, users know the correct category via memory, rather than logic. For example, most users remember that the print function is often found under the file menu. Users with impaired memory may not be able to find these menu items based on recall.&#x20;
 * Users with impaired short-term memory, age related forgetfulness, or who are easily distracted may also find navigating a site and going to many pages to look for content difficult. If it takes too long, they may lose focus and forget what they are looking for.&#x20;
@@ -179,58 +231,6 @@ By conducting comprehensive usability and accessibility research on Mirador view
   * Automatic launching of new windows or pop-ups, and opening of new content or features without user initiation&#x20;
   * Form submissions triggered by means other than a clearly labeled submit button&#x20;
   * Changes in selected options or navigation paths, for instance, if new content appears and pushes down the information a user is currently reading.&#x20;
-
-</details>
-
-
-
-<details>
-
-<summary>Provide clear navigational aids, such as a table of contents and segmented content with labeled ranges, whether your manifest is a document or an audio/video recording.</summary>
-
-* For print materials, the table of contents should list the major headings and subheadings, allowing users to quickly jump to the relevant sections. This is particularly helpful for users with attention or cognitive impairments, as they can easily return to a specific point in the document if they become distracted or lose their place.&#x20;
-* For A/V content, the table of contents should provide links or markers to different segments or "chapters" within the media. This allows users to easily navigate to the specific part of the audio or video they want to access, rather than having to scrub through the entire timeline. Aim for segments that are 6 minutes or less in duration, to accommodate neurodiverse users.&#x20;
-* If a transcript is available for the A/V content, it should be easily accessible and navigable, mirroring the structure of the segmented media. This allows users to switch between the audio/video and the textual representation, providing greater accessibility and flexibility.&#x20;
-
-</details>
-
-
-
-<details>
-
-<summary>Pay special attention to the following ARIA best practices to best support individuals using screen readers. </summary>
-
-* Ensure all interactable elements include [aria labels](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label) for screen readers.&#x20;
-* Screen readers create dynamically generated summary of the page. Take advantage of [ARIA Landmark Roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/landmark\_role) to create 'skip links' especially designed for users who are relying on screen readers.&#x20;
-* Make use of an aria-live attribute is set on an empty element. When an update to the page occurs, the empty element with that aria-live attribute should be updated with a brief announcement informing the user an update has been made.&#x20;
-* When creating table of contents, hierarchical displays and menus etc. make sure you implement [aria levels](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-level) for people making use of screen readers.&#x20;
-
-</details>
-
-
-
-<details>
-
-<summary>Build in customization options.</summary>
-
-* Prominently display a "Customize" button or link, making it easily accessible from the main interface. &#x20;
-  * Sensory friendly settings would include:&#x20;
-    * Neutral, muted color palettes rather than bright, saturated shades.&#x20;
-    * No harsh contrasts and busy patterns that can be visually overwhelming.&#x20;
-    * Clean, simple, sans-serif font styles.&#x20;
-    * Minimize the use of animations, transitions, or other dynamic elements.&#x20;
-    * Allow users to adjust spacing to their comfort level.&#x20;
-    * Do not auto-play A/V content on page load as this can be overwhelming for neurodiverse individuals.&#x20;
-  * For color blindness:  &#x20;
-    * Configure high-contrast themes targeted for the various forms of color blindness.&#x20;
-  * For people with low vision:&#x20;
-    * Allow users to adjust font sizes.&#x20;
-    * Allow them to adjust the weight of the font.&#x20;
-  * For people with dyslexia:&#x20;
-    * Allow configure the letter spacing, which will help them differentiate between letters.&#x20;
-  * For people with dyscalculia:&#x20;
-    * Avoid using symbolic representations of numbers, e.g. use the word ‘nine’ instead of ‘9.’&#x20;
-    * Do not use percentage signs to indicate progression of how many pages were read or how far someone is in a video, but rather use indicator bars like ‘YouTube’ videos.&#x20;
 
 </details>
 
