@@ -61,7 +61,7 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <details>
 
-<summary>Provide a skip link to the table of contents and segmented content (ranges) of a manifest. </summary>
+<summary>Provide a skip link to the table of contents and segmented content (ranges) of a manifest close to the start of the page, but after the manifest title. </summary>
 
 * This will help users relying on screen readers and keyboard navigation get a good overview of the contents of the manifest, as well as aid them in quickly navigating to the information they are interested in. &#x20;
 
