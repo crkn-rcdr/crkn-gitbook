@@ -554,7 +554,7 @@ One enhancement that could be made to future studies is putting an emphasis on s
 
 This version of the CRKN Mirador viewer will be included in open beta testing of our new access platform as we head into Q4 of 2024. Further feedback will be gathered from end users and stakeholders via this open beta testing. CRKN will also work towards ensuring the full suite of recommendations outlined are implemented in our viewer.
 
-### Community Participation
+## Community Participation
 
 GLAMs are known for their digital innovation, yet many, especially smaller institutions, face challenges in making their online services user friendly and accessible because of limited budgets, resources, and in-house expertise.  Pooling our resources and expertise to enhance the accessibility and UX of IIIF software will make it easier for all users to explore our digital collections. Advocacy for accessibility and UX within the community is another important factor that will lead to the prioritization of much needed enhancements.
 
