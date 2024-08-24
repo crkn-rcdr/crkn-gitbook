@@ -17,7 +17,7 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
-***
+
 
 <details>
 
@@ -32,6 +32,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
+
+
 <details>
 
 <summary>Provide a skip link to the table of contents (ranges) of a manifest, if available. </summary>
@@ -39,6 +41,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 * This will help users relying on screen readers and keyboard navigation get a good overview of the contents of the manifest, as well as aid them in quickly navigating to the information they are interested in. &#x20;
 
 </details>
+
+
 
 <details>
 
@@ -49,6 +53,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 * Ideally for images and other media, alternative textual descriptions would be given.
 
 </details>
+
+
 
 <details>
 
@@ -63,6 +69,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
+
+
 <details>
 
 <summary>Avoid relying on tooltips to convey information.</summary>
@@ -72,6 +80,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 * Instead, opt for clear, visible labels to describe the purpose and actions of interface elements. This ensures all users, including those on touch-screen devices, can understand the user interface without having to rely on hover-based tooltips.&#x20;
 
 </details>
+
+
 
 <details>
 
@@ -84,6 +94,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
+
+
 <details>
 
 <summary>Make all labels for buttons, headers, IIIF metadata, and other interface elements configurable. </summary>
@@ -95,6 +107,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
+
+
 <details>
 
 <summary>Display the IIIF summary field prominently near the title of the IIIF manifest.</summary>
@@ -104,6 +118,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 * Emphasize key keywords and use common, everyday language in the summaries.&#x20;
 
 </details>
+
+
 
 <details>
 
@@ -116,6 +132,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
   * Keep extra links that don't relate to the main purpose of the viewer confined to the footer.&#x20;
 
 </details>
+
+
 
 <details>
 
@@ -133,6 +151,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
+
+
 <details>
 
 <summary>Offer a search function to allow users to directly locate and skip-to the desired information or function in the viewer, bypassing the need to navigate complex menus.</summary>
@@ -141,6 +161,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 * Users with impaired short-term memory, age related forgetfulness, or who are easily distracted may also find navigating a site and going to many pages to look for content difficult. If it takes too long, they may lose focus and forget what they are looking for.&#x20;
 
 </details>
+
+
 
 <details>
 
@@ -160,6 +182,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
+
+
 <details>
 
 <summary>Provide clear navigational aids, such as a table of contents and segmented content with labeled ranges, whether your manifest is a document or an audio/video recording.</summary>
@@ -169,6 +193,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 * If a transcript is available for the A/V content, it should be easily accessible and navigable, mirroring the structure of the segmented media. This allows users to switch between the audio/video and the textual representation, providing greater accessibility and flexibility.&#x20;
 
 </details>
+
+
 
 <details>
 
@@ -180,6 +206,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 * When creating table of contents, hierarchical displays and menus etc. make sure you implement [aria levels](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-level) for people making use of screen readers.&#x20;
 
 </details>
+
+
 
 <details>
 
@@ -205,6 +233,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
     * Do not use percentage signs to indicate progression of how many pages were read or how far someone is in a video, but rather use indicator bars like ‘YouTube’ videos.&#x20;
 
 </details>
+
+
 
 ## Supporting Research
 
