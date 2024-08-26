@@ -14,7 +14,7 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 * Ensure all interactable elements include [aria labels](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label) for screen readers.&#x20;
 * Screen readers create dynamically generated summary of the page. Take advantage of [ARIA Landmark Roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/landmark\_role) to create 'skip links' especially designed for users who are relying on screen readers.&#x20;
-* Make use of an aria-live attribute is set on an empty element. When an update to the page occurs, the empty element with that aria-live attribute should be updated with a brief announcement informing the user an update has been made.&#x20;
+* Make use of an [aria-live](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA\_Live\_Regions) attribute is set on an empty element. When an update to the page occurs, the empty element with that aria-live attribute should be updated with a brief announcement informing the user an update has been made. The polite setting is ideal.&#x20;
 * When creating table of contents, hierarchical displays and menus etc. make sure you implement [aria levels](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-level) for people making use of screen readers.&#x20;
 
 </details>
