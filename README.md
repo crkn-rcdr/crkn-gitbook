@@ -98,13 +98,19 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <details>
 
-<summary>Avoid relying on tooltips to convey information.</summary>
+<summary>Avoid relying on tooltips to convey information. Use alternative UI patterns such as guided tours to teach users your viewer's functionality.</summary>
 
 * Tooltips may not be accessible to all users, particularly those using touch-screen devices such as iPads.
 * Many elderly individuals use tablets like the iPad as their primary computing device. For these users, tooltips that only appear on hover are not a reliable way to communicate functionality or provide context.&#x20;
-* Instead, opt for clear, visible labels to describe the purpose and actions of interface elements. This ensures all users, including those on touch-screen devices, can understand the user interface without having to rely on hover-based tooltips.&#x20;
+* Instead, here are some alternative suggestions:&#x20;
+  * Opt for clear, visible labels to describe the purpose and actions of interface elements. This ensures all users, including those on touch-screen devices, can understand the user interface without having to rely on hover-based tooltips.&#x20;
+  * You can start by creating a good design for touch screens, and then adapting it to desktop. Adopting a mobile-first or tablet-first design approach will help you design user interfaces which are catered to these devices restrictions rather than relying on mouse interactions, and avoid the need for a completely different UI for desktop vs mobile.
+  * Implement [a guided-tour](https://www.pendo.io/pendo-blog/how-to-create-in-app-onboarding-to-delight-your-mobile-users/) for first time users, and have a quick launch of the guided tour under a help menu, for returning users who need a refresh. This will help them learn what the various icons mean, without needing to rely on tooltips. For users with memory challenges, an easy way to re-launch this tour  will be important.
+  * Consider providing a single link that opens a modal or panel with a listing of the labels and what each means, like a glossary.
 
 </details>
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>See '<a href="https://www.pendo.io/pendo-blog/how-to-create-in-app-onboarding-to-delight-your-mobile-users/">Pendo</a>'</p></figcaption></figure>
 
 
 
@@ -118,6 +124,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
   * Place labels next to the relevant controls and ensure they are readable by assistive technologies.&#x20;
 
 </details>
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>See '<a href="https://adamsilver.io/blog/the-problem-with-tooltips-and-what-to-do-instead/">Adam Silver</a>'</p></figcaption></figure>
 
 
 
