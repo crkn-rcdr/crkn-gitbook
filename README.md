@@ -79,7 +79,7 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>See '<a href="https://trove.nla.gov.au/">Trove</a>'</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>See '<a href="https://trove.nla.gov.au/">Trove</a>'</p></figcaption></figure>
 
 
 
@@ -112,7 +112,7 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>See '<a href="https://www.pendo.io/pendo-blog/how-to-create-in-app-onboarding-to-delight-your-mobile-users/">Pendo</a>'</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>See '<a href="https://www.pendo.io/pendo-blog/how-to-create-in-app-onboarding-to-delight-your-mobile-users/">Pendo</a>'</p></figcaption></figure>
 
 
 
@@ -127,7 +127,7 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>See '<a href="https://adamsilver.io/blog/the-problem-with-tooltips-and-what-to-do-instead/">Adam Silver</a>'</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>See '<a href="https://adamsilver.io/blog/the-problem-with-tooltips-and-what-to-do-instead/">Adam Silver</a>'</p></figcaption></figure>
 
 
 
@@ -139,33 +139,6 @@ By conducting comprehensive usability and accessibility research on Mirador view
 * This allows institutions to customize the descriptive data shown about their items to better suit the needs and expectations of their unique patrons.
 * By making labels configurable, institutions can ensure the terminology and language used aligns with what their users are familiar with.
 * For example, a university library may want to use more academic-focused language for their IIIF image viewer, while a public library may prefer more general, user-friendly terms.&#x20;
-
-</details>
-
-
-
-<details>
-
-<summary>Build in customization options for various display settings.</summary>
-
-* Prominently display a "Customize" button or link, making it easily accessible from the main interface. &#x20;
-  * Sensory friendly settings would include:&#x20;
-    * Neutral, muted color palettes rather than bright, saturated shades.&#x20;
-    * No harsh contrasts and busy patterns that can be visually overwhelming.&#x20;
-    * Clean, simple, sans-serif font styles.&#x20;
-    * Minimize the use of animations, transitions, or other dynamic elements.&#x20;
-    * Allow users to adjust spacing to their comfort level.&#x20;
-    * Do not auto-play A/V content on page load as this can be overwhelming for neurodiverse individuals.&#x20;
-  * For color blindness:  &#x20;
-    * Configure high-contrast themes targeted for the various forms of color blindness.&#x20;
-  * For people with low vision:&#x20;
-    * Allow users to adjust font sizes.&#x20;
-    * Allow them to adjust the weight of the font.&#x20;
-  * For people with dyslexia:&#x20;
-    * Allow configure the letter spacing, which will help them differentiate between letters.&#x20;
-  * For people with dyscalculia:&#x20;
-    * Avoid using symbolic representations of numbers, e.g. use the word ‘nine’ instead of ‘9.’&#x20;
-    * Do not use percentage signs to indicate progression of how many pages were read or how far someone is in a video, but rather use indicator bars like ‘YouTube’ videos.&#x20;
 
 </details>
 
@@ -217,12 +190,17 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <details>
 
-<summary>Offer a search function to allow users to directly locate and skip-to the desired information or function in the viewer, bypassing the need to navigate many context menus.</summary>
+<summary>Offer a search function to allow users to directly locate and skip-to the desired information in the viewer bypassing the need to navigate many context menus.</summary>
 
+* For example, allow users to search all of the data including metadata in a manifest
 * Menu systems and most site navigation require the user to understand the menu categories.  In some cases, users know the correct category via memory, rather than logic. For example, most users remember that the print function is often found under the file menu. Users with impaired memory may not be able to find these menu items based on recall.&#x20;
 * Users with impaired short-term memory, age related forgetfulness, or who are easily distracted may also find navigating a site and going to many pages to look for content difficult. If it takes too long, they may lose focus and forget what they are looking for.&#x20;
 
 </details>
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -241,6 +219,33 @@ By conducting comprehensive usability and accessibility research on Mirador view
   * Automatic launching of new windows or pop-ups, and opening of new content or features without user initiation&#x20;
   * Form submissions triggered by means other than a clearly labeled submit button&#x20;
   * Changes in selected options or navigation paths, for instance, if new content appears and pushes down the information a user is currently reading.&#x20;
+
+</details>
+
+
+
+<details>
+
+<summary>Build in customization options for various display settings.</summary>
+
+* Prominently display a "Customize" button or link, making it easily accessible from the main interface. &#x20;
+  * Sensory friendly settings would include:&#x20;
+    * Neutral, muted color palettes rather than bright, saturated shades.&#x20;
+    * No harsh contrasts and busy patterns that can be visually overwhelming.&#x20;
+    * Clean, simple, sans-serif font styles.&#x20;
+    * Minimize the use of animations, transitions, or other dynamic elements.&#x20;
+    * Allow users to adjust spacing to their comfort level.&#x20;
+    * Do not auto-play A/V content on page load as this can be overwhelming for neurodiverse individuals.&#x20;
+  * For color blindness:  &#x20;
+    * Configure high-contrast themes targeted for the various forms of color blindness.&#x20;
+  * For people with low vision:&#x20;
+    * Allow users to adjust font sizes.&#x20;
+    * Allow them to adjust the weight of the font.&#x20;
+  * For people with dyslexia:&#x20;
+    * Allow configure the letter spacing, which will help them differentiate between letters.&#x20;
+  * For people with dyscalculia:&#x20;
+    * Avoid using symbolic representations of numbers, e.g. use the word ‘nine’ instead of ‘9.’&#x20;
+    * Do not use percentage signs to indicate progression of how many pages were read or how far someone is in a video, but rather use indicator bars like ‘YouTube’ videos.&#x20;
 
 </details>
 
