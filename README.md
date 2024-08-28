@@ -10,12 +10,103 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <details>
 
+<summary>Build in customization options for various display settings.</summary>
+
+* <mark style="color:purple;">Take advantage of global settings already set by the user, and 'media queries' such as prefers contrast and forced colors in your style sheets to set defaults for users that need different color schemes.</mark>
+  * [<mark style="color:purple;">https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-contrast</mark>](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-contrast)
+  * [<mark style="color:purple;">https://developer.mozilla.org/en-US/docs/Web/CSS/@media/forced-colors</mark>](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/forced-colors)
+* Prominently display a "Customize" button or link, making it easily accessible from the main interface. &#x20;
+  * Sensory friendly settings would include:&#x20;
+    * Neutral, muted color palettes rather than bright, saturated shades.&#x20;
+    * No harsh contrasts and busy patterns that can be visually overwhelming.&#x20;
+    * Clean, simple, sans-serif font styles.&#x20;
+    * Minimize the use of animations, transitions, or other dynamic elements.&#x20;
+    * Allow users to adjust spacing to their comfort level.&#x20;
+    * Do not auto-play A/V content on page load as this can be overwhelming for neurodiverse individuals.&#x20;
+  * For color blindness:  &#x20;
+    * Configure high-contrast themes targeted for the various forms of color blindness.&#x20;
+  * For people with low vision:&#x20;
+    * Allow users to adjust font sizes.&#x20;
+    * Allow them to adjust the weight of the font.&#x20;
+  * For people with dyslexia:&#x20;
+    * Allow configure the letter spacing, which will help them differentiate between letters.&#x20;
+  * For people with dyscalculia:&#x20;
+    * Avoid using symbolic representations of numbers, e.g. use the word ‘nine’ instead of ‘9.’&#x20;
+    * Do not use percentage signs to indicate progression of how many pages were read or how far someone is in a video, but rather use indicator bars like ‘YouTube’ videos.&#x20;
+
+</details>
+
+<details>
+
+<summary>Avoid displaying a long list of images before other functionality, because this can be problematic for users who navigate using a screen reader or keyboard tabbing. </summary>
+
+* These users would have to listen to or tab through the entire manifest content before being able to interact with other features of the viewer.&#x20;
+* Instead, consider:
+  * Having canvas thumbnails towards the end of the interface, in a menu that is closed by default.
+  * Providing an alternative way for users to access the list of images, such as through a selection menu. This will allow all users, including those relying on assistive technologies, to more easily access the other features and functionality of the image viewer.&#x20;
+  * <mark style="color:purple;">Ensure that with you enable up-and-down keyboard interactions with tab lists to allow users skip past, for example, a thumbnail list, in your tab list options.</mark>&#x20;
+
+</details>
+
+<details>
+
 <summary>Pay special attention to the following ARIA best practices to best support individuals using screen readers. Including aria-live passive for announcing changes made to the UI while using the viewer, and aria-live assertive for errors.</summary>
 
 * Ensure all interactable elements include [aria labels](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label) for screen readers.&#x20;
 * Screen readers create dynamically generated summary of the page. Take advantage of [ARIA Landmark Roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/landmark\_role) to create 'skip links' especially designed for users who are relying on screen readers.&#x20;
+  * <mark style="color:purple;">Adobe has created React-ARIA a wonderful library to help developers easily add ARIA features such as landmarks to their React components.</mark> [<mark style="color:purple;">Check it out here</mark>](https://react-spectrum.adobe.com/react-aria/getting-started.html)<mark style="color:purple;">!</mark>
 * Make use of an [aria-live](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA\_Live\_Regions) attribute is set on an empty element. When an update to the page occurs, the empty element with that aria-live attribute should be updated with a brief announcement informing the user an update has been made. The polite setting is ideal.&#x20;
 * When creating table of contents, hierarchical displays and menus etc. make sure you implement [aria levels](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-level) for people making use of screen readers.&#x20;
+
+</details>
+
+<details>
+
+<summary>Provide clear navigational aids, such as a table of contents and segmented content using ranges in your IIIF manifests, whether your manifest is a document or an audio/video recording.</summary>
+
+* For print materials:
+  * The table of contents should list the major headings and subheadings, allowing users to quickly jump to the relevant sections.&#x20;
+  * This is particularly helpful for users with attention or cognitive impairments, as they can easily return to a specific point in the document if they become distracted or lose their place.&#x20;
+* <mark style="color:purple;">For A/V content:</mark>
+  * <mark style="color:purple;">The table of contents should provide links or markers to different segments or "chapters" within the media. This allows users to easily navigate to the specific part of the audio or video they want to access, rather than having to scrub through the entire timeline. Aim for segments that are 6 minutes or less in duration, to accommodate neurodiverse users.</mark>&#x20;
+  * <mark style="color:purple;">If a transcript is available for the A/V content, users should be able to use them for navigation. Users should be able to click (or keypress) on a sentence navigate to the part of the video where it is spoken. This allows users to switch between the audio/video and the textual representation, providing greater accessibility and flexibility.</mark>&#x20;
+  * <mark style="color:purple;">Transcripts should also be available as full plaintext paragraphs.</mark>
+
+</details>
+
+<details>
+
+<summary>If you have OCR information available, display it for the user before the image in the sequence of html elements, and ideally, provide a skip link to it.</summary>
+
+* This will make the content of your viewer accessible for people making use of screen readers.&#x20;
+* It is highly suggested for all institutions to make OCR representations of their items available whenever possible. Otherwise, you will implicitly be providing unequal access to your materials for visually impaired patrons.
+* Ideally for images and other media, alternative textual descriptions would be given.
+* <mark style="color:purple;">Consider using aria-live="polite" to update the user on the textual representation of the content of the canvas being displayed as they navigate through the manifest.</mark>
+
+```
+<div class="image-viewer">
+  <div id="transcription" aria-live="polite" class="sr-only">
+    <!-- only visible to screen readers -->
+   </div>
+  <div id="open-seadragon" aria-describedby="transcription" role="img">
+    ...
+  </div>
+</div>
+```
+
+</details>
+
+<details>
+
+<summary>Avoid relying on tooltips to convey information. Use alternative UI patterns such as guided tours to teach users your viewer's functionality.</summary>
+
+* Tooltips may not be accessible to all users, particularly those using touch-screen devices such as iPads.
+* Many elderly individuals use tablets like the iPad as their primary computing device. For these users, tooltips that only appear on hover are not a reliable way to communicate functionality or provide context.&#x20;
+* Instead, here are some alternative suggestions:&#x20;
+  * Add clear, visible labels to describe the purpose and actions of interface elements. This ensures all users, including those on touch-screen devices, can understand the user interface without having to rely on hover-based tooltips.&#x20;
+  * <mark style="color:purple;">You can start by creating a good design for touch screens, and then adapting it to desktop. Adopting a mobile-first or tablet-first design approach will help you design user interfaces which are catered to these devices restrictions rather than relying on mouse interactions, and avoid the need for a completely different UI for desktop vs mobile.</mark>
+  * <mark style="color:purple;">Consider providing a single link that opens a modal or panel with a listing of the labels and what each means, like a glossary.</mark>
+  * <mark style="color:purple;">Implement</mark> [<mark style="color:purple;">a guided-tour</mark>](https://www.pendo.io/pendo-blog/how-to-create-in-app-onboarding-to-delight-your-mobile-users/) <mark style="color:purple;">for first time users, and have a quick launch of the guided tour under a help menu, for returning users who need a refresh. This will help them learn what the various icons mean, without needing to rely on tooltips. For users with memory challenges, an easy way to re-launch this tour  will be important.</mark>
 
 </details>
 
@@ -48,39 +139,10 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <details>
 
-<summary>Provide clear navigational aids, such as a table of contents and segmented content using ranges in your IIIF manifests, whether your manifest is a document or an audio/video recording.</summary>
+<summary>Offer skip links and/or a 'search-all' function to allow users to directly locate and skip-to the desired information in the viewer bypassing the need to navigate many context menus.</summary>
 
-* For print materials, the table of contents should list the major headings and subheadings, allowing users to quickly jump to the relevant sections. This is particularly helpful for users with attention or cognitive impairments, as they can easily return to a specific point in the document if they become distracted or lose their place.&#x20;
-* For A/V content, the table of contents should provide links or markers to different segments or "chapters" within the media. This allows users to easily navigate to the specific part of the audio or video they want to access, rather than having to scrub through the entire timeline. Aim for segments that are 6 minutes or less in duration, to accommodate neurodiverse users.&#x20;
-* If a transcript is available for the A/V content, it should be easily accessible and navigable, mirroring the structure of the segmented media. This allows users to switch between the audio/video and the textual representation, providing greater accessibility and flexibility.&#x20;
-
-</details>
-
-
-
-<details>
-
-<summary>If you have OCR information available, display it for the user before the image in the sequence of html elements, and ideally, provide a skip link to it.</summary>
-
-* This will make the content of your viewer accessible for people making use of screen readers.&#x20;
-* It is highly suggested for all institutions to make OCR representations of their items available whenever possible. Otherwise, you will implicitly be providing unequal access to your materials for visually impaired patrons.
-* Ideally for images and other media, alternative textual descriptions would be given.
-
-</details>
-
-
-
-<details>
-
-<summary>Avoid relying on tooltips to convey information. Use alternative UI patterns such as guided tours to teach users your viewer's functionality.</summary>
-
-* Tooltips may not be accessible to all users, particularly those using touch-screen devices such as iPads.
-* Many elderly individuals use tablets like the iPad as their primary computing device. For these users, tooltips that only appear on hover are not a reliable way to communicate functionality or provide context.&#x20;
-* Instead, here are some alternative suggestions:&#x20;
-  * Opt for clear, visible labels to describe the purpose and actions of interface elements. This ensures all users, including those on touch-screen devices, can understand the user interface without having to rely on hover-based tooltips.&#x20;
-  * You can start by creating a good design for touch screens, and then adapting it to desktop. Adopting a mobile-first or tablet-first design approach will help you design user interfaces which are catered to these devices restrictions rather than relying on mouse interactions, and avoid the need for a completely different UI for desktop vs mobile.
-  * Consider providing a single link that opens a modal or panel with a listing of the labels and what each means, like a glossary.
-  * Implement [a guided-tour](https://www.pendo.io/pendo-blog/how-to-create-in-app-onboarding-to-delight-your-mobile-users/) for first time users, and have a quick launch of the guided tour under a help menu, for returning users who need a refresh. This will help them learn what the various icons mean, without needing to rely on tooltips. For users with memory challenges, an easy way to re-launch this tour  will be important.
+* Menu systems and most site navigation require the user to understand the menu categories.  In some cases, users know the correct category via memory, rather than logic. For example, most users remember that the print function is often found under the file menu. Users with impaired memory may not be able to find these menu items based on recall.&#x20;
+* Users with impaired short-term memory, age related forgetfulness, or who are easily distracted may also find navigating a site and going to many pages to look for content difficult. If it takes too long, they may lose focus and forget what they are looking for.&#x20;
 
 </details>
 
@@ -101,18 +163,6 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <details>
 
-<summary>Offer skip links and/or a search box to allow users to directly locate and skip-to the desired information in the viewer bypassing the need to navigate many context menus.</summary>
-
-* For example, allow users to search all of the data including metadata in a manifest
-* Menu systems and most site navigation require the user to understand the menu categories.  In some cases, users know the correct category via memory, rather than logic. For example, most users remember that the print function is often found under the file menu. Users with impaired memory may not be able to find these menu items based on recall.&#x20;
-* Users with impaired short-term memory, age related forgetfulness, or who are easily distracted may also find navigating a site and going to many pages to look for content difficult. If it takes too long, they may lose focus and forget what they are looking for.&#x20;
-
-</details>
-
-
-
-<details>
-
 <summary>Display the IIIF summary field prominently near the title of the IIIF manifest.</summary>
 
 * This should help users quickly understand the purpose and content of the IIIF item.&#x20;
@@ -120,19 +170,6 @@ By conducting comprehensive usability and accessibility research on Mirador view
 * Emphasize key keywords and use common, everyday language in the summaries.&#x20;
 
 
-
-</details>
-
-
-
-<details>
-
-<summary>Avoid displaying a long list of images before other functionality, because this can be problematic for users who navigate using a screen reader or keyboard tabbing. </summary>
-
-* These users would have to listen to or tab through the entire manifest content before being able to interact with other features of the viewer.&#x20;
-* Instead, consider:
-  * Having canvas thumbnails towards the end of the interface, in a menu that is closed by default.
-  * Providing an alternative way for users to access the list of images, such as through a selection menu. This will allow all users, including those relying on assistive technologies, to more easily access the other features and functionality of the image viewer.&#x20;
 
 </details>
 
@@ -204,31 +241,6 @@ By conducting comprehensive usability and accessibility research on Mirador view
 </details>
 
 
-
-<details>
-
-<summary>Build in customization options for various display settings.</summary>
-
-* Prominently display a "Customize" button or link, making it easily accessible from the main interface. &#x20;
-  * Sensory friendly settings would include:&#x20;
-    * Neutral, muted color palettes rather than bright, saturated shades.&#x20;
-    * No harsh contrasts and busy patterns that can be visually overwhelming.&#x20;
-    * Clean, simple, sans-serif font styles.&#x20;
-    * Minimize the use of animations, transitions, or other dynamic elements.&#x20;
-    * Allow users to adjust spacing to their comfort level.&#x20;
-    * Do not auto-play A/V content on page load as this can be overwhelming for neurodiverse individuals.&#x20;
-  * For color blindness:  &#x20;
-    * Configure high-contrast themes targeted for the various forms of color blindness.&#x20;
-  * For people with low vision:&#x20;
-    * Allow users to adjust font sizes.&#x20;
-    * Allow them to adjust the weight of the font.&#x20;
-  * For people with dyslexia:&#x20;
-    * Allow configure the letter spacing, which will help them differentiate between letters.&#x20;
-  * For people with dyscalculia:&#x20;
-    * Avoid using symbolic representations of numbers, e.g. use the word ‘nine’ instead of ‘9.’&#x20;
-    * Do not use percentage signs to indicate progression of how many pages were read or how far someone is in a video, but rather use indicator bars like ‘YouTube’ videos.&#x20;
-
-</details>
 
 
 
