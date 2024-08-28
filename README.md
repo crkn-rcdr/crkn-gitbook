@@ -57,6 +57,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>See '<a href="https://experienceleague.adobe.com/en/docs/experience-manager-guides-learn/videos/advanced-user-guide/outline-view">Adobe User Experience</a>'</p></figcaption></figure>
+
 
 
 <details>
@@ -120,7 +122,7 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>See '<a href="https://www.pendo.io/pendo-blog/how-to-create-in-app-onboarding-to-delight-your-mobile-users/">Pendo</a>'</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>See '<a href="https://www.pendo.io/pendo-blog/how-to-create-in-app-onboarding-to-delight-your-mobile-users/">Pendo</a>'</p></figcaption></figure>
 
 
 
@@ -135,7 +137,7 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>See '<a href="https://adamsilver.io/blog/the-problem-with-tooltips-and-what-to-do-instead/">Adam Silver</a>'</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>See '<a href="https://adamsilver.io/blog/the-problem-with-tooltips-and-what-to-do-instead/">Adam Silver</a>'</p></figcaption></figure>
 
 
 
@@ -206,9 +208,9 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>See '<a href="https://github.com/elastic/kibana/issues/154347">Elastic Search</a>'</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>See '<a href="https://github.com/elastic/kibana/issues/154347">Elastic Search</a>'</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>See '<a href="https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_(English)/010Getting_Started/050Alma_User_Interface_%E2%80%93_General_Information/The_Alma_User_Interface">ExLibris</a>'</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>See '<a href="https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_(English)/010Getting_Started/050Alma_User_Interface_%E2%80%93_General_Information/The_Alma_User_Interface">ExLibris</a>'</p></figcaption></figure>
 
 
 
