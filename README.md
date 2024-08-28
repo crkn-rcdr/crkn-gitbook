@@ -10,7 +10,7 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <details>
 
-<summary>Pay special attention to the following ARIA best practices to best support individuals using screen readers. Including aria-live for announcing changes made to the UI while using the viewer.</summary>
+<summary>Pay special attention to the following ARIA best practices to best support individuals using screen readers. Including aria-live passive for announcing changes made to the UI while using the viewer, and aria-live assertive for errors.</summary>
 
 * Ensure all interactable elements include [aria labels](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label) for screen readers.&#x20;
 * Screen readers create dynamically generated summary of the page. Take advantage of [ARIA Landmark Roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/landmark\_role) to create 'skip links' especially designed for users who are relying on screen readers.&#x20;
@@ -19,6 +19,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption><p>See '<a href="https://web.dev/articles/hiding-and-updating-content">Web.dev</a>'</p></figcaption></figure>
+
 
 
 <details>
@@ -26,7 +28,9 @@ By conducting comprehensive usability and accessibility research on Mirador view
 <summary>Avoid displaying a long list of images before other functionality, because this can be problematic for users who navigate using a screen reader or keyboard tabbing. </summary>
 
 * These users would have to listen to or tab through the entire manifest content before being able to interact with other features of the viewer.&#x20;
-* Instead, consider providing an alternative way for users to access the list of images, such as through a selection menu. This will allow all users, including those relying on assistive technologies, to more easily access the other features and functionality of the image viewer.&#x20;
+* Instead, consider:
+  * Having canvas thumbnails towards the end of the interface, in a menu that is closed by default.
+  * Providing an alternative way for users to access the list of images, such as through a selection menu. This will allow all users, including those relying on assistive technologies, to more easily access the other features and functionality of the image viewer.&#x20;
 
 </details>
 
@@ -45,6 +49,16 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
+<details>
+
+<summary>Provide a skip link to the table of contents and segmented content (ranges) of a manifest close to the start of the page, but after the manifest title. </summary>
+
+* This will help users relying on screen readers and keyboard navigation get a good overview of the contents of the manifest, as well as aid them in quickly navigating to the information they are interested in. &#x20;
+
+</details>
+
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption><p>See '<a href="https://uxmovement.com/navigation/why-motor-impaired-users-need-skip-links/">UX Movement</a>'</p></figcaption></figure>
+
 
 
 <details>
@@ -57,17 +71,7 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>See '<a href="https://experienceleague.adobe.com/en/docs/experience-manager-guides-learn/videos/advanced-user-guide/outline-view">Adobe User Experience</a>'</p></figcaption></figure>
-
-
-
-<details>
-
-<summary>Provide a skip link to the table of contents and segmented content (ranges) of a manifest close to the start of the page, but after the manifest title. </summary>
-
-* This will help users relying on screen readers and keyboard navigation get a good overview of the contents of the manifest, as well as aid them in quickly navigating to the information they are interested in. &#x20;
-
-</details>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>See '<a href="https://tex.stackexchange.com/questions/106112/displaying-sections-in-table-of-contents-side-bar-of-pdf-viewer">LaTex</a>'</p></figcaption></figure>
 
 
 
@@ -90,21 +94,6 @@ By conducting comprehensive usability and accessibility research on Mirador view
 </details>
 
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>See '<a href="https://trove.nla.gov.au/">Trove</a>'</p></figcaption></figure>
-
-
-
-<details>
-
-<summary>Avoid hiding important features or burying them in nested menus or "more" options. </summary>
-
-* Keeping common and important features prominent, rather than hidden in dropdown menus or "more" options. This will increase the chances that all users can successfully complete tasks and navigate the image viewer.&#x20;
-* Common features for our users are:
-  * Full-text searching within the current item (if available)
-  * Important navigation options
-  * Download options&#x20;
-  * Gallery/grid view&#x20;
-
-</details>
 
 
 
@@ -143,14 +132,17 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <details>
 
-<summary>Make all labels for buttons, headers, IIIF metadata, and other interface elements configurable. </summary>
+<summary>Offer a search function to allow users to directly locate and skip-to the desired information in the viewer bypassing the need to navigate many context menus.</summary>
 
-* This is especially important for IIIF related concepts, which may use technical or domain-specific language that could be confusing for some patrons.
-* This allows institutions to customize the descriptive data shown about their items to better suit the needs and expectations of their unique patrons.
-* By making labels configurable, institutions can ensure the terminology and language used aligns with what their users are familiar with.
-* For example, a university library may want to use more academic-focused language for their IIIF image viewer, while a public library may prefer more general, user-friendly terms.&#x20;
+* For example, allow users to search all of the data including metadata in a manifest
+* Menu systems and most site navigation require the user to understand the menu categories.  In some cases, users know the correct category via memory, rather than logic. For example, most users remember that the print function is often found under the file menu. Users with impaired memory may not be able to find these menu items based on recall.&#x20;
+* Users with impaired short-term memory, age related forgetfulness, or who are easily distracted may also find navigating a site and going to many pages to look for content difficult. If it takes too long, they may lose focus and forget what they are looking for.&#x20;
 
 </details>
+
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>See '<a href="https://github.com/elastic/kibana/issues/154347">Elastic Search</a>'</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>See '<a href="https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_(English)/010Getting_Started/050Alma_User_Interface_%E2%80%93_General_Information/The_Alma_User_Interface">ExLibris</a>'</p></figcaption></figure>
 
 
 
@@ -168,7 +160,7 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <details>
 
-<summary>Avoid displaying too much content - even if your IIIF items are rich in data, only display the most essential information by default. </summary>
+<summary>Avoid displaying too much content at once on the screen. Even if your IIIF items are rich in data, only display the most essential information by default. </summary>
 
 * Showing too much information can create confusion and make it harder for users to find basic functionality. Busy components with too much text, imagery, and other content can cause confusion, anxiety, and loss of focus.
 * Some alternative strategies you can employ include: &#x20;
@@ -177,8 +169,6 @@ By conducting comprehensive usability and accessibility research on Mirador view
   * Keep extra links that don't relate to the main purpose of the viewer confined to the footer.&#x20;
 
 </details>
-
-
 
 <details>
 
@@ -200,17 +190,16 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <details>
 
-<summary>Offer a search function to allow users to directly locate and skip-to the desired information in the viewer bypassing the need to navigate many context menus.</summary>
+<summary>Avoid hiding important features or burying them in nested menus or "more" options. </summary>
 
-* For example, allow users to search all of the data including metadata in a manifest
-* Menu systems and most site navigation require the user to understand the menu categories.  In some cases, users know the correct category via memory, rather than logic. For example, most users remember that the print function is often found under the file menu. Users with impaired memory may not be able to find these menu items based on recall.&#x20;
-* Users with impaired short-term memory, age related forgetfulness, or who are easily distracted may also find navigating a site and going to many pages to look for content difficult. If it takes too long, they may lose focus and forget what they are looking for.&#x20;
+* Keeping common and important features prominent, rather than hidden in dropdown menus or "more" options. This will increase the chances that all users can successfully complete tasks and navigate the image viewer.&#x20;
+* Common features for our users are:
+  * Full-text searching within the current item (if available)
+  * Important navigation options
+  * Download options&#x20;
+  * Gallery/grid view&#x20;
 
 </details>
-
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>See '<a href="https://github.com/elastic/kibana/issues/154347">Elastic Search</a>'</p></figcaption></figure>
-
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>See '<a href="https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_(English)/010Getting_Started/050Alma_User_Interface_%E2%80%93_General_Information/The_Alma_User_Interface">ExLibris</a>'</p></figcaption></figure>
 
 
 
@@ -233,6 +222,17 @@ By conducting comprehensive usability and accessibility research on Mirador view
 </details>
 
 
+
+<details>
+
+<summary>Make all labels for buttons, headers, IIIF metadata, and other interface elements configurable. </summary>
+
+* This is especially important for IIIF related concepts, which may use technical or domain-specific language that could be confusing for some patrons.
+* This allows institutions to customize the descriptive data shown about their items to better suit the needs and expectations of their unique patrons.
+* By making labels configurable, institutions can ensure the terminology and language used aligns with what their users are familiar with.
+* For example, a university library may want to use more academic-focused language for their IIIF image viewer, while a public library may prefer more general, user-friendly terms.&#x20;
+
+</details>
 
 <details>
 
