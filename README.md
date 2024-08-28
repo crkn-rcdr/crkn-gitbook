@@ -25,6 +25,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
+
+
 <details>
 
 <summary>Ensure your viewer has the important navigation options close to the start of the page, to help users relying on keyboard navigation to explore your item.</summary>
@@ -36,9 +38,15 @@ By conducting comprehensive usability and accessibility research on Mirador view
   * Previous page button&#x20;
   * Last page button&#x20;
 
-</details>
+
 
 <figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption><p>See '<a href="https://uv-v4.netlify.app/#?manifest=&#x26;c=&#x26;m=&#x26;cv=&#x26;xywh=-1913%2C-197%2C6393%2C3936">Universal Viewer</a>'</p></figcaption></figure>
+
+
+
+
+
+</details>
 
 
 
