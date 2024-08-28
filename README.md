@@ -59,6 +59,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption><p>See '<a href="https://uxmovement.com/navigation/why-motor-impaired-users-need-skip-links/">UX Movement</a>'</p></figcaption></figure>
 
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption><p>See '<a href="https://collections.library.utoronto.ca/view/broadsides:CAP00127#details">Collections of U of T</a>' - The 'Details' skip link</p></figcaption></figure>
+
 
 
 <details>
@@ -156,6 +158,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption><p>See '<a href="https://concordiauniversity.on.worldcat.org/search/detail/813921222?queryString=history&#x26;databaseList=&#x26;format=Book&#x26;subformat=Book%3A%3Abook_printbook&#x26;subformat=Book%3A%3Abook_digital&#x26;subformat=Book%3A%3Abook_thsis&#x26;subformat=Book%3A%3Abook_mic&#x26;subformat=Book%3A%3Abook_largeprint&#x26;subformat=Book%3A%3Abook_mss&#x26;changedFacet=format&#x26;clusterResults=true&#x26;groupVariantRecords=false">Concordia</a><a href="https://concordiauniversity.on.worldcat.org/search/detail/813921222?queryString=history&#x26;databaseList=&#x26;format=Book&#x26;subformat=Book%3A%3Abook_printbook&#x26;subformat=Book%3A%3Abook_digital&#x26;subformat=Book%3A%3Abook_thsis&#x26;subformat=Book%3A%3Abook_mic&#x26;subformat=Book%3A%3Abook_largeprint&#x26;subformat=Book%3A%3Abook_mss&#x26;changedFacet=format&#x26;clusterResults=true&#x26;groupVariantRecords=false">'s Library Search Portal</a>'</p></figcaption></figure>
+
 
 
 <details>
@@ -167,22 +171,11 @@ By conducting comprehensive usability and accessibility research on Mirador view
   * Provide users with no more than five main choices per screen and remove unnecessary content.&#x20;
   * Separate additional details into other web components or well-defined sections using whitespace, headings, shapes, displayed below the image viewer.  &#x20;
   * Keep extra links that don't relate to the main purpose of the viewer confined to the footer.&#x20;
-
-</details>
-
-<details>
-
-<summary>Leverage expansion panel UI patterns to ensure efficient interaction for screen reader and keyboard users.</summary>
-
-* If you need to include the additional information within the image viewer itself, leverage expansion panel UI patterns to ensure efficient interaction for screen reader and keyboard users. &#x20;
-* While expansion panels can be a space-saving solution, they can also make it difficult for some users to guess the content inside.&#x20;
-* Make sure to update the aria-expanded attribute as the user toggles the element open and closed.&#x20;
-* When a web page first loads, any sub-menus or expandable content should be in a collapsed state by default.&#x20;
-* Avoid relying on specific gestures or hover interactions that could be difficult for some users to figure out.&#x20;
-* Controls used to navigate, expand, and collapse content should be easy to discover and use, even for those with fine motor or dexterity challenges. For example, by triggering the expansion functionality when the entire expansion panel header is pressed, rather than just a small '+' icon.
-* Use consistent UI patterns to signal the presence of hidden content, such as:&#x20;
-  * A "+" symbol to indicate expandable content.
-  * Triangles next to sub-menu items.
+  * Leverage expansion panel UI patterns to ensure efficient interaction for screen reader and keyboard users.
+    * While expansion panels can be a space-saving solution, they can also make it difficult for some users to guess the content inside.&#x20;
+    * Use consistent UI patterns to signal the presence of hidden content, such as:&#x20;
+      * A "+" symbol to indicate expandable content.
+      * Triangles next to sub-menu items.
 
 </details>
 
@@ -233,6 +226,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 * For example, a university library may want to use more academic-focused language for their IIIF image viewer, while a public library may prefer more general, user-friendly terms.&#x20;
 
 </details>
+
+
 
 <details>
 
