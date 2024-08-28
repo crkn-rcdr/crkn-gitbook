@@ -58,21 +58,15 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption><p>See '<a href="https://uxmovement.com/navigation/why-motor-impaired-users-need-skip-links/">UX Movement</a>'</p></figcaption></figure>
+<img src=".gitbook/assets/image (1).png" alt="See &#x27;Theseus Viewer&#x27; - The skip link to the table of contents is displayed promptly to the user." data-size="original">
 
-
-
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption><p>See '<a href="https://collections.library.utoronto.ca/view/broadsides:CAP00127#details">Collections of U of T</a>' - The 'Details' skip link and back to top button.</p></figcaption></figure>
-
-
+*
 
 
 
 
 
 </details>
-
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>See '<a href="https://theseusviewer.org/?iiif-content=https%3A%2F%2Fiiif.bodleian.ox.ac.uk%2Fiiif%2Fmanifest%2Facd9492e-25fa-4286-9fe6-e0cf2fc28106.json&#x26;collection=https%3A%2F%2Fiiif.bodleian.ox.ac.uk%2Fiiif%2Fcollection%2Fall-souls">Theseus Viewer</a>' - The skip link to the table of contents is displayed promptly to the user.</p></figcaption></figure>
 
 
 
@@ -84,9 +78,15 @@ By conducting comprehensive usability and accessibility research on Mirador view
 * For A/V content, the table of contents should provide links or markers to different segments or "chapters" within the media. This allows users to easily navigate to the specific part of the audio or video they want to access, rather than having to scrub through the entire timeline. Aim for segments that are 6 minutes or less in duration, to accommodate neurodiverse users.&#x20;
 * If a transcript is available for the A/V content, it should be easily accessible and navigable, mirroring the structure of the segmented media. This allows users to switch between the audio/video and the textual representation, providing greater accessibility and flexibility.&#x20;
 
-</details>
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>See '<a href="https://tex.stackexchange.com/questions/106112/displaying-sections-in-table-of-contents-side-bar-of-pdf-viewer">LaTex</a>'</p></figcaption></figure>
+
+<img src=".gitbook/assets/image (4).png" alt="See &#x27;LaTex&#x27;" data-size="original">
+
+
+
+
+
+</details>
 
 
 
@@ -94,21 +94,17 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <summary>If you have OCR information available, display it for the user before the image in the sequence of html elements, and ideally, provide a skip link to it.</summary>
 
-<img src=".gitbook/assets/image (3).png" alt="" data-size="original">
-
-<img src=".gitbook/assets/image (3).png" alt="" data-size="original">
-
-<img src=".gitbook/assets/image (3).png" alt="" data-size="original">
-
-<img src=".gitbook/assets/image (3).png" alt="See &#x27;Trove&#x27;" data-size="original">
-
 * This will make the content of your viewer accessible for people making use of screen readers.&#x20;
 * It is highly suggested for all institutions to make OCR representations of their items available whenever possible. Otherwise, you will implicitly be providing unequal access to your materials for visually impaired patrons.
 * Ideally for images and other media, alternative textual descriptions would be given.
 
-</details>
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>See '<a href="https://trove.nla.gov.au/">Trove</a>'</p></figcaption></figure>
+
+<img src=".gitbook/assets/image (3).png" alt="See &#x27;Trove&#x27;" data-size="original">
+
+
+
+</details>
 
 
 
@@ -118,15 +114,20 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 * Tooltips may not be accessible to all users, particularly those using touch-screen devices such as iPads.
 * Many elderly individuals use tablets like the iPad as their primary computing device. For these users, tooltips that only appear on hover are not a reliable way to communicate functionality or provide context.&#x20;
-* Instead, here are some alternative suggestions:&#x20;
-  * Opt for clear, visible labels to describe the purpose and actions of interface elements. This ensures all users, including those on touch-screen devices, can understand the user interface without having to rely on hover-based tooltips.&#x20;
-  * You can start by creating a good design for touch screens, and then adapting it to desktop. Adopting a mobile-first or tablet-first design approach will help you design user interfaces which are catered to these devices restrictions rather than relying on mouse interactions, and avoid the need for a completely different UI for desktop vs mobile.
-  * Implement [a guided-tour](https://www.pendo.io/pendo-blog/how-to-create-in-app-onboarding-to-delight-your-mobile-users/) for first time users, and have a quick launch of the guided tour under a help menu, for returning users who need a refresh. This will help them learn what the various icons mean, without needing to rely on tooltips. For users with memory challenges, an easy way to re-launch this tour  will be important.
-  * Consider providing a single link that opens a modal or panel with a listing of the labels and what each means, like a glossary.
+*   Instead, here are some alternative suggestions:&#x20;
+
+    * Opt for clear, visible labels to describe the purpose and actions of interface elements. This ensures all users, including those on touch-screen devices, can understand the user interface without having to rely on hover-based tooltips.&#x20;
+    * You can start by creating a good design for touch screens, and then adapting it to desktop. Adopting a mobile-first or tablet-first design approach will help you design user interfaces which are catered to these devices restrictions rather than relying on mouse interactions, and avoid the need for a completely different UI for desktop vs mobile.
+    * Consider providing a single link that opens a modal or panel with a listing of the labels and what each means, like a glossary.
+    *   Implement [a guided-tour](https://www.pendo.io/pendo-blog/how-to-create-in-app-onboarding-to-delight-your-mobile-users/) for first time users, and have a quick launch of the guided tour under a help menu, for returning users who need a refresh. This will help them learn what the various icons mean, without needing to rely on tooltips. For users with memory challenges, an easy way to re-launch this tour  will be important.
+
+        <figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption><p>See '<a href="https://www.appcues.com/use-case/user-onboarding-software">Appcues</a>'</p></figcaption></figure>
+
+
+
+
 
 </details>
-
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption><p>See '<a href="https://www.appcues.com/use-case/user-onboarding-software">Appcues</a>'</p></figcaption></figure>
 
 
 
@@ -139,25 +140,37 @@ By conducting comprehensive usability and accessibility research on Mirador view
   * Labels are written in easy-to-understand language.
   * Place labels next to the relevant controls and ensure they are readable by assistive technologies.&#x20;
 
-</details>
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>See '<a href="https://adamsilver.io/blog/the-problem-with-tooltips-and-what-to-do-instead/">Adam Silver</a>'</p></figcaption></figure>
+
+<img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt="See &#x27;Adam Silver&#x27;" data-size="original">
+
+
+
+</details>
 
 
 
 <details>
 
-<summary>Offer a search function to allow users to directly locate and skip-to the desired information in the viewer bypassing the need to navigate many context menus.</summary>
+<summary>Offer skip links and/or a search box to allow users to directly locate and skip-to the desired information in the viewer bypassing the need to navigate many context menus.</summary>
 
 * For example, allow users to search all of the data including metadata in a manifest
 * Menu systems and most site navigation require the user to understand the menu categories.  In some cases, users know the correct category via memory, rather than logic. For example, most users remember that the print function is often found under the file menu. Users with impaired memory may not be able to find these menu items based on recall.&#x20;
 * Users with impaired short-term memory, age related forgetfulness, or who are easily distracted may also find navigating a site and going to many pages to look for content difficult. If it takes too long, they may lose focus and forget what they are looking for.&#x20;
 
+
+
+<img src="https://crkn-rcdr.gitbook.io/~gitbook/image?url=https%3A%2F%2F4067828390-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FAqiamcE6vYh5OgxQgXJf%252Fuploads%252FBKz2iFgcCqTrVkaFuGqV%252Fimage.png%3Falt%3Dmedia%26token%3Dd9228733-21d8-4bc2-8030-48ff5f9feae5&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=ffaf6a00&#x26;sv=1" alt="See &#x27;UX Movement&#x27;" data-size="original">
+
+
+
+<img src=".gitbook/assets/image.png" alt="See &#x27;Collections of U of T&#x27; - The &#x27;Details&#x27; skip link and back to top button." data-size="original">
+
+
+
+<img src=".gitbook/assets/image (2) (1).png" alt="See &#x27;ExLibris&#x27;" data-size="original">
+
 </details>
-
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>See '<a href="https://github.com/elastic/kibana/issues/154347">Elastic Search</a>'</p></figcaption></figure>
-
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>See '<a href="https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_(English)/010Getting_Started/050Alma_User_Interface_%E2%80%93_General_Information/The_Alma_User_Interface">ExLibris</a>'</p></figcaption></figure>
 
 
 
@@ -169,9 +182,13 @@ By conducting comprehensive usability and accessibility research on Mirador view
 * When creating your manifests, ensure that you add a summary that can be understood by people with a lower secondary education reading level.&#x20;
 * Emphasize key keywords and use common, everyday language in the summaries.&#x20;
 
-</details>
+
 
 <figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption><p>See '<a href="https://concordiauniversity.on.worldcat.org/search/detail/813921222?queryString=history&#x26;databaseList=&#x26;format=Book&#x26;subformat=Book%3A%3Abook_printbook&#x26;subformat=Book%3A%3Abook_digital&#x26;subformat=Book%3A%3Abook_thsis&#x26;subformat=Book%3A%3Abook_mic&#x26;subformat=Book%3A%3Abook_largeprint&#x26;subformat=Book%3A%3Abook_mss&#x26;changedFacet=format&#x26;clusterResults=true&#x26;groupVariantRecords=false">Concordia</a><a href="https://concordiauniversity.on.worldcat.org/search/detail/813921222?queryString=history&#x26;databaseList=&#x26;format=Book&#x26;subformat=Book%3A%3Abook_printbook&#x26;subformat=Book%3A%3Abook_digital&#x26;subformat=Book%3A%3Abook_thsis&#x26;subformat=Book%3A%3Abook_mic&#x26;subformat=Book%3A%3Abook_largeprint&#x26;subformat=Book%3A%3Abook_mss&#x26;changedFacet=format&#x26;clusterResults=true&#x26;groupVariantRecords=false">'s Library Search Portal</a>'</p></figcaption></figure>
+
+
+
+</details>
 
 
 
