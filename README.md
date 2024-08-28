@@ -2,7 +2,7 @@
 
 In the context of GLAM (Galleries, Libraries, Archives, and Museums) websites, a document viewer is a key tool for providing access to digitized historical collections and archival materials. The accessibility and usability of a document viewer are crucial for ensuring inclusive access and enabling all users, including those with disabilities, to effectively interact with and utilize the valuable digital resources.
 
-## Recommendations
+## Generalized Viewer Recommendations
 
 By conducting comprehensive usability and accessibility research on Mirador viewer, consulting industry partners such as [Digirati](https://digirati.com/) and [NYU Library's DLTS Team](https://library.nyu.edu/departments/digital-library-technology-services/), and reviewing [W3 Guidelines](https://www.w3.org/TR/coga-usable) for "Making Content Usable for People with Cognitive and Learning Disabilities", CRKN has compiled general recommendations for ensuring good usability and accessibility of document viewers, outlined below. Expand each recommendation to view supporting information and implementation tips.
 
@@ -20,19 +20,6 @@ By conducting comprehensive usability and accessibility research on Mirador view
 </details>
 
 <figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption><p>See '<a href="https://web.dev/articles/hiding-and-updating-content">Web.dev</a>'</p></figcaption></figure>
-
-
-
-<details>
-
-<summary>Avoid displaying a long list of images before other functionality, because this can be problematic for users who navigate using a screen reader or keyboard tabbing. </summary>
-
-* These users would have to listen to or tab through the entire manifest content before being able to interact with other features of the viewer.&#x20;
-* Instead, consider:
-  * Having canvas thumbnails towards the end of the interface, in a menu that is closed by default.
-  * Providing an alternative way for users to access the list of images, such as through a selection menu. This will allow all users, including those relying on assistive technologies, to more easily access the other features and functionality of the image viewer.&#x20;
-
-</details>
 
 
 
@@ -159,6 +146,19 @@ By conducting comprehensive usability and accessibility research on Mirador view
 </details>
 
 <figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption><p>See '<a href="https://concordiauniversity.on.worldcat.org/search/detail/813921222?queryString=history&#x26;databaseList=&#x26;format=Book&#x26;subformat=Book%3A%3Abook_printbook&#x26;subformat=Book%3A%3Abook_digital&#x26;subformat=Book%3A%3Abook_thsis&#x26;subformat=Book%3A%3Abook_mic&#x26;subformat=Book%3A%3Abook_largeprint&#x26;subformat=Book%3A%3Abook_mss&#x26;changedFacet=format&#x26;clusterResults=true&#x26;groupVariantRecords=false">Concordia</a><a href="https://concordiauniversity.on.worldcat.org/search/detail/813921222?queryString=history&#x26;databaseList=&#x26;format=Book&#x26;subformat=Book%3A%3Abook_printbook&#x26;subformat=Book%3A%3Abook_digital&#x26;subformat=Book%3A%3Abook_thsis&#x26;subformat=Book%3A%3Abook_mic&#x26;subformat=Book%3A%3Abook_largeprint&#x26;subformat=Book%3A%3Abook_mss&#x26;changedFacet=format&#x26;clusterResults=true&#x26;groupVariantRecords=false">'s Library Search Portal</a>'</p></figcaption></figure>
+
+
+
+<details>
+
+<summary>Avoid displaying a long list of images before other functionality, because this can be problematic for users who navigate using a screen reader or keyboard tabbing. </summary>
+
+* These users would have to listen to or tab through the entire manifest content before being able to interact with other features of the viewer.&#x20;
+* Instead, consider:
+  * Having canvas thumbnails towards the end of the interface, in a menu that is closed by default.
+  * Providing an alternative way for users to access the list of images, such as through a selection menu. This will allow all users, including those relying on assistive technologies, to more easily access the other features and functionality of the image viewer.&#x20;
+
+</details>
 
 
 
