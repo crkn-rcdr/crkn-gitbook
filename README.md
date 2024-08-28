@@ -46,9 +46,9 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption><p>See '<a href="https://uxmovement.com/navigation/why-motor-impaired-users-need-skip-links/">UX Movement</a>'</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption><p>See '<a href="https://collections.library.utoronto.ca/view/broadsides:CAP00127#details">Collections of U of T</a>' - The 'Details' skip link</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption><p>See '<a href="https://collections.library.utoronto.ca/view/broadsides:CAP00127#details">Collections of U of T</a>' - The 'Details' skip link and back to top button.</p></figcaption></figure>
 
-
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>See '<a href="https://theseusviewer.org/?iiif-content=https%3A%2F%2Fiiif.bodleian.ox.ac.uk%2Fiiif%2Fmanifest%2Facd9492e-25fa-4286-9fe6-e0cf2fc28106.json&#x26;collection=https%3A%2F%2Fiiif.bodleian.ox.ac.uk%2Fiiif%2Fcollection%2Fall-souls">Theseus Viewer</a>' - The skip link to the table of contents is displayed promptly to the user.</p></figcaption></figure>
 
 <details>
 
@@ -100,7 +100,7 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>See '<a href="https://www.pendo.io/pendo-blog/how-to-create-in-app-onboarding-to-delight-your-mobile-users/">Pendo</a>'</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>See '<a href="https://www.pendo.io/pendo-blog/how-to-create-in-app-onboarding-to-delight-your-mobile-users/">Pendo</a>'</p></figcaption></figure>
 
 
 
@@ -115,7 +115,7 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>See '<a href="https://adamsilver.io/blog/the-problem-with-tooltips-and-what-to-do-instead/">Adam Silver</a>'</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>See '<a href="https://adamsilver.io/blog/the-problem-with-tooltips-and-what-to-do-instead/">Adam Silver</a>'</p></figcaption></figure>
 
 
 
@@ -129,7 +129,7 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>See '<a href="https://github.com/elastic/kibana/issues/154347">Elastic Search</a>'</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>See '<a href="https://github.com/elastic/kibana/issues/154347">Elastic Search</a>'</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>See '<a href="https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_(English)/010Getting_Started/050Alma_User_Interface_%E2%80%93_General_Information/The_Alma_User_Interface">ExLibris</a>'</p></figcaption></figure>
 
