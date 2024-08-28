@@ -73,6 +73,14 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <summary>If you have OCR information available, display it for the user before the image in the sequence of html elements, and ideally, provide a skip link to it.</summary>
 
+<img src=".gitbook/assets/image (3).png" alt="" data-size="original">
+
+<img src=".gitbook/assets/image (3).png" alt="" data-size="original">
+
+<img src=".gitbook/assets/image (3).png" alt="" data-size="original">
+
+<img src=".gitbook/assets/image (3).png" alt="See &#x27;Trove&#x27;" data-size="original">
+
 * This will make the content of your viewer accessible for people making use of screen readers.&#x20;
 * It is highly suggested for all institutions to make OCR representations of their items available whenever possible. Otherwise, you will implicitly be providing unequal access to your materials for visually impaired patrons.
 * Ideally for images and other media, alternative textual descriptions would be given.
@@ -198,9 +206,9 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>See '<a href="https://github.com/elastic/kibana/issues/154347">Elastic Search</a>'</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>See '<a href="https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_(English)/010Getting_Started/050Alma_User_Interface_%E2%80%93_General_Information/The_Alma_User_Interface">ExLibris</a>'</p></figcaption></figure>
 
 
 
