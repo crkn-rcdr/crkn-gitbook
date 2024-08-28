@@ -40,7 +40,7 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption><p>See '<a href="https://uv-v4.netlify.app/#?manifest=&#x26;c=&#x26;m=&#x26;cv=&#x26;xywh=-1913%2C-197%2C6393%2C3936">Universal Viewer</a>'</p></figcaption></figure>
+<img src=".gitbook/assets/image (9).png" alt="See &#x27;Universal Viewer&#x27;" data-size="original">
 
 
 
@@ -56,11 +56,21 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 * This will help users relying on screen readers and keyboard navigation get a good overview of the contents of the manifest, as well as aid them in quickly navigating to the information they are interested in. &#x20;
 
-</details>
+
 
 <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption><p>See '<a href="https://uxmovement.com/navigation/why-motor-impaired-users-need-skip-links/">UX Movement</a>'</p></figcaption></figure>
 
+
+
 <figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption><p>See '<a href="https://collections.library.utoronto.ca/view/broadsides:CAP00127#details">Collections of U of T</a>' - The 'Details' skip link and back to top button.</p></figcaption></figure>
+
+
+
+
+
+
+
+</details>
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>See '<a href="https://theseusviewer.org/?iiif-content=https%3A%2F%2Fiiif.bodleian.ox.ac.uk%2Fiiif%2Fmanifest%2Facd9492e-25fa-4286-9fe6-e0cf2fc28106.json&#x26;collection=https%3A%2F%2Fiiif.bodleian.ox.ac.uk%2Fiiif%2Fcollection%2Fall-souls">Theseus Viewer</a>' - The skip link to the table of contents is displayed promptly to the user.</p></figcaption></figure>
 
