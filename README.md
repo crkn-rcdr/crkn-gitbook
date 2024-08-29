@@ -53,11 +53,11 @@ By conducting comprehensive usability and accessibility research on Mirador view
 * When creating your manifests, ensure that you add a summary that can be understood by people with a lower secondary education reading level.&#x20;
 * Emphasize key keywords and use common, everyday language in the summaries.&#x20;
 
-![](<.gitbook/assets/image (20).png>)
 
-See '[Concordia](https://concordiauniversity.on.worldcat.org/search/detail/813921222?queryString=history\&databaseList=\&format=Book\&subformat=Book%3A%3Abook\_printbook\&subformat=Book%3A%3Abook\_digital\&subformat=Book%3A%3Abook\_thsis\&subformat=Book%3A%3Abook\_mic\&subformat=Book%3A%3Abook\_largeprint\&subformat=Book%3A%3Abook\_mss\&changedFacet=format\&clusterResults=true\&groupVariantRecords=false)['s Library Search Portal](https://concordiauniversity.on.worldcat.org/search/detail/813921222?queryString=history\&databaseList=\&format=Book\&subformat=Book%3A%3Abook\_printbook\&subformat=Book%3A%3Abook\_digital\&subformat=Book%3A%3Abook\_thsis\&subformat=Book%3A%3Abook\_mic\&subformat=Book%3A%3Abook\_largeprint\&subformat=Book%3A%3Abook\_mss\&changedFacet=format\&clusterResults=true\&groupVariantRecords=false)'
 
 </details>
+
+<figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption><p>See '<a href="https://concordiauniversity.on.worldcat.org/search/detail/813921222?queryString=history&#x26;databaseList=&#x26;format=Book&#x26;subformat=Book%3A%3Abook_printbook&#x26;subformat=Book%3A%3Abook_digital&#x26;subformat=Book%3A%3Abook_thsis&#x26;subformat=Book%3A%3Abook_mic&#x26;subformat=Book%3A%3Abook_largeprint&#x26;subformat=Book%3A%3Abook_mss&#x26;changedFacet=format&#x26;clusterResults=true&#x26;groupVariantRecords=false">Concordia</a><a href="https://concordiauniversity.on.worldcat.org/search/detail/813921222?queryString=history&#x26;databaseList=&#x26;format=Book&#x26;subformat=Book%3A%3Abook_printbook&#x26;subformat=Book%3A%3Abook_digital&#x26;subformat=Book%3A%3Abook_thsis&#x26;subformat=Book%3A%3Abook_mic&#x26;subformat=Book%3A%3Abook_largeprint&#x26;subformat=Book%3A%3Abook_mss&#x26;changedFacet=format&#x26;clusterResults=true&#x26;groupVariantRecords=false">'s Library Search Portal</a>'</p></figcaption></figure>
 
 
 
@@ -65,18 +65,19 @@ See '[Concordia](https://concordiauniversity.on.worldcat.org/search/detail/81392
 
 <summary>Ensure your viewer has the important navigation options close to the start of the page, to help users relying on keyboard navigation to explore your item.</summary>
 
-* Important navigation options include:
-  * Go to \<image number> selection/input&#x20;
-  * First page button&#x20;
-  * Next page button&#x20;
-  * Previous page button&#x20;
-  * Last page button&#x20;
+*   Important navigation options include:
 
-![](<.gitbook/assets/image (15).png>)
+    * Go to \<image number> selection/input&#x20;
+    * First page button&#x20;
+    * Next page button&#x20;
+    * Previous page button&#x20;
+    * Last page button&#x20;
 
-See '[Universal Viewer'](https://uv-v4.netlify.app/#?manifest=\&c=\&m=\&cv=\&xywh=-1913%2C-197%2C6393%2C3936)
+
 
 </details>
+
+<figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption><p>See '<a href="https://uv-v4.netlify.app/#?manifest=&#x26;c=&#x26;m=&#x26;cv=&#x26;xywh=-1913%2C-197%2C6393%2C3936">Universal Viewer'</a></p></figcaption></figure>
 
 
 
@@ -116,17 +117,13 @@ See '[Universal Viewer'](https://uv-v4.netlify.app/#?manifest=\&c=\&m=\&cv=\&xyw
 * Menu systems and most site navigation require the user to understand the menu categories.  In some cases, users know the correct category via memory, rather than logic. For example, most users remember that the print function is often found under the file menu. Users with impaired memory may not be able to find these menu items based on recall.&#x20;
 * Users with impaired short-term memory, age related forgetfulness, or who are easily distracted may also find navigating a site and going to many pages to look for content difficult. If it takes too long, they may lose focus and forget what they are looking for.&#x20;
 
-![](<.gitbook/assets/image (14).png>)
 
-See '[UX Movement](https://uxmovement.com/navigation/why-motor-impaired-users-need-skip-links/)'
-
-
-
-![](.gitbook/assets/image.png)
-
-See '[ExLibris Alma](https://knowledge.exlibrisgroup.com/Alma/Product\_Documentation/010Alma\_Online\_Help\_\(English\)/010Getting\_Started/050Alma\_User\_Interface\_%E2%80%93\_General\_Information/The\_Alma\_User\_Interface)'
 
 </details>
+
+<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption><p>See '<a href="https://uxmovement.com/navigation/why-motor-impaired-users-need-skip-links/">UX Movement</a>'</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>See '<a href="https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_(English)/010Getting_Started/050Alma_User_Interface_%E2%80%93_General_Information/The_Alma_User_Interface">ExLibris Alma</a>'</p></figcaption></figure>
 
 
 
@@ -139,25 +136,18 @@ See '[ExLibris Alma](https://knowledge.exlibrisgroup.com/Alma/Product\_Documenta
 * For print materials:
   * The table of contents should list the major headings and subheadings, allowing users to quickly jump to the relevant sections.&#x20;
   * This is particularly helpful for users with attention or cognitive impairments, as they can easily return to a specific point in the document if they become distracted or lose their place.&#x20;
-*   For A/V content:
-
-    * The table of contents should provide links or markers to different segments or "chapters" within the media. This allows users to easily navigate to the specific part of the audio or video they want to access, rather than having to scrub through the entire timeline. Aim for segments that are 6 minutes or less in duration, to accommodate neurodiverse users.&#x20;
-    * If a transcript is available for the A/V content, users should be able to use them for navigation. Users should be able to click (or keypress) on a sentence navigate to the part of the video where it is spoken. This allows users to switch between the audio/video and the textual representation, providing greater accessibility and flexibility.&#x20;
-    * Transcripts should also be available as full plaintext paragraphs.
-
+* For A/V content:
+  * The table of contents should provide links or markers to different segments or "chapters" within the media. This allows users to easily navigate to the specific part of the audio or video they want to access, rather than having to scrub through the entire timeline. Aim for segments that are 6 minutes or less in duration, to accommodate neurodiverse users.&#x20;
+  * If a transcript is available for the A/V content, users should be able to use them for navigation. Users should be able to click (or keypress) on a sentence navigate to the part of the video where it is spoken. This allows users to switch between the audio/video and the textual representation, providing greater accessibility and flexibility.&#x20;
+  * Transcripts should also be available as full plaintext paragraphs.
 
 
-![](<.gitbook/assets/image (17).png>)
-
-See '[Theseus Viewer](https://theseusviewer.org/?iiif-content=https://iiif.io/api/cookbook/recipe/0024-book-4-toc/manifest.json\&collection=https://theseus-viewer.netlify.app/cookbook-collection.json)'
-
-
-
-![](<.gitbook/assets/image (18).png>)
-
-See '[LaTex](https://www.latex-project.org/)'
 
 </details>
+
+<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption><p>See '<a href="https://theseusviewer.org/?iiif-content=https://iiif.io/api/cookbook/recipe/0024-book-4-toc/manifest.json&#x26;collection=https://theseus-viewer.netlify.app/cookbook-collection.json">Theseus Viewer</a>'</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption><p>See '<a href="https://www.latex-project.org/">LaTex</a>'</p></figcaption></figure>
 
 
 
@@ -181,13 +171,15 @@ See '[LaTex](https://www.latex-project.org/)'
 </div>
 ```
 
-![](<.gitbook/assets/image (11).png>)
 
-See '[Trove](https://trove.nla.gov.au/)'
+
+
 
 
 
 </details>
+
+<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption><p>See '<a href="https://trove.nla.gov.au/">Trove</a>'</p></figcaption></figure>
 
 
 
@@ -220,11 +212,9 @@ See '[Trove](https://trove.nla.gov.au/)'
   * Labels are written in easy-to-understand language.
   * Place labels next to the relevant controls and ensure they are readable by assistive technologies.&#x20;
 
-![](<.gitbook/assets/image (12).png>)
-
-See '[Adam Silver](https://adamsilver.io/blog/the-problem-with-tooltips-and-what-to-do-instead/)'
-
 </details>
+
+<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption><p>See '<a href="https://adamsilver.io/blog/the-problem-with-tooltips-and-what-to-do-instead/">Adam Silver</a>'</p></figcaption></figure>
 
 
 
@@ -240,11 +230,9 @@ See '[Adam Silver](https://adamsilver.io/blog/the-problem-with-tooltips-and-what
   * Consider providing a single link that opens a modal or panel with a listing of the labels and what each means, like a glossary.
   * Implement an in-app [onboarding-tour](https://userpilot.com/blog/what-is-a-product-tour/) for first time users, and have a quick launch of the guided tour under a help menu, for returning users who need a refresh. This will help them learn what the various icons mean, without needing to rely on tooltips. For users with memory challenges, an easy way to re-launch this tour  will be important.
 
-![](<.gitbook/assets/image (13).png>)
-
-See '[Appcues](https://www.appcues.com/use-case/user-onboarding-software)'
-
 </details>
+
+<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption><p>See '<a href="https://www.appcues.com/use-case/user-onboarding-software">Appcues</a>'</p></figcaption></figure>
 
 
 
