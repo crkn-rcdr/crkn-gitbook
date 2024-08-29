@@ -22,6 +22,23 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <details>
 
+<summary>Avoid displaying too much content at once on the screen at once. Even if your IIIF items are rich in data, only display the most essential information by default. </summary>
+
+* Showing too much information can create confusion and make it harder for users to find basic functionality. Busy components with too much text, imagery, and other content can cause confusion, anxiety, and loss of focus.
+* Some alternative strategies you can employ include: &#x20;
+  * Provide users with no more than five main choices per screen and remove unnecessary content.&#x20;
+  * Separate additional details into other web components or well-defined sections using whitespace, headings, shapes, displayed below the image viewer.  &#x20;
+  * Keep extra links that don't relate to the main purpose of the viewer confined to the footer.&#x20;
+  * Leverage expansion panel UI patterns to ensure efficient interaction for screen reader and keyboard users.
+    * While expansion panels can be a space-saving solution, they can also make it difficult for some users to guess the content inside.&#x20;
+    * Use consistent UI patterns to signal the presence of hidden content, such as:&#x20;
+      * A "+" symbol to indicate expandable content.
+      * Triangles next to sub-menu items.
+
+</details>
+
+<details>
+
 <summary>Display the IIIF summary field prominently near the title of the IIIF manifest.</summary>
 
 * This should help users quickly understand the purpose and content of the IIIF item.&#x20;
@@ -42,6 +59,19 @@ By conducting comprehensive usability and accessibility research on Mirador view
   * Next page button&#x20;
   * Previous page button&#x20;
   * Last page button&#x20;
+
+</details>
+
+<details>
+
+<summary>Avoid hiding important features or burying them in nested menus or "more" options. </summary>
+
+* Keeping common and important features prominent, rather than hidden in dropdown menus or "more" options. This will increase the chances that all users can successfully complete tasks and navigate the image viewer.&#x20;
+* Common features for our users are:
+  * Full-text searching within the current item (if available)
+  * Important navigation options
+  * Download options&#x20;
+  * Gallery/grid view&#x20;
 
 </details>
 
@@ -112,50 +142,6 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <details>
 
-<summary>Avoid displaying too much content at once on the screen. Even if your IIIF items are rich in data, only display the most essential information by default. </summary>
-
-* Showing too much information can create confusion and make it harder for users to find basic functionality. Busy components with too much text, imagery, and other content can cause confusion, anxiety, and loss of focus.
-* Some alternative strategies you can employ include: &#x20;
-  * Provide users with no more than five main choices per screen and remove unnecessary content.&#x20;
-  * Separate additional details into other web components or well-defined sections using whitespace, headings, shapes, displayed below the image viewer.  &#x20;
-  * Keep extra links that don't relate to the main purpose of the viewer confined to the footer.&#x20;
-  * Leverage expansion panel UI patterns to ensure efficient interaction for screen reader and keyboard users.
-    * While expansion panels can be a space-saving solution, they can also make it difficult for some users to guess the content inside.&#x20;
-    * Use consistent UI patterns to signal the presence of hidden content, such as:&#x20;
-      * A "+" symbol to indicate expandable content.
-      * Triangles next to sub-menu items.
-
-</details>
-
-<details>
-
-<summary>Avoid hiding important features or burying them in nested menus or "more" options. </summary>
-
-* Keeping common and important features prominent, rather than hidden in dropdown menus or "more" options. This will increase the chances that all users can successfully complete tasks and navigate the image viewer.&#x20;
-* Common features for our users are:
-  * Full-text searching within the current item (if available)
-  * Important navigation options
-  * Download options&#x20;
-  * Gallery/grid view&#x20;
-
-</details>
-
-<details>
-
-<summary>Avoid relying on tooltips to convey information. Use alternative UI patterns such as guided tours to teach users your viewer's functionality.</summary>
-
-* Tooltips may not be accessible to all users, particularly those using touch-screen devices such as iPads.
-* Many elderly individuals use tablets like the iPad as their primary computing device. For these users, tooltips that only appear on hover are not a reliable way to communicate functionality or provide context.&#x20;
-* Instead, here are some alternative suggestions:&#x20;
-  * Add clear, visible labels to describe the purpose and actions of interface elements. This ensures all users, including those on touch-screen devices, can understand the user interface without having to rely on hover-based tooltips.&#x20;
-  * You can start by creating a good design for touch screens, and then adapting it to desktop. Adopting a mobile-first or tablet-first design approach will help you design user interfaces which are catered to these devices restrictions rather than relying on mouse interactions, and avoid the need for a completely different UI for desktop vs mobile.
-  * Consider providing a single link that opens a modal or panel with a listing of the labels and what each means, like a glossary.
-  * Implement an in-app [onboarding-tour](https://userpilot.com/blog/what-is-a-product-tour/) for first time users, and have a quick launch of the guided tour under a help menu, for returning users who need a refresh. This will help them learn what the various icons mean, without needing to rely on tooltips. For users with memory challenges, an easy way to re-launch this tour  will be important.
-
-</details>
-
-<details>
-
 <summary>Maintain a stable layout, avoiding unexpected shifts in the user interface. </summary>
 
 * Sudden, unpredictable changes in the user interface can be highly disorienting, especially for users with cognitive or learning disabilities. Shifting controls, content, or layout can cause loss of focus, anxiety, and difficulty understanding or interacting with the interface.&#x20;
@@ -180,6 +166,20 @@ By conducting comprehensive usability and accessibility research on Mirador view
 * Additionally, ensure that:&#x20;
   * Labels are written in easy-to-understand language.
   * Place labels next to the relevant controls and ensure they are readable by assistive technologies.&#x20;
+
+</details>
+
+<details>
+
+<summary>Avoid relying on tooltips to convey information. Use alternative UI patterns such as guided tours to teach users your viewer's functionality.</summary>
+
+* Tooltips may not be accessible to all users, particularly those using touch-screen devices such as iPads.
+* Many elderly individuals use tablets like the iPad as their primary computing device. For these users, tooltips that only appear on hover are not a reliable way to communicate functionality or provide context.&#x20;
+* Instead, here are some alternative suggestions:&#x20;
+  * Add clear, visible labels to describe the purpose and actions of interface elements. This ensures all users, including those on touch-screen devices, can understand the user interface without having to rely on hover-based tooltips.&#x20;
+  * You can start by creating a good design for touch screens, and then adapting it to desktop. Adopting a mobile-first or tablet-first design approach will help you design user interfaces which are catered to these devices restrictions rather than relying on mouse interactions, and avoid the need for a completely different UI for desktop vs mobile.
+  * Consider providing a single link that opens a modal or panel with a listing of the labels and what each means, like a glossary.
+  * Implement an in-app [onboarding-tour](https://userpilot.com/blog/what-is-a-product-tour/) for first time users, and have a quick launch of the guided tour under a help menu, for returning users who need a refresh. This will help them learn what the various icons mean, without needing to rely on tooltips. For users with memory challenges, an easy way to re-launch this tour  will be important.
 
 </details>
 
