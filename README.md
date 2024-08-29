@@ -120,6 +120,12 @@ See '[Universal Viewer'](https://uv-v4.netlify.app/#?manifest=\&c=\&m=\&cv=\&xyw
 
 See '[UX Movement](https://uxmovement.com/navigation/why-motor-impaired-users-need-skip-links/)'
 
+
+
+![](.gitbook/assets/image.png)
+
+See '[ExLibris Alma](https://knowledge.exlibrisgroup.com/Alma/Product\_Documentation/010Alma\_Online\_Help\_\(English\)/010Getting\_Started/050Alma\_User\_Interface\_%E2%80%93\_General\_Information/The\_Alma\_User\_Interface)'
+
 </details>
 
 
