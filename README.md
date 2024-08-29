@@ -2,7 +2,7 @@
 
 In the context of GLAM (Galleries, Libraries, Archives, and Museums) websites, a document viewer is a key tool for providing access to digitized historical collections and archival materials. The accessibility and usability of a document viewer are crucial for ensuring inclusive access and enabling all users, including those with disabilities, to effectively interact with and utilize the valuable digital resources.
 
-## Generalized Viewer Recommendations
+## Generalized Recommendations
 
 By conducting comprehensive usability and accessibility research on Mirador viewer, consulting industry partners such as [Digirati](https://digirati.com/) and [NYU Library's DLTS Team](https://library.nyu.edu/departments/digital-library-technology-services/), and reviewing [W3 Guidelines](https://www.w3.org/TR/coga-usable) for "Making Content Usable for People with Cognitive and Learning Disabilities", CRKN has compiled general recommendations for ensuring good usability and accessibility of document viewers, outlined below. Expand each recommendation to view supporting information and implementation tips.
 
@@ -110,8 +110,6 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
-
-
 <details>
 
 <summary>Ensure your viewer has the important navigation options close to the start of the page, to help users relying on keyboard navigation to explore your item.</summary>
@@ -125,8 +123,6 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
-
-
 <details>
 
 <summary>Provide a skip link to the table of contents and segmented content (ranges) of a manifest close to the start of the page, but after the manifest title. </summary>
@@ -134,8 +130,6 @@ By conducting comprehensive usability and accessibility research on Mirador view
 * This will help users relying on screen readers and keyboard navigation get a good overview of the contents of the manifest, as well as aid them in quickly navigating to the information they are interested in. &#x20;
 
 </details>
-
-
 
 <details>
 
@@ -145,8 +139,6 @@ By conducting comprehensive usability and accessibility research on Mirador view
 * Users with impaired short-term memory, age related forgetfulness, or who are easily distracted may also find navigating a site and going to many pages to look for content difficult. If it takes too long, they may lose focus and forget what they are looking for.&#x20;
 
 </details>
-
-
 
 <details>
 
@@ -159,8 +151,6 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
-
-
 <details>
 
 <summary>Display the IIIF summary field prominently near the title of the IIIF manifest.</summary>
@@ -172,8 +162,6 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 
 </details>
-
-
 
 <details>
 
@@ -192,8 +180,6 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
-
-
 <details>
 
 <summary>Avoid hiding important features or burying them in nested menus or "more" options. </summary>
@@ -206,8 +192,6 @@ By conducting comprehensive usability and accessibility research on Mirador view
   * Gallery/grid view&#x20;
 
 </details>
-
-
 
 <details>
 
@@ -226,8 +210,6 @@ By conducting comprehensive usability and accessibility research on Mirador view
   * Changes in selected options or navigation paths, for instance, if new content appears and pushes down the information a user is currently reading.&#x20;
 
 </details>
-
-
 
 <details>
 
