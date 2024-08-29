@@ -18,8 +18,7 @@ By conducting comprehensive usability and accessibility research on Mirador view
 * Make use of an [aria-live](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA\_Live\_Regions) attribute is set on an empty element. When an update to the page occurs, the empty element with that aria-live attribute should be updated with a brief announcement informing the user an update has been made. The polite setting is ideal.&#x20;
 * When creating table of contents, hierarchical displays and menus etc. make sure you implement [aria levels](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-level) for people making use of screen readers.&#x20;
 
-[\
-![](https://github.com/crkn-rcdr/crkn-gitbook/raw/a5484aa77d1fe02ab93f12ac960e1cb0cd1a6f2b/.gitbook/assets/image%20\(6\).png)](https://github.com/crkn-rcdr/crkn-gitbook/blob/a5484aa77d1fe02ab93f12ac960e1cb0cd1a6f2b/.gitbook/assets/image%20\(6\).png)
+![](<.gitbook/assets/image (19).png>)
 
 See '[Web.dev](https://web.dev/articles/hiding-and-updating-content)'
 
