@@ -26,6 +26,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 
 
+
+
 <details>
 
 <summary>Avoid displaying too much content at once on the screen at once. Even if your IIIF items are rich in data, only display the most essential information by default. </summary>
@@ -61,6 +63,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 
 
+
+
 <details>
 
 <summary>Ensure your viewer has the important navigation options close to the start of the page, to help users relying on keyboard navigation to explore your item.</summary>
@@ -78,6 +82,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 </details>
 
 <figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption><p>See '<a href="https://uv-v4.netlify.app/#?manifest=&#x26;c=&#x26;m=&#x26;cv=&#x26;xywh=-1913%2C-197%2C6393%2C3936">Universal Viewer'</a></p></figcaption></figure>
+
+
 
 
 
@@ -127,6 +133,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 
 
+
+
 <details>
 
 <summary>Provide clear navigational aids, such as a table of contents and segmented content using ranges in your IIIF manifests, whether your manifest is a document or an audio/video recording.</summary>
@@ -148,6 +156,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 <figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption><p>See '<a href="https://theseusviewer.org/?iiif-content=https://iiif.io/api/cookbook/recipe/0024-book-4-toc/manifest.json&#x26;collection=https://theseus-viewer.netlify.app/cookbook-collection.json">Theseus Viewer</a>'</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption><p>See '<a href="https://www.latex-project.org/">LaTex</a>'</p></figcaption></figure>
+
+
 
 
 
@@ -180,6 +190,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 </details>
 
 <figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption><p>See '<a href="https://trove.nla.gov.au/">Trove</a>'</p></figcaption></figure>
+
+
 
 
 
@@ -218,6 +230,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 
 
+
+
 <details>
 
 <summary>Avoid relying on tooltips to convey information. Use alternative UI patterns such as guided tours to teach users your viewer's functionality.</summary>
@@ -228,11 +242,13 @@ By conducting comprehensive usability and accessibility research on Mirador view
   * Add clear, visible labels to describe the purpose and actions of interface elements. This ensures all users, including those on touch-screen devices, can understand the user interface without having to rely on hover-based tooltips.&#x20;
   * You can start by creating a good design for touch screens, and then adapting it to desktop. Adopting a mobile-first or tablet-first design approach will help you design user interfaces which are catered to these devices restrictions rather than relying on mouse interactions, and avoid the need for a completely different UI for desktop vs mobile.
   * Consider providing a single link that opens a modal or panel with a listing of the labels and what each means, like a glossary.
-  * Implement an in-app [onboarding-tour](https://userpilot.com/blog/what-is-a-product-tour/) for first time users, and have a quick launch of the guided tour under a help menu, for returning users who need a refresh. This will help them learn what the various icons mean, without needing to rely on tooltips. For users with memory challenges, an easy way to re-launch this tour  will be important.
+  * Implement an in-app [guided tour](https://userpilot.com/blog/what-is-a-product-tour/) for first time users, and have a quick launch of the guided tour under a help menu, for returning users who need a refresh. This will help them learn what the various icons mean, without needing to rely on tooltips. For users with memory challenges, an easy way to re-launch this tour  will be important.
 
 </details>
 
 <figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption><p>See '<a href="https://www.appcues.com/use-case/user-onboarding-software">Appcues</a>'</p></figcaption></figure>
+
+
 
 
 
