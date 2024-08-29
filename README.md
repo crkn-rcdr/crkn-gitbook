@@ -161,6 +161,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 
 
+
+
 <details>
 
 <summary>If you have OCR information available, display it for the user before the image in the sequence of html elements, and ideally, provide a skip link to it.</summary>
@@ -197,19 +199,12 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <details>
 
-<summary>Maintain a stable layout, avoiding unexpected shifts in the user interface. </summary>
+<summary>Make all labels for buttons, headers, IIIF metadata, and other interface elements configurable. </summary>
 
-* Sudden, unpredictable changes in the user interface can be highly disorienting, especially for users with cognitive or learning disabilities. Shifting controls, content, or layout can cause loss of focus, anxiety, and difficulty understanding or interacting with the interface.&#x20;
-* For users with slow hand-eye coordination or impaired cognitive processing, even minor unexpected shifts in the position of controls can result in inadvertent, incorrect actions. This can further compound disorientation and confusion.&#x20;
-* For larger screens, the side context menus should remain open and visible, maintaining a consistent layout. This ensures users can easily access the menu options without any disruptive content shifts.&#x20;
-* Alternatively, if the context menus are designed to be collapsible, it should overlay the image content rather than shifting the image display when toggled. This preserves the user's context and prevents the focus (the image) from being unexpectedly rearranged.
-
-<!---->
-
-* Some other examples of problematic unexpected changes include:&#x20;
-  * Automatic launching of new windows or pop-ups, and opening of new content or features without user initiation&#x20;
-  * Form submissions triggered by means other than a clearly labeled submit button&#x20;
-  * Changes in selected options or navigation paths, for instance, if new content appears and pushes down the information a user is currently reading.&#x20;
+* This is especially important for IIIF related concepts, which may use technical or domain-specific language that could be confusing for some patrons.
+* This allows institutions to customize the descriptive data shown about their items to better suit the needs and expectations of their unique patrons.
+* By making labels configurable, institutions can ensure the terminology and language used aligns with what their users are familiar with.
+* For example, a university library may want to use more academic-focused language for their IIIF image viewer, while a public library may prefer more general, user-friendly terms.&#x20;
 
 </details>
 
@@ -227,26 +222,6 @@ By conducting comprehensive usability and accessibility research on Mirador view
 </details>
 
 <figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption><p>See '<a href="https://adamsilver.io/blog/the-problem-with-tooltips-and-what-to-do-instead/">Adam Silver</a>'</p></figcaption></figure>
-
-
-
-
-
-<details>
-
-<summary>Avoid relying on tooltips to convey information. Use alternative UI patterns such as guided tours to teach users your viewer's functionality.</summary>
-
-* Tooltips may not be accessible to all users, particularly those using touch-screen devices such as iPads.
-* Many elderly individuals use tablets like the iPad as their primary computing device. For these users, tooltips that only appear on hover are not a reliable way to communicate functionality or provide context.&#x20;
-* Instead, here are some alternative suggestions:&#x20;
-  * Add clear, visible labels to describe the purpose and actions of interface elements. This ensures all users, including those on touch-screen devices, can understand the user interface without having to rely on hover-based tooltips.&#x20;
-  * You can start by creating a good design for touch screens, and then adapting it to desktop. Adopting a mobile-first or tablet-first design approach will help you design user interfaces which are catered to these devices restrictions rather than relying on mouse interactions, and avoid the need for a completely different UI for desktop vs mobile.
-  * Consider providing a single link that opens a modal or panel with a listing of the labels and what each means, like a glossary.
-  * Implement an in-app [guided tour](https://userpilot.com/blog/what-is-a-product-tour/) for first time users, and have a quick launch of the guided tour under a help menu, for returning users who need a refresh. This will help them learn what the various icons mean, without needing to rely on tooltips. For users with memory challenges, an easy way to re-launch this tour  will be important.
-
-</details>
-
-<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption><p>See '<a href="https://www.appcues.com/use-case/user-onboarding-software">Appcues</a>'</p></figcaption></figure>
 
 
 
@@ -282,14 +257,41 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <details>
 
-<summary>Make all labels for buttons, headers, IIIF metadata, and other interface elements configurable. </summary>
+<summary>Maintain a stable layout, avoiding unexpected shifts in the user interface. </summary>
 
-* This is especially important for IIIF related concepts, which may use technical or domain-specific language that could be confusing for some patrons.
-* This allows institutions to customize the descriptive data shown about their items to better suit the needs and expectations of their unique patrons.
-* By making labels configurable, institutions can ensure the terminology and language used aligns with what their users are familiar with.
-* For example, a university library may want to use more academic-focused language for their IIIF image viewer, while a public library may prefer more general, user-friendly terms.&#x20;
+* Sudden, unpredictable changes in the user interface can be highly disorienting, especially for users with cognitive or learning disabilities. Shifting controls, content, or layout can cause loss of focus, anxiety, and difficulty understanding or interacting with the interface.&#x20;
+* For users with slow hand-eye coordination or impaired cognitive processing, even minor unexpected shifts in the position of controls can result in inadvertent, incorrect actions. This can further compound disorientation and confusion.&#x20;
+* For larger screens, the side context menus should remain open and visible, maintaining a consistent layout. This ensures users can easily access the menu options without any disruptive content shifts.&#x20;
+* Alternatively, if the context menus are designed to be collapsible, it should overlay the image content rather than shifting the image display when toggled. This preserves the user's context and prevents the focus (the image) from being unexpectedly rearranged.
+
+<!---->
+
+* Some other examples of problematic unexpected changes include:&#x20;
+  * Automatic launching of new windows or pop-ups, and opening of new content or features without user initiation&#x20;
+  * Form submissions triggered by means other than a clearly labeled submit button&#x20;
+  * Changes in selected options or navigation paths, for instance, if new content appears and pushes down the information a user is currently reading.&#x20;
 
 </details>
+
+
+
+<details>
+
+<summary>Avoid relying on tooltips to convey information. Use alternative UI patterns such as guided tours to teach users your viewer's functionality.</summary>
+
+* Tooltips may not be accessible to all users, particularly those using touch-screen devices such as iPads.
+* Many elderly individuals use tablets like the iPad as their primary computing device. For these users, tooltips that only appear on hover are not a reliable way to communicate functionality or provide context.&#x20;
+* Instead, here are some alternative suggestions:&#x20;
+  * Add clear, visible labels to describe the purpose and actions of interface elements. This ensures all users, including those on touch-screen devices, can understand the user interface without having to rely on hover-based tooltips.&#x20;
+  * You can start by creating a good design for touch screens, and then adapting it to desktop. Adopting a mobile-first or tablet-first design approach will help you design user interfaces which are catered to these devices restrictions rather than relying on mouse interactions, and avoid the need for a completely different UI for desktop vs mobile.
+  * Consider providing a single link that opens a modal or panel with a listing of the labels and what each means, like a glossary.
+  * Implement an in-app [guided tour](https://userpilot.com/blog/what-is-a-product-tour/) for first time users, and have a quick launch of the guided tour under a help menu, for returning users who need a refresh. This will help them learn what the various icons mean, without needing to rely on tooltips. For users with memory challenges, an easy way to re-launch this tour  will be important.
+
+</details>
+
+<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption><p>See '<a href="https://www.appcues.com/use-case/user-onboarding-software">Appcues</a>'</p></figcaption></figure>
+
+
 
 
 
