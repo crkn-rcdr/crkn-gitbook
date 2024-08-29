@@ -100,6 +100,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <summary>Provide clear navigational aids, such as a table of contents and segmented content using ranges in your IIIF manifests, whether your manifest is a document or an audio/video recording.</summary>
 
+* Provide a skip link to the table of contents or any segmented content (ranges) of a manifest close to the start of the page, but after the manifest title.&#x20;
+* This will help users relying on screen readers and keyboard navigation get a good overview of the contents of the manifest, as well as aid them in quickly navigating to the information they are interested in. &#x20;
 * For print materials:
   * The table of contents should list the major headings and subheadings, allowing users to quickly jump to the relevant sections.&#x20;
   * This is particularly helpful for users with attention or cognitive impairments, as they can easily return to a specific point in the document if they become distracted or lose their place.&#x20;
@@ -107,14 +109,6 @@ By conducting comprehensive usability and accessibility research on Mirador view
   * The table of contents should provide links or markers to different segments or "chapters" within the media. This allows users to easily navigate to the specific part of the audio or video they want to access, rather than having to scrub through the entire timeline. Aim for segments that are 6 minutes or less in duration, to accommodate neurodiverse users.&#x20;
   * If a transcript is available for the A/V content, users should be able to use them for navigation. Users should be able to click (or keypress) on a sentence navigate to the part of the video where it is spoken. This allows users to switch between the audio/video and the textual representation, providing greater accessibility and flexibility.&#x20;
   * Transcripts should also be available as full plaintext paragraphs.
-
-</details>
-
-<details>
-
-<summary>Provide a skip link to the table of contents and segmented content (ranges) of a manifest close to the start of the page, but after the manifest title. </summary>
-
-* This will help users relying on screen readers and keyboard navigation get a good overview of the contents of the manifest, as well as aid them in quickly navigating to the information they are interested in. &#x20;
 
 </details>
 
