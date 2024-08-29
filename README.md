@@ -10,7 +10,7 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <details>
 
-<summary>Pay special attention to the following ARIA best practices to best support individuals using screen readers. Including aria-live passive for announcing changes made to the UI while using the viewer, and aria-live assertive for errors.</summary>
+<summary>Pay special attention to the ARIA best practices to best support individuals using screen readers. Including aria-live passive for announcing changes made to the UI while using the viewer, and aria-live assertive for errors.</summary>
 
 * Ensure all interactable elements include [aria labels](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label) for screen readers.&#x20;
 * Screen readers create dynamically generated summary of the page. Take advantage of [ARIA Landmark Roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/landmark\_role) to create 'skip links' especially designed for users who are relying on screen readers.&#x20;
@@ -19,6 +19,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 * When creating table of contents, hierarchical displays and menus etc. make sure you implement [aria levels](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-level) for people making use of screen readers.&#x20;
 
 </details>
+
+
 
 <details>
 
@@ -37,6 +39,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
+
+
 <details>
 
 <summary>Display the IIIF summary field prominently near the title of the IIIF manifest.</summary>
@@ -48,6 +52,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 
 </details>
+
+
 
 <details>
 
@@ -62,6 +68,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
+
+
 <details>
 
 <summary>Avoid hiding important features or burying them in nested menus or "more" options. </summary>
@@ -75,6 +83,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
+
+
 <details>
 
 <summary>Avoid displaying a long list of images before other functionality, because this can be problematic for users who navigate using a screen reader or keyboard tabbing. </summary>
@@ -87,6 +97,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
+
+
 <details>
 
 <summary>Offer skip links and/or a 'search-all' function to allow users to directly locate and skip-to the desired information in the viewer bypassing the need to navigate many context menus.</summary>
@@ -95,6 +107,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 * Users with impaired short-term memory, age related forgetfulness, or who are easily distracted may also find navigating a site and going to many pages to look for content difficult. If it takes too long, they may lose focus and forget what they are looking for.&#x20;
 
 </details>
+
+
 
 <details>
 
@@ -111,6 +125,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
   * Transcripts should also be available as full plaintext paragraphs.
 
 </details>
+
+
 
 <details>
 
@@ -134,6 +150,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
+
+
 <details>
 
 <summary>Maintain a stable layout, avoiding unexpected shifts in the user interface. </summary>
@@ -152,6 +170,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
+
+
 <details>
 
 <summary>Use a combination of icon and label buttons instead of relying solely on icons.</summary>
@@ -162,6 +182,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
   * Place labels next to the relevant controls and ensure they are readable by assistive technologies.&#x20;
 
 </details>
+
+
 
 <details>
 
@@ -176,6 +198,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
   * Implement an in-app [onboarding-tour](https://userpilot.com/blog/what-is-a-product-tour/) for first time users, and have a quick launch of the guided tour under a help menu, for returning users who need a refresh. This will help them learn what the various icons mean, without needing to rely on tooltips. For users with memory challenges, an easy way to re-launch this tour  will be important.
 
 </details>
+
+
 
 <details>
 
@@ -204,6 +228,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
     * Do not use percentage signs to indicate progression of how many pages were read or how far someone is in a video, but rather use indicator bars like ‘YouTube’ videos.&#x20;
 
 </details>
+
+
 
 <details>
 
