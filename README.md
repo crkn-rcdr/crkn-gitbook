@@ -53,8 +53,7 @@ See '[Web.dev](https://web.dev/articles/hiding-and-updating-content)'
 * When creating your manifests, ensure that you add a summary that can be understood by people with a lower secondary education reading level.&#x20;
 * Emphasize key keywords and use common, everyday language in the summaries.&#x20;
 
-[\
-![](https://github.com/crkn-rcdr/crkn-gitbook/raw/a5484aa77d1fe02ab93f12ac960e1cb0cd1a6f2b/.gitbook/assets/image%20\(8\).png)](https://github.com/crkn-rcdr/crkn-gitbook/blob/a5484aa77d1fe02ab93f12ac960e1cb0cd1a6f2b/.gitbook/assets/image%20\(8\).png)
+![](<.gitbook/assets/image (20).png>)
 
 See '[Concordia](https://concordiauniversity.on.worldcat.org/search/detail/813921222?queryString=history\&databaseList=\&format=Book\&subformat=Book%3A%3Abook\_printbook\&subformat=Book%3A%3Abook\_digital\&subformat=Book%3A%3Abook\_thsis\&subformat=Book%3A%3Abook\_mic\&subformat=Book%3A%3Abook\_largeprint\&subformat=Book%3A%3Abook\_mss\&changedFacet=format\&clusterResults=true\&groupVariantRecords=false)['s Library Search Portal](https://concordiauniversity.on.worldcat.org/search/detail/813921222?queryString=history\&databaseList=\&format=Book\&subformat=Book%3A%3Abook\_printbook\&subformat=Book%3A%3Abook\_digital\&subformat=Book%3A%3Abook\_thsis\&subformat=Book%3A%3Abook\_mic\&subformat=Book%3A%3Abook\_largeprint\&subformat=Book%3A%3Abook\_mss\&changedFacet=format\&clusterResults=true\&groupVariantRecords=false)'
 
