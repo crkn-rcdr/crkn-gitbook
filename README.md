@@ -1,10 +1,10 @@
-# Document Viewer UX and Accessibility
+# IIIF Viewer UX and Accessibility
 
-In the context of GLAM (Galleries, Libraries, Archives, and Museums) websites, a document viewer is a key tool for providing access to digitized historical collections and archival materials. The accessibility and usability of a document viewer are crucial for ensuring inclusive access and enabling all users, including those with disabilities, to effectively interact with and utilize the valuable digital resources.
+In the context of GLAM (Galleries, Libraries, Archives, and Museums) websites, an item viewer is a key tool for providing access to digitized historical collections and archival materials. The accessibility and usability of an item viewer are crucial for ensuring inclusive access and enabling all users, including those with disabilities, to effectively interact with and utilize the valuable digital resources.
 
 ## Generalized Recommendations
 
-By conducting comprehensive usability and accessibility research on Mirador viewer, consulting industry partners such as [Digirati](https://digirati.com/) and [NYU Library's DLTS Team](https://library.nyu.edu/departments/digital-library-technology-services/), and reviewing [W3 Guidelines](https://www.w3.org/TR/coga-usable) for "Making Content Usable for People with Cognitive and Learning Disabilities", CRKN has compiled general recommendations for ensuring good usability and accessibility of document viewers, outlined below. Expand each recommendation to view supporting information and implementation tips.
+By conducting comprehensive usability and accessibility research on Mirador viewer, consulting industry partners such as [Digirati](https://digirati.com/) and [NYU Library's DLTS Team](https://library.nyu.edu/departments/digital-library-technology-services/), and reviewing [W3 Guidelines](https://www.w3.org/TR/coga-usable) for "Making Content Usable for People with Cognitive and Learning Disabilities", CRKN has compiled general recommendations for ensuring good usability and accessibility of item viewers, outlined below. Expand each recommendation to view supporting information and implementation tips.
 
 
 
@@ -23,6 +23,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 </details>
 
 <figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption><p>See '<a href="https://web.dev/articles/hiding-and-updating-content">Web.dev</a>'</p></figcaption></figure>
+
+
 
 
 
@@ -65,6 +67,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 
 
+
+
 <details>
 
 <summary>Ensure your viewer has the important navigation options close to the start of the page, to help users relying on keyboard navigation to explore your item.</summary>
@@ -82,6 +86,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 </details>
 
 <figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption><p>See '<a href="https://uv-v4.netlify.app/#?manifest=&#x26;c=&#x26;m=&#x26;cv=&#x26;xywh=-1913%2C-197%2C6393%2C3936">Universal Viewer'</a></p></figcaption></figure>
+
+
 
 
 
@@ -130,6 +136,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 <figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption><p>See '<a href="https://uxmovement.com/navigation/why-motor-impaired-users-need-skip-links/">UX Movement</a>'</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>See '<a href="https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_(English)/010Getting_Started/050Alma_User_Interface_%E2%80%93_General_Information/The_Alma_User_Interface">ExLibris Alma</a>'</p></figcaption></figure>
+
+
 
 
 
@@ -197,6 +205,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 
 
+
+
 <details>
 
 <summary>Make all labels for buttons, headers, IIIF metadata, and other interface elements configurable. </summary>
@@ -222,6 +232,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 </details>
 
 <figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption><p>See '<a href="https://adamsilver.io/blog/the-problem-with-tooltips-and-what-to-do-instead/">Adam Silver</a>'</p></figcaption></figure>
+
+
 
 
 

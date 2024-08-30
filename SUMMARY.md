@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Document Viewer UX and Accessibility](README.md)
+* [IIIF Viewer UX and Accessibility](README.md)
