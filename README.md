@@ -265,6 +265,16 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 </details>
 
+<figure><img src=".gitbook/assets/352c01d2-ef1a-416c-8137-00771c93ddd3.png" alt=""><figcaption><p>See '<a href="https://support.microsoft.com/en-us/office/use-immersive-reader-in-word-a857949f-c91e-4c97-977c-a4efcaf9b3c1#PickTab=Web">Microsoft Immersive Reader</a>'</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/6c49543f-3d86-43b7-868a-180db75dacca.png" alt=""><figcaption><p>See '<a href="https://support.microsoft.com/en-us/office/use-immersive-reader-in-word-a857949f-c91e-4c97-977c-a4efcaf9b3c1#PickTab=Web">Microsoft Immersive Reader</a>' - Line Focus</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/1077df83-4601-4068-a076-4e184e31551f.png" alt=""><figcaption><p>See '<a href="https://support.microsoft.com/en-us/office/use-immersive-reader-in-word-a857949f-c91e-4c97-977c-a4efcaf9b3c1#PickTab=Web">Microsoft Immersive Reader</a>' - Text Options</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/1a4960ff-83eb-444d-ae22-5a4323d65e99.png" alt=""><figcaption><p>See '<a href="https://support.microsoft.com/en-us/office/use-immersive-reader-in-word-a857949f-c91e-4c97-977c-a4efcaf9b3c1#PickTab=Web">Microsoft Immersive Reader</a>' - Picture Dictionary</p></figcaption></figure>
+
+
+
 
 
 <details>
