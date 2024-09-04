@@ -243,6 +243,7 @@ By conducting comprehensive usability and accessibility research on Mirador view
 
 <summary>Build in customization options for various display settings.</summary>
 
+* Check out Microsoft's Immersive Reader SDK: The Immersive Reader JavaScript SDK is a JavaScript library that allows you to easily and quickly integrate the [Immersive Reader](https://azure.microsoft.com/services/immersive-reader) into your web application.
 * Take advantage of global settings already set by the user, and 'media queries' such as [prefers contrast](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-contrast) and [forced colors](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/forced-colors) in your style sheets to set defaults for users that need different color schemes.
 * Prominently display a "Customize" button or link, making it easily accessible from the main interface. &#x20;
   * Sensory friendly settings would include:&#x20;
@@ -272,6 +273,8 @@ By conducting comprehensive usability and accessibility research on Mirador view
 <figure><img src=".gitbook/assets/1077df83-4601-4068-a076-4e184e31551f.png" alt=""><figcaption><p>See '<a href="https://support.microsoft.com/en-us/office/use-immersive-reader-in-word-a857949f-c91e-4c97-977c-a4efcaf9b3c1#PickTab=Web">Microsoft Immersive Reader</a>' - Text Options</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/1a4960ff-83eb-444d-ae22-5a4323d65e99.png" alt=""><figcaption><p>See '<a href="https://support.microsoft.com/en-us/office/use-immersive-reader-in-word-a857949f-c91e-4c97-977c-a4efcaf9b3c1#PickTab=Web">Microsoft Immersive Reader</a>' - Picture Dictionary</p></figcaption></figure>
+
+
 
 
 
