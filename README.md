@@ -6,7 +6,7 @@ description: Use a no-code workflow create and share accessible IIIF manifests!
 
 ## Overview
 
-This hands-on activity is designed to familiarize you with the Manifest Editor, developed by Digirati. It will provide you with the skills and knowledge needed to create your own no-code workflow authoring IIIF manifests that can be used by people looking at your content with screen readers.&#x20;
+This hands-on activity is designed to familiarize you with the Manifest Editor, developed by Digirati. It will provide you with the skills and knowledge needed to create your own no-code workflow for authoring IIIF manifests. It will also give you tips on what you can do to make your manifest accessible by people looking at your content with screen readers.&#x20;
 
 ## Tooling Used
 
