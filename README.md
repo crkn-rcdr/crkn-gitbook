@@ -128,7 +128,7 @@ Use the copy button to grab the direct download link of your text file:
 
 <figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
-### Creating the Manifest ​
+### Create the IIIF Manifest ​
 
 Navigate to [The Digirati Manifest Editor](https://manifest-editor.digirati.services/) , and you will see the home page.
 
