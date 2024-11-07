@@ -236,7 +236,7 @@ Check out my manifest in Theseus yourself using the URL from the browser that I 
 
 Now you have an example of how to digitize content, providing accessibility information in the document description, and transcriptions of photos for screen readers. You can use the information you learned today to come up with your own no-code workflow that best suits your content.
 
-More work is being done to provide even better compatibility of textual representations of digitized photos within IIIF Manifests. Ideally, we would like to mark up images in manifests with highly structured HTML, to improve the experience of reading transcriptions with screen readers. If you are interested in discussing ideas like this, check out the #a11y channel on the IIIF Slack!
+More work is being done to provide even better compatibility of textual representations of digitized photos within IIIF Manifests. Ideally, we would like to mark up images in manifests with highly structured HTML, to improve the experience of reading transcriptions with screen readers. If you are interested in discussing ideas like this, check out the #a11y channel on the IIIF Slack! [(Get an invite to the Slack here)](https://docs.google.com/forms/d/e/1FAIpQLSdGV9QSFo8i2z1R5iIMP7B2JVhS9akHqcykWF5\_y4mtWqVrBA/viewform)
 
 ## Feedback
 
