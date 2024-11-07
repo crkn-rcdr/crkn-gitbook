@@ -1,5 +1,5 @@
 ---
-description: Use a no-code workflow create and share accessible IIIF manifests!
+description: Use a no-code workflow to create and share accessible IIIF manifests!
 ---
 
 # Accessible IIIF Digitization
