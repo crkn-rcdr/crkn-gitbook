@@ -148,7 +148,7 @@ Now add a summary containing a description of your document, and helpful accessi
 
 Press start adding content. Then a popup will show up. Click the 'Image from URL' option, which is the second in the list:
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 Now in the form, paste the direct download link to your photo:
 
