@@ -40,7 +40,79 @@ Theseus is very beginner friendly, will allow you to share your content with oth
 
 ## Instructions
 
-sss
+### Take a Photo
+
+Take an photo, or multiple photos, of something you would like to digitize.
+
+For example, an image of a book title page:
+
+<figure><img src=".gitbook/assets/oocihm.80616.10.jpg" alt="An image of a scanned book title page"><figcaption><p>An image of a scanned book title page</p></figcaption></figure>
+
+### Host the Photo on the Web
+
+Now, upload the image file to the file hosting app, we are using [Bytescale](https://www.bytescale.com/).
+
+First, login:
+
+<figure><img src=".gitbook/assets/image.png" alt="An image showing the login page for bytescale"><figcaption></figcaption></figure>
+
+Now you'll see your dashboard. Press the blue 'Upload' button to upload your image.
+
+<figure><img src=".gitbook/assets/image (1).png" alt="An image showing the image file uploaded to bytescale"><figcaption></figcaption></figure>
+
+Now you'll see your image in the list of content:
+
+<figure><img src=".gitbook/assets/image (2).png" alt="An image showing the copy file url button"><figcaption></figcaption></figure>
+
+### Grab the Image's Direct Download Link
+
+Click your image, then you'll see the content of the right hand menu change. This is where you will see the 'direct download link' under the 'File URL' heading.&#x20;
+
+Press the copy button preside the URL:
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+### Transcribe/Describe your Image
+
+Create a text representation of the Image&#x20;
+
+manually or try an OCR tool like DocuPanda to generate one if you are digitizing print materials
+
+### Host the Text File on the Web
+
+### Grab the Text File's Direct Download Link
+
+### Creating the Manifest ​
+
+Navigate to [The Digirati Manifest Editor](https://manifest-editor.digirati.services/) , and you will see the home page.
+
+Press the +create manifest button.
+
+[https://upcdn.io/kW15cD4/raw/IIIF%20Demo/oocihm.80616.10.jpg](https://upcdn.io/kW15cD4/raw/IIIF%20Demo/oocihm.80616.10.jpg)
+
+Use the copied image URL to add the image as a new canvas in your manifest ​
+
+Provide a label for your manifest ​
+
+Write a summary describing the content of the manifest  ​
+
+Link the uploaded text file to the Manifest rendering property of the canvas in your manifest ​
+
+Add label to rendering property that says “text representation”​
+
+Save the completed manifest to your device ​
+
+Rename the file​
+
+### Host your IIIF Manifest File on the Web
+
+Return to the file sharing app and upload your IIIF manifest file ​
+
+### Open your Manifest in the Theseus Viewer&#x20;
+
+Use a keyboard and screen reader to interact with your manifest in the viewer ​
+
+Share the manifest to social media using the Theseus viewer ​
 
 ## Feedback
 
