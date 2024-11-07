@@ -64,23 +64,69 @@ Now you'll see your image in the list of content:
 
 <figure><img src=".gitbook/assets/image (2).png" alt="An image showing the copy file url button"><figcaption></figcaption></figure>
 
-### Grab the Image's Direct Download Link
+### Grab the Photo's Direct Download Link
 
-Click your image, then you'll see the content of the right hand menu change. This is where you will see the 'direct download link' under the 'File URL' heading.&#x20;
+Click your photo, then you'll see the content of the right hand menu change. This is where you will see the 'direct download link' under the 'File URL' heading.&#x20;
 
 Press the copy button preside the URL:
 
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-### Transcribe/Describe your Image
+### Transcribe/Describe your Photo
 
-Create a text representation of the Image&#x20;
+Create a text representation of the photo. You can do this manually or try an OCR tool like [DocuPanda ](https://www.docupanda.io/auth/signin)to generate one if you are digitizing print materials. Today we will show you how to use DocuPanda.
 
-manually or try an OCR tool like DocuPanda to generate one if you are digitizing print materials
+First, login:
+
+<figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+
+Now you'll see your dashboard:
+
+<figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
+Now, navigate to the documents page in the left hand menu:
+
+<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
+Press the green upload button on the top right of the page, below the Account link.&#x20;
+
+<figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
+Then the upload menu will open on the right side of the screen:
+
+<figure><img src=".gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
+Click upload files, use your file browser to open a file, then scroll down, and press submit:
+
+<figure><img src=".gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+
+After you press submit, DocuPanda will start analyzing your photo(s.) Then once it is done, the menu will update and show you a success message. Press the see documents button at the bottom:
+
+<figure><img src=".gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+
+
+
+Then you will see your files listed. Select your photo, then press the white 'download' button above the table:
+
+<figure><img src=".gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+
+A couple options will appear, click Text:
+
+<figure><img src=".gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+
+Now your text file representing the content of your photo will be on your computer, ready for the next step.
 
 ### Host the Text File on the Web
 
+Go back to Bytescale, and now upload your text file:
+
+<figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+
 ### Grab the Text File's Direct Download Link
+
+Use the copy button to grab the direct download link of your text file:
+
+<figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 ### Creating the Manifest ​
 
@@ -90,19 +136,19 @@ Press the +create manifest button.
 
 [https://upcdn.io/kW15cD4/raw/IIIF%20Demo/oocihm.80616.10.jpg](https://upcdn.io/kW15cD4/raw/IIIF%20Demo/oocihm.80616.10.jpg)
 
-Use the copied image URL to add the image as a new canvas in your manifest ​
+Use the direct download link of your photo to add the image as a new canvas in your manifest ​
 
 Provide a label for your manifest ​
 
 Write a summary describing the content of the manifest  ​
 
-Link the uploaded text file to the Manifest rendering property of the canvas in your manifest ​
+Use the direct download link of your text file and link it to the Manifest rendering property of the canvas in your manifest ​
 
 Add label to rendering property that says “text representation”​
 
 Save the completed manifest to your device ​
 
-Rename the file​
+Rename the manifest file​
 
 ### Host your IIIF Manifest File on the Web
 
