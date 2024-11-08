@@ -204,8 +204,6 @@ Copy the direct download link to your manifest in Bytescale:
 
 <figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://upcdn.io/kW15cD4/raw/IIIF%20Demo/beekeepers-companion.json" %}
-
 Navigate to [Theseus Viewer's website](https://theseusviewer.org/), and you will see at the top left a form for opening your manifest. Paste the direct download link to your manifest in the input:
 
 <figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
