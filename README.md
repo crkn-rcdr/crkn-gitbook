@@ -10,15 +10,27 @@ The object of evaluation was the default Blacklight search interface, with CRKN-
 
 <figure><img src=".gitbook/assets/https2F2Fcatalog_refreshed_v1722448636523 (1).jpg" alt=""><figcaption><p>Figure 1: Description</p></figcaption></figure>
 
+
+
 ***
+
+
 
 <figure><img src=".gitbook/assets/https2F2Fcatalog255Bpub_date_si255Bbegin3D1800255Bpub_date_si255Bend3D1850_refreshed_v1724694304593.jpg" alt=""><figcaption><p>Figure 2: Description</p></figcaption></figure>
 
+
+
 ***
+
+
 
 <figure><img src=".gitbook/assets/maze_screenshot_interaction (9) (1) (1).jpg" alt=""><figcaption><p>Figure 3: Description</p></figcaption></figure>
 
+
+
 ***
+
+
 
 <figure><img src=".gitbook/assets/Screenshot 2025-02-05 160005.png" alt=""><figcaption><p>Figure 4: Description</p></figcaption></figure>
 
@@ -244,7 +256,7 @@ Final SUS Score = 81.5 (good)&#x20;
 
 #### Recommendations
 
-* Ensure all fields is the default for the search field drop down selector.&#x20;
+* Ensure "all fields" is the default option for the search field drop down selector.&#x20;
 * Ensure that when the user presses enter, a search is initiated.&#x20;
 
 
@@ -265,11 +277,11 @@ Final SUS Score = 81.5 (good)&#x20;
 
 #### Insights
 
-* ...
+* 100% of users experienced confusion with there being no loading indicator on the screen when the search is initiated (in this case, by selecting 100 as the # of results to display, which takes a few seconds.) Users incorrectly assumed the display count functionally was not working during this time.
 
 #### Recommendations
 
-* ...
+* Add a loading indicator on the search page that displays when the page sends a request to the back end for search results. This could be triggered by any of the sorting options, the display count, or when entering new search terms or facets.
 
 
 
@@ -289,11 +301,12 @@ Final SUS Score = 81.5 (good)&#x20;
 
 #### Insights
 
-* ...
+* 95.65% of users immediately moved their mouse to the correct interface element. The location of this functionality was very user friendly.&#x20;
+* 21.38% users noted that oldest to newest was most important for their workflow.&#x20;
 
 #### Recommendations
 
-* ...
+* Ensure "oldest to newest" is an option listed in the sorting options.
 
 
 
@@ -313,11 +326,13 @@ Final SUS Score = 81.5 (good)&#x20;
 
 #### Insights
 
-* ...
+* During Task 8, 16.67% of users did not notice the selected filters section at the top of the screen instead they used the x button beside each selected value listed under a facet in the “Limit your search” facets side menu.
+* During Task 8, of the users who did see the section, only 30% of them engaged with or used the reset search button.
+* During Task 8, of the users who did not see the section, 50% of users clicked the highlighted facet headers that had selected values within them to try to clear the values within the facet.
 
 #### Recommendations
 
-* ...
+* It may be beneficial to have a “clear selected values” functionality within each facet's expansion panel to remove all selected values for a facet in one button press.
 
 
 
@@ -340,11 +355,15 @@ Final SUS Score = 81.5 (good)&#x20;
 
 #### Insights
 
-* ...
+* During Task 5, 37.5% of users did not immediately go to the “Subject” facet to look for a topic of interest.
+* During Task 5, 16.67% of users first assumed the “Collections” facet would contain thematic or topical collections and clicked this facet to search for the target value.
+* During task 6, 16.67% of users missed the target value in the expansion panel for the facet, indicating usability issues for finding items in the top values list.
+* During Task 6, 12.5% of users first assumed the “Collections” facet would contain thematic or topical collections and clicked this facet to search for the target value.
 
 #### Recommendations
 
-* ...
+* Make facet lists easier to scan by adding dividers, adding spacing between values, or reducing the number of values listed if possible (without triggering the more interface, see the next component section for more information.)
+* Ensure your facet labels are easy to understand and differentiate. For example, CRKN can reflect on their use of the term “collections” for describing the format-based grouping (serials, monographs, etc.) as this is not immediately intuitive to all users. Possible alternatives could be “format” or “material.”
 
 
 
@@ -366,13 +385,30 @@ Final SUS Score = 81.5 (good)&#x20;
 
 #### Insights
 
-* ...
+* The task success rate drops 25% when facet pop-ups are necessary to complete the task. For example, Task 6, where the target value could be found under the expansion panel for a facet, there was a success rate of 75%, whereas Task 5, where users were expected to find the target value on the second page of the listing within the facet pop-up, had a success rate of 50%. These tasks both involved large listings (thousands) of possible values for the facets, which makes them a good comparison. Success rates of 50% and 75% for both tasks indicate a poor experience and/or use case for facets with many (thousands) of values.&#x20;
+* During Task 4, even with a 100% task completion rate and fewer total values (< 100 options), 25% of users verbally indicated frustration at needing to navigate a paginated list of values instead of being able to see all the values for the facet directly after pressing more. &#x20;
+* During Task 4, 25% of users, took longer than ideal to become aware of the existence of the pagination buttons in the pop-up. &#x20;
+* During Task 4,16.67% of users did not notice the pop-up right away and were not expecting their attention to need to shift to the center of the page after clicking more. &#x20;
+* During task 5, 33.33% of users sorted listing alphabetically when looking for a specific value, even when the value was on the second page within the listing on the pop-up. &#x20;
+* During task 5, 45.8% of users ended up searching for the target topic using the search bar instead of going to the facets menu to look for the subject, with 63.64% of those users also using the field selector drop down to select “subject” with the search bar. &#x20;
+* During Task 5, 16.67% of users abandoned the task entirely when needing to use the facet pop-up, due to frustration.&#x20;
+* During task 6, 37.5% of users ended up searching for the target author using the search bar instead of going to the facets menu to look for the author, with 44.44% of those users also using the field selector drop down to select “author” with the search bar.&#x20;
 
 #### Recommendations
 
-* ...
+* Redesign needed – do not use them in their current state if possible.&#x20;
+  * A temporary solution is to set the default before there being a “more” function to the count of your largest facet.
+  * Do not rely on the search facets for displaying all the metadata values you want your users to be made aware of. Use facets sparingly and to support common filter experiences for users, such as date and language.  For supporting exploratory experiences or topical listings, instead design an index with alphabetical navigation as a separate experience. Label the page “Explore our collection by topic” or similar. &#x20;
+  * To make it easier to explore from the search results, a field listen in an item can be turned into a clickable link. When users click on this link, they will be directed to a search page that displays all items matching that specific field value. For example, if an item lists their subject, that could be a clickable link, which gives a search result matching all items with that subject.&#x20;
+  * A good example of a more user-friendly facet interface, which solves both the pain points experienced by the users is the [Inuit Circumpolar Council Canada Archives.](https://iccc-archives.andornot.net/list?q=\&p=1\&ps=20) (ICCCA)&#x20;
+    * The ‘More’ button loads more values directly into the facet listing&#x20;
+    * The ‘Explore’ button loads a pop-up with a search box and alphabetical navigation&#x20;
+
+<figure><img src=".gitbook/assets/Screenshot 2025-02-05 104512.png" alt=""><figcaption><p>Figure 5: The subject facet in the ICCCA search interface includes both "more" and "explore" buttons. The "more" button populates more values directly into the facet values listing, whereas "explore" shows a better experience for finding a specific value. (See figure 6 below.)</p></figcaption></figure>
 
 
+
+<figure><img src=".gitbook/assets/Screenshot 2025-02-05 104559.png" alt=""><figcaption><p>Figure 6: The explore function loads a pop-up which better meets the needs of users – allowing them to more easily find a specific value through both search and alphabetical navigation. Alternatively, this kind of index could be it's own page on your website.</p></figcaption></figure>
 
 ***
 
@@ -390,11 +426,12 @@ Final SUS Score = 81.5 (good)&#x20;
 
 #### Insights
 
-* ...
+* 37.5% of users did not see the custom date range in an acceptable timeframe, or not at all. With 77.78% of those users interacting with the default date ranges listed before noticing the custom date range.
+* Users indicated excitement about this functionality.
 
 #### Recommendations
 
-* ...
+* Place the custom date range inputs directly under the Date Range facet header.
 
 
 
@@ -415,9 +452,12 @@ Final SUS Score = 81.5 (good)&#x20;
 
 #### Insights
 
-*
+* From additional user comments throughout the tasks, it was noted that it was not immediately obvious to users if a result in the search listing was a series of items or an individual item.
+  * Some users indicated they would imagine each listing result to be a single item.
+  * Some users expressed surprise when clicking an item in the search results led them to a set of items instead of an individual book, newspaper, etc.
+* Some users assumed bilingual cataloguing meant the item itself was bilingual.
 
 #### Recommendations
 
-*
+* Ensure that the distinction between a series and an individual item is clear to users, so they understand that they will encounter different page designs based on the item type.
 
