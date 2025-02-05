@@ -28,7 +28,7 @@ Each participant individually carried out tasks on the Canadiana-Blacklight webs
 
 {% tabs %}
 {% tab title="Summary" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>16 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>97%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>16 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (2).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (2).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>97%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Raw Data" %}
@@ -46,7 +46,7 @@ Each participant individually carried out tasks on the Canadiana-Blacklight webs
 
 {% tabs %}
 {% tab title="Summary" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>31 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>91%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>31 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (3).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (3).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>91%</strong></td><td><a href=".gitbook/assets/173878413041721978 (4).png">173878413041721978 (4).png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Raw Data" %}
@@ -64,7 +64,7 @@ Each participant individually carried out tasks on the Canadiana-Blacklight webs
 
 {% tabs %}
 {% tab title="Summary" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>10 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>100%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>10 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (2).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (2).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>100%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Raw Data" %}
@@ -82,7 +82,7 @@ Each participant individually carried out tasks on the Canadiana-Blacklight webs
 
 {% tabs %}
 {% tab title="Summary" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>36 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>100%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>36 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (3).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (3).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>100%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Raw Data" %}
@@ -100,7 +100,7 @@ Each participant individually carried out tasks on the Canadiana-Blacklight webs
 
 {% tabs %}
 {% tab title="Summary" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>102 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>50%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>102 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (2) (2).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (2) (2).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>50%</strong></td><td><a href=".gitbook/assets/173878413041721978.png">173878413041721978.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Raw Data" %}
@@ -118,7 +118,7 @@ Each participant individually carried out tasks on the Canadiana-Blacklight webs
 
 {% tabs %}
 {% tab title="Summary" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>44 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>75%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>44 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>75%</strong></td><td><a href=".gitbook/assets/173878413041721978 (2).png">173878413041721978 (2).png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Raw Data" %}
@@ -136,7 +136,7 @@ Each participant individually carried out tasks on the Canadiana-Blacklight webs
 
 {% tabs %}
 {% tab title="Summary" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>16 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>96%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>16 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (2).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (2).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>96%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Raw Data" %}
@@ -154,7 +154,7 @@ Each participant individually carried out tasks on the Canadiana-Blacklight webs
 
 {% tabs %}
 {% tab title="Summary" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>22 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>96%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>22 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (2).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (2).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>96%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Raw Data" %}
@@ -164,3 +164,34 @@ Each participant individually carried out tasks on the Canadiana-Blacklight webs
 {% endtab %}
 {% endtabs %}
 
+### Post-Session Interview&#x20;
+
+#### SUS Scoring&#x20;
+
+System Usability Scale (SUS) is a standard way to assess a products overall user-friendliness. Higher scores mean better usability. A score above 70 is a good, while one that is over 85 is excellent.&#x20;
+
+| Question                                                                                                      | Average Response  | SUS Conversion |
+| ------------------------------------------------------------------------------------------------------------- | ----------------- | -------------- |
+| I think that I would like to use this Canadiana user interface frequently.                                    | 4.1               | 4.1-1=3.1      |
+| I found this Canadiana user interface unnecessarily complex.                                                  | 1.8               | 5-1.8=3.2      |
+| I thought this Canadiana user interface was easy to use.                                                      | 4.1               | 4.1-1=3.1      |
+| I think that I would need the support of a technical person to be able to use this Canadiana user interface.  | 1.3               | 5-1.3=3.7      |
+| I found the various functions in this Canadiana user interface were well integrated.                          | 3.8               | 3.8-1=2.8      |
+| I thought there was too much inconsistency in this Canadiana user interface.                                  | 1.5               | 5-1.3=3.7      |
+| I would imagine that most people would learn to use this Canadiana user interface very quickly.               | 4.2               | 4.2-1=3.2      |
+| I found this Canadiana user interface very cumbersome to use.                                                 | 1.8               | 5-1.8=3.2      |
+| I felt greatly confident using this Canadiana user interface.                                                 | 4                 | 4-1=3          |
+| I needed to learn a lot of things before I could get going with this Canadiana user interface.                | 1.4               | 5-1.4=3.6      |
+
+Final SUS Score = (3.1+3.2+3.1+3.7+2.8+3.7+3.2+3.2+3+3.6)\*2.5&#x20;
+
+Final SUS Score = 81.5 (good)&#x20;
+
+#### User Comments
+
+* Add a description (or little help explanation pop-up) of what main page search is searching when one selects Title vs Subject vs All Text vs Etc.&#x20;
+* I want more detail on the resources that could be searched.&#x20;
+* Add a filter by type of source (such as peer reviewed journal)&#x20;
+* It would be very good if it included more archives, museum catalogues, and library resources.&#x20;
+* More content. This is a great service. It helps me greatly with subjects that interest me. The more resources that could be added the happier I would be. Keep up the great work!&#x20;
+* If digitized microfilm files could have more than just image 1, image 2, etc. It would be so nice if for each new file to have something that indicates "new file, or file page."&#x20;
