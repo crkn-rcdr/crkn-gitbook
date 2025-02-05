@@ -28,7 +28,7 @@ Each participant individually carried out tasks on the Canadiana-Blacklight webs
 
 {% tabs %}
 {% tab title="Summary" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>16 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (2).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (2).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>97%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>16 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (7).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (7).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>97%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Raw Data" %}
@@ -64,7 +64,7 @@ Each participant individually carried out tasks on the Canadiana-Blacklight webs
 
 {% tabs %}
 {% tab title="Summary" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>10 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (2).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (2).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>100%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>10 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (7).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (7).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>100%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Raw Data" %}
@@ -136,7 +136,7 @@ Each participant individually carried out tasks on the Canadiana-Blacklight webs
 
 {% tabs %}
 {% tab title="Summary" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>16 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (2).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (2).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>96%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>16 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (7).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (7).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>96%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Raw Data" %}
@@ -154,7 +154,7 @@ Each participant individually carried out tasks on the Canadiana-Blacklight webs
 
 {% tabs %}
 {% tab title="Summary" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>22 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (2).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (2).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>96%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>22 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (7).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (7).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>96%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Raw Data" %}
@@ -170,6 +170,12 @@ Each participant individually carried out tasks on the Canadiana-Blacklight webs
 
 System Usability Scale (SUS) is a standard way to assess a products overall user-friendliness. Higher scores mean better usability. A score above 70 is a good, while one that is over 85 is excellent.&#x20;
 
+{% tabs %}
+{% tab title="Summary" %}
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>SUS Score</strong></td><td>81.5 (good)</td><td><a href=".gitbook/assets/6586148_accept_check_good_mark_ok_icon (3).png">6586148_accept_check_good_mark_ok_icon (3).png</a></td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="Raw Data" %}
 | Question                                                                                                      | Average Response  | SUS Conversion |
 | ------------------------------------------------------------------------------------------------------------- | ----------------- | -------------- |
 | I think that I would like to use this Canadiana user interface frequently.                                    | 4.1               | 4.1-1=3.1      |
@@ -186,6 +192,10 @@ System Usability Scale (SUS) is a standard way to assess a products overall user
 Final SUS Score = (3.1+3.2+3.1+3.7+2.8+3.7+3.2+3.2+3+3.6)\*2.5&#x20;
 
 Final SUS Score = 81.5 (good)&#x20;
+
+
+{% endtab %}
+{% endtabs %}
 
 #### User Comments
 
