@@ -241,9 +241,9 @@ Final SUS Score = 81.5 (good)&#x20;
 
 <summary>Related Tasks</summary>
 
-* Task 1&#x20;
-* Task 5&#x20;
-* Task 6&#x20;
+* [Task 1 ](./#task-1)
+* [Task 5](./#task-5)&#x20;
+* [Task 6](./#task-6)&#x20;
 
 </details>
 
