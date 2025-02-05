@@ -215,19 +215,105 @@ Final SUS Score = 81.5 (good)&#x20;
 
 ### Search Box
 
+<details>
+
+<summary>Related Tasks</summary>
+
+* Task 1&#x20;
+* Task 5&#x20;
+* Task 6&#x20;
+
+</details>
+
+#### Insights
+
+* During task 1, 16.67% of users noticed the field drop down box beside the search bar and took interest in it.&#x20;
+* During task 5, 45.8% of users ended up searching for the target topic using the search bar instead of going to the facets menu to look for a subject, with 63.64% of those users also using the field selector drop down to select “subject” with the search bar. &#x20;
+* During task 6, 37.5% of users ended up searching for the target author using the search bar instead of going to the facets menu to look for the author, with 44.44% of those users also using the field selector drop down to select “author” with the search bar.&#x20;
+* During task 1, a user was momentarily confused by pressing enter not triggering a search.&#x20;
+
+#### Recommendations
+
+* Ensure all fields is the default for the search field drop down selector.&#x20;
+* Ensure that when the user presses enter, a search is initiated.&#x20;
+
 ### Search Results Count Selector
+
+<details>
+
+<summary>Related Tasks</summary>
+
+* Task 2
+
+</details>
+
+
 
 ### Search Results Sorting Selector
 
+<details>
+
+<summary>Related Tasks</summary>
+
+* Task 3
+
+</details>
+
 ### Selected Filters Section
+
+<details>
+
+<summary>Related Tasks</summary>
+
+* Task 8
+
+</details>
 
 ### Facet Listing
 
+<details>
+
+<summary>Related Tasks</summary>
+
+* Task 5
+* Task 6
+* Task 7
+* Task 8
+
+</details>
+
 ### Facet Pop-ups
+
+<details>
+
+<summary>Related Tasks</summary>
+
+* Task 4
+* Task 5
+* Task 6
+
+</details>
 
 ### Date Range Facet
 
+<details>
+
+<summary>Related Tasks</summary>
+
+* Task 7
+
+</details>
+
 ### Search Results Listing
+
+<details>
+
+<summary>Related Tasks</summary>
+
+* Task 1
+* Task 8
+
+</details>
 
 
 
