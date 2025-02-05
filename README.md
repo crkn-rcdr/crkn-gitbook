@@ -247,12 +247,18 @@ Final SUS Score = 81.5 (good)&#x20;
 
 </details>
 
-#### Insights
+<details>
 
-* During task 1, 16.67% of users noticed the field drop down box beside the search bar and took interest in it.&#x20;
+<summary>Insights</summary>
+
+
+
+* During task 1, 16.67% of users noticed the field drop down box beside the search bar and took interest in it.
 * During task 5, 45.8% of users ended up searching for the target topic using the search bar instead of going to the facets menu to look for a subject, with 63.64% of those users also using the field selector drop down to select “subject” with the search bar. &#x20;
 * During task 6, 37.5% of users ended up searching for the target author using the search bar instead of going to the facets menu to look for the author, with 44.44% of those users also using the field selector drop down to select “author” with the search bar.&#x20;
 * During task 1, a user was momentarily confused by pressing enter not triggering a search.&#x20;
+
+</details>
 
 #### Recommendations
 
@@ -275,9 +281,13 @@ Final SUS Score = 81.5 (good)&#x20;
 
 </details>
 
-#### Insights
+<details>
+
+<summary>Insights</summary>
 
 * 100% of users experienced confusion with there being no loading indicator on the screen when the search is initiated (in this case, by selecting 100 as the # of results to display, which takes a few seconds.) Users incorrectly assumed the display count functionally was not working during this time.
+
+</details>
 
 #### Recommendations
 
@@ -299,10 +309,14 @@ Final SUS Score = 81.5 (good)&#x20;
 
 </details>
 
-#### Insights
+<details>
+
+<summary>Insights</summary>
 
 * 95.65% of users immediately moved their mouse to the correct interface element. The location of this functionality was very user friendly.&#x20;
 * 21.38% users noted that oldest to newest was most important for their workflow.&#x20;
+
+</details>
 
 #### Recommendations
 
@@ -324,11 +338,15 @@ Final SUS Score = 81.5 (good)&#x20;
 
 </details>
 
-#### Insights
+<details>
+
+<summary>Insights</summary>
 
 * During Task 8, 16.67% of users did not notice the selected filters section at the top of the screen instead they used the x button beside each selected value listed under a facet in the “Limit your search” facets side menu.
 * During Task 8, of the users who did see the section, only 30% of them engaged with or used the reset search button.
 * During Task 8, of the users who did not see the section, 50% of users clicked the highlighted facet headers that had selected values within them to try to clear the values within the facet.
+
+</details>
 
 #### Recommendations
 
@@ -353,12 +371,16 @@ Final SUS Score = 81.5 (good)&#x20;
 
 </details>
 
-#### Insights
+<details>
+
+<summary>Insights</summary>
 
 * During Task 5, 37.5% of users did not immediately go to the “Subject” facet to look for a topic of interest.
 * During Task 5, 16.67% of users first assumed the “Collections” facet would contain thematic or topical collections and clicked this facet to search for the target value.
 * During task 6, 16.67% of users missed the target value in the expansion panel for the facet, indicating usability issues for finding items in the top values list.
 * During Task 6, 12.5% of users first assumed the “Collections” facet would contain thematic or topical collections and clicked this facet to search for the target value.
+
+</details>
 
 #### Recommendations
 
@@ -383,16 +405,27 @@ Final SUS Score = 81.5 (good)&#x20;
 
 </details>
 
-#### Insights
+<details>
 
-* The task success rate drops 25% when facet pop-ups are necessary to complete the task. For example, Task 6, where the target value could be found under the expansion panel for a facet, there was a success rate of 75%, whereas Task 5, where users were expected to find the target value on the second page of the listing within the facet pop-up, had a success rate of 50%. These tasks both involved large listings (thousands) of possible values for the facets, which makes them a good comparison. Success rates of 50% and 75% for both tasks indicate a poor experience and/or use case for facets with many (thousands) of values.&#x20;
-* During Task 4, even with a 100% task completion rate and fewer total values (< 100 options), 25% of users verbally indicated frustration at needing to navigate a paginated list of values instead of being able to see all the values for the facet directly after pressing more. &#x20;
+<summary>Insights</summary>
+
+* he task success rate drops 25% when facet pop-ups are necessary to complete the task. For example, Task 6, where the target value could be found under the expansion panel for a facet, there was a success rate of 75%, whereas Task 5, where users were expected to find the target value on the second page of the listing within the facet pop-up, had a success rate of 50%. These tasks both involved large listings (thousands) of possible values for the facets, which makes them a good comparison. Success rates of 50% and 75% for both tasks indicate a poor experience and/or use case for facets with many (thousands) of values.&#x20;
+
+- During Task 4, even with a 100% task completion rate and fewer total values (< 100 options), 25% of users verbally indicated frustration at needing to navigate a paginated list of values instead of being able to see all the values for the facet directly after pressing more. &#x20;
+
 * During Task 4, 25% of users, took longer than ideal to become aware of the existence of the pagination buttons in the pop-up. &#x20;
-* During Task 4,16.67% of users did not notice the pop-up right away and were not expecting their attention to need to shift to the center of the page after clicking more. &#x20;
+
+- During Task 4,16.67% of users did not notice the pop-up right away and were not expecting their attention to need to shift to the center of the page after clicking more. &#x20;
+
 * During task 5, 33.33% of users sorted listing alphabetically when looking for a specific value, even when the value was on the second page within the listing on the pop-up. &#x20;
-* During task 5, 45.8% of users ended up searching for the target topic using the search bar instead of going to the facets menu to look for the subject, with 63.64% of those users also using the field selector drop down to select “subject” with the search bar. &#x20;
+
+- During task 5, 45.8% of users ended up searching for the target topic using the search bar instead of going to the facets menu to look for the subject, with 63.64% of those users also using the field selector drop down to select “subject” with the search bar. &#x20;
+
 * During Task 5, 16.67% of users abandoned the task entirely when needing to use the facet pop-up, due to frustration.&#x20;
-* During task 6, 37.5% of users ended up searching for the target author using the search bar instead of going to the facets menu to look for the author, with 44.44% of those users also using the field selector drop down to select “author” with the search bar.&#x20;
+
+- During task 6, 37.5% of users ended up searching for the target author using the search bar instead of going to the facets menu to look for the author, with 44.44% of those users also using the field selector drop down to select “author” with the search bar.&#x20;
+
+</details>
 
 #### Recommendations
 
@@ -424,10 +457,15 @@ Final SUS Score = 81.5 (good)&#x20;
 
 </details>
 
-#### Insights
+<details>
+
+<summary>Insights</summary>
 
 * 37.5% of users did not see the custom date range in an acceptable timeframe, or not at all. With 77.78% of those users interacting with the default date ranges listed before noticing the custom date range.
-* Users indicated excitement about this functionality.
+
+- Users indicated excitement about this functionality.
+
+</details>
 
 #### Recommendations
 
@@ -450,12 +488,17 @@ Final SUS Score = 81.5 (good)&#x20;
 
 </details>
 
-#### Insights
+<details>
+
+<summary>Insights</summary>
 
 * From additional user comments throughout the tasks, it was noted that it was not immediately obvious to users if a result in the search listing was a series of items or an individual item.
   * Some users indicated they would imagine each listing result to be a single item.
   * Some users expressed surprise when clicking an item in the search results led them to a set of items instead of an individual book, newspaper, etc.
-* Some users assumed bilingual cataloguing meant the item itself was bilingual.
+
+- Some users assumed bilingual cataloguing meant the item itself was bilingual.
+
+</details>
 
 #### Recommendations
 
