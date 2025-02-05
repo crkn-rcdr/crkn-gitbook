@@ -247,7 +247,13 @@ Final SUS Score = 81.5 (good)&#x20;
 
 </details>
 
+#### Insights
 
+*
+
+#### Recommendations
+
+*
 
 ### Search Results Sorting Selector
 
@@ -259,6 +265,14 @@ Final SUS Score = 81.5 (good)&#x20;
 
 </details>
 
+#### Insights
+
+*
+
+#### Recommendations
+
+*
+
 ### Selected Filters Section
 
 <details>
@@ -268,6 +282,14 @@ Final SUS Score = 81.5 (good)&#x20;
 * [Task 8](./#task-8)
 
 </details>
+
+#### Insights
+
+*
+
+#### Recommendations
+
+*
 
 ### Facet Listing
 
@@ -282,6 +304,10 @@ Final SUS Score = 81.5 (good)&#x20;
 
 </details>
 
+#### Insights
+
+#### Recommendations
+
 ### Facet Pop-ups
 
 <details>
@@ -294,6 +320,14 @@ Final SUS Score = 81.5 (good)&#x20;
 
 </details>
 
+#### Insights
+
+*
+
+#### Recommendations
+
+*
+
 ### Date Range Facet
 
 <details>
@@ -303,6 +337,14 @@ Final SUS Score = 81.5 (good)&#x20;
 * [Task 7](./#task-7)
 
 </details>
+
+#### Insights
+
+*
+
+#### Recommendations
+
+*
 
 ### Search Results Listing
 
@@ -315,5 +357,11 @@ Final SUS Score = 81.5 (good)&#x20;
 
 </details>
 
+#### Insights
 
+*
+
+#### Recommendations
+
+*
 
