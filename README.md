@@ -211,4 +211,23 @@ Final SUS Score = 81.5 (good)&#x20;
 
 > If digitized microfilm files could have more than just image 1, image 2, etc. It would be so nice if for each new file to have something that indicates "new file, or file page."&#x20;
 
-## Analysis
+## Interface Analysis
+
+### Search Box
+
+### Search Results Count Selector
+
+### Search Results Sorting Selector
+
+### Selected Filters Section
+
+### Facet Listing
+
+### Facet Pop-ups
+
+### Date Range Facet
+
+### Search Results Listing
+
+
+
