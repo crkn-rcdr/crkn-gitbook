@@ -10,9 +10,15 @@ The object of evaluation was the default Blacklight search interface, with CRKN-
 
 <figure><img src=".gitbook/assets/https2F2Fcatalog_refreshed_v1722448636523 (1).jpg" alt=""><figcaption><p>Figure 1: Description</p></figcaption></figure>
 
+***
+
 <figure><img src=".gitbook/assets/https2F2Fcatalog255Bpub_date_si255Bbegin3D1800255Bpub_date_si255Bend3D1850_refreshed_v1724694304593.jpg" alt=""><figcaption><p>Figure 2: Description</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/maze_screenshot_interaction (9) (1).jpg" alt=""><figcaption><p>Figure 3: Description</p></figcaption></figure>
+***
+
+<figure><img src=".gitbook/assets/maze_screenshot_interaction (9) (1) (1).jpg" alt=""><figcaption><p>Figure 3: Description</p></figcaption></figure>
+
+***
 
 <figure><img src=".gitbook/assets/Screenshot 2025-02-05 160005.png" alt=""><figcaption><p>Figure 4: Description</p></figcaption></figure>
 
