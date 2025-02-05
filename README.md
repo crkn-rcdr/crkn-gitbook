@@ -50,43 +50,117 @@ Each participant individually carried out tasks on the Canadiana-Blacklight webs
 {% endtab %}
 
 {% tab title="Raw Data" %}
+<table><thead><tr><th width="104">User # </th><th width="173">Completion Status </th><th width="151">Elapsed Time </th><th>Notes </th></tr></thead><tbody><tr><td>1</td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td></tr><tr><td>6</td><td></td><td></td><td></td></tr><tr><td>7</td><td></td><td></td><td></td></tr><tr><td>8</td><td></td><td></td><td></td></tr><tr><td>9</td><td></td><td></td><td></td></tr><tr><td>10</td><td></td><td></td><td></td></tr><tr><td>11</td><td></td><td></td><td></td></tr><tr><td>12</td><td></td><td></td><td></td></tr><tr><td>13</td><td></td><td></td><td></td></tr><tr><td>14</td><td></td><td></td><td></td></tr><tr><td>15</td><td></td><td></td><td></td></tr><tr><td>16</td><td></td><td></td><td></td></tr><tr><td>17</td><td></td><td></td><td></td></tr><tr><td>18</td><td></td><td></td><td></td></tr><tr><td>19</td><td></td><td></td><td></td></tr><tr><td>20</td><td></td><td></td><td></td></tr><tr><td>21</td><td></td><td></td><td></td></tr><tr><td>22</td><td></td><td></td><td></td></tr><tr><td>23</td><td></td><td></td><td></td></tr><tr><td>24</td><td></td><td></td><td></td></tr></tbody></table>
+
 
 {% endtab %}
 {% endtabs %}
-
-<table><thead><tr><th width="104">User # </th><th width="173">Completion Status </th><th width="151">Elapsed Time </th><th>Notes </th></tr></thead><tbody><tr><td>1</td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td></tr><tr><td>6</td><td></td><td></td><td></td></tr><tr><td>7</td><td></td><td></td><td></td></tr><tr><td>8</td><td></td><td></td><td></td></tr><tr><td>9</td><td></td><td></td><td></td></tr><tr><td>10</td><td></td><td></td><td></td></tr><tr><td>11</td><td></td><td></td><td></td></tr><tr><td>12</td><td></td><td></td><td></td></tr><tr><td>13</td><td></td><td></td><td></td></tr><tr><td>14</td><td></td><td></td><td></td></tr><tr><td>15</td><td></td><td></td><td></td></tr><tr><td>16</td><td></td><td></td><td></td></tr><tr><td>17</td><td></td><td></td><td></td></tr><tr><td>18</td><td></td><td></td><td></td></tr><tr><td>19</td><td></td><td></td><td></td></tr><tr><td>20</td><td></td><td></td><td></td></tr><tr><td>21</td><td></td><td></td><td></td></tr><tr><td>22</td><td></td><td></td><td></td></tr><tr><td>23</td><td></td><td></td><td></td></tr><tr><td>24</td><td></td><td></td><td></td></tr></tbody></table>
 
 ### Task 3
 
+**Instructions:** Sort the search by newest to oldest
+
+**Expected answer:** Users were expected to move towards the right side of the page, below the search bar, to find the search sort options. They were then expected to click the drop-down menu which indicated the current search sorting selected, “Sort by relevance.” Then, a full list of values including “Sort by relevance” and “Sort by newest to oldest” would be displayed to the user. Then, they were to click the “Sort by newest to oldest” option which would reload the page in this order.
+
 {% tabs %}
 {% tab title="Summary" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>16 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>97%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>10 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>100%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Raw Data" %}
+<table><thead><tr><th width="104">User # </th><th width="173">Completion Status </th><th width="151">Elapsed Time </th><th>Notes </th></tr></thead><tbody><tr><td>1</td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td></tr><tr><td>6</td><td></td><td></td><td></td></tr><tr><td>7</td><td></td><td></td><td></td></tr><tr><td>8</td><td></td><td></td><td></td></tr><tr><td>9</td><td></td><td></td><td></td></tr><tr><td>10</td><td></td><td></td><td></td></tr><tr><td>11</td><td></td><td></td><td></td></tr><tr><td>12</td><td></td><td></td><td></td></tr><tr><td>13</td><td></td><td></td><td></td></tr><tr><td>14</td><td></td><td></td><td></td></tr><tr><td>15</td><td></td><td></td><td></td></tr><tr><td>16</td><td></td><td></td><td></td></tr><tr><td>17</td><td></td><td></td><td></td></tr><tr><td>18</td><td></td><td></td><td></td></tr><tr><td>19</td><td></td><td></td><td></td></tr><tr><td>20</td><td></td><td></td><td></td></tr><tr><td>21</td><td></td><td></td><td></td></tr><tr><td>22</td><td></td><td></td><td></td></tr><tr><td>23</td><td></td><td></td><td></td></tr><tr><td>24</td><td></td><td></td><td></td></tr></tbody></table>
+
 
 {% endtab %}
 {% endtabs %}
 
-<table><thead><tr><th width="104">User # </th><th width="173">Completion Status </th><th width="151">Elapsed Time </th><th>Notes </th></tr></thead><tbody><tr><td>1</td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td></tr><tr><td>6</td><td></td><td></td><td></td></tr><tr><td>7</td><td></td><td></td><td></td></tr><tr><td>8</td><td></td><td></td><td></td></tr><tr><td>9</td><td></td><td></td><td></td></tr><tr><td>10</td><td></td><td></td><td></td></tr><tr><td>11</td><td></td><td></td><td></td></tr><tr><td>12</td><td></td><td></td><td></td></tr><tr><td>13</td><td></td><td></td><td></td></tr><tr><td>14</td><td></td><td></td><td></td></tr><tr><td>15</td><td></td><td></td><td></td></tr><tr><td>16</td><td></td><td></td><td></td></tr><tr><td>17</td><td></td><td></td><td></td></tr><tr><td>18</td><td></td><td></td><td></td></tr><tr><td>19</td><td></td><td></td><td></td></tr><tr><td>20</td><td></td><td></td><td></td></tr><tr><td>21</td><td></td><td></td><td></td></tr><tr><td>22</td><td></td><td></td><td></td></tr><tr><td>23</td><td></td><td></td><td></td></tr><tr><td>24</td><td></td><td></td><td></td></tr></tbody></table>
-
 ### Task 4
 
+**Instructions:** Show only items written in the Ojibwa language&#x20;
+
+**Expected answer:** The participants were expected to navigate to the facet listings in the left-hand menu on the search interface, titled “Limit your search.” They were then expected to locate the “Language” facet. Then, they were to click the facet title, which would open an expansion panel listing the first twenty values alphabetically, and a “more” indicator. Users were then to notice “Ojibwa” was not in the first twenty values and click “more.” Then, a pop-up window was expected to appear, where the users could see an alphabetical, paginated list of values for the Language facet. The pop-up model also included options for sorting the listing alphabetically, or numerically, by most popular values. Finally, the full-value listing pop-up had “previous” and “next” buttons for navigating through the search results. As “Ojibwa” would be somewhere in the middle of the list of languages available to choose from, users were expected to click the “next” button three times, until they saw “Ojibwa” listed in the values. Then, users were expected to click “Ojibwa” which would close the pop-up and filter the search results on “Language” -> “Ojibwa.”&#x20;
+
+{% tabs %}
+{% tab title="Summary" %}
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>36 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>100%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="Raw Data" %}
 <table><thead><tr><th width="104">User # </th><th width="173">Completion Status </th><th width="151">Elapsed Time </th><th>Notes </th></tr></thead><tbody><tr><td>1</td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td></tr><tr><td>6</td><td></td><td></td><td></td></tr><tr><td>7</td><td></td><td></td><td></td></tr><tr><td>8</td><td></td><td></td><td></td></tr><tr><td>9</td><td></td><td></td><td></td></tr><tr><td>10</td><td></td><td></td><td></td></tr><tr><td>11</td><td></td><td></td><td></td></tr><tr><td>12</td><td></td><td></td><td></td></tr><tr><td>13</td><td></td><td></td><td></td></tr><tr><td>14</td><td></td><td></td><td></td></tr><tr><td>15</td><td></td><td></td><td></td></tr><tr><td>16</td><td></td><td></td><td></td></tr><tr><td>17</td><td></td><td></td><td></td></tr><tr><td>18</td><td></td><td></td><td></td></tr><tr><td>19</td><td></td><td></td><td></td></tr><tr><td>20</td><td></td><td></td><td></td></tr><tr><td>21</td><td></td><td></td><td></td></tr><tr><td>22</td><td></td><td></td><td></td></tr><tr><td>23</td><td></td><td></td><td></td></tr><tr><td>24</td><td></td><td></td><td></td></tr></tbody></table>
+
+
+{% endtab %}
+{% endtabs %}
 
 ### Task 5
 
+**Instructions:** Browse all the items about Arctic Regions&#x20;
+
+**Expected answer:** The users were expected to navigate to the “Subjects” facet in the left-side “Limit your search” menu in the search interface. Then, they were expected to click the “Subjects” heading, to expand the list of values, this time, sorted numerically by most popular subject. Users were expected to scan the listing and see that “Arctic Regions” was not in the top 20 values shown in accordance with the sort order. Then, users were expected to click “More,” which would open the full listing of values for “Subject,” and click “next” once to find the “Arctic Regions” subject listed. Finally, they were expected to click the “Arctic Regions” value, which closed the pop-up and filtered the search results by “Subjects” -> “Arctic Regions.”&#x20;
+
+{% tabs %}
+{% tab title="Summary" %}
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>102 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>50%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="Raw Data" %}
 <table><thead><tr><th width="104">User # </th><th width="173">Completion Status </th><th width="151">Elapsed Time </th><th>Notes </th></tr></thead><tbody><tr><td>1</td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td></tr><tr><td>6</td><td></td><td></td><td></td></tr><tr><td>7</td><td></td><td></td><td></td></tr><tr><td>8</td><td></td><td></td><td></td></tr><tr><td>9</td><td></td><td></td><td></td></tr><tr><td>10</td><td></td><td></td><td></td></tr><tr><td>11</td><td></td><td></td><td></td></tr><tr><td>12</td><td></td><td></td><td></td></tr><tr><td>13</td><td></td><td></td><td></td></tr><tr><td>14</td><td></td><td></td><td></td></tr><tr><td>15</td><td></td><td></td><td></td></tr><tr><td>16</td><td></td><td></td><td></td></tr><tr><td>17</td><td></td><td></td><td></td></tr><tr><td>18</td><td></td><td></td><td></td></tr><tr><td>19</td><td></td><td></td><td></td></tr><tr><td>20</td><td></td><td></td><td></td></tr><tr><td>21</td><td></td><td></td><td></td></tr><tr><td>22</td><td></td><td></td><td></td></tr><tr><td>23</td><td></td><td></td><td></td></tr><tr><td>24</td><td></td><td></td><td></td></tr></tbody></table>
+
+
+{% endtab %}
+{% endtabs %}
 
 ### Task 6
 
+**Instructions:** Find all the items by the Royal Society of Canada&#x20;
+
+**Expected answer:** The users were expected to navigate to the “Limit your search” left hand side menu, and find the “Creator” facet heading, and click the heading to expand the list of the top twenty values sorted numerically by popularity. This time, users were expected to see the “Royal Society of Canada” in the top twenty values. Users were expected to click the “Royal Society of Canada” value, which would then filter the search results on “Creator” -> “Royal Society of Canada.”&#x20;
+
+{% tabs %}
+{% tab title="Summary" %}
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>44 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>75%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="Raw Data" %}
 <table><thead><tr><th width="104">User # </th><th width="173">Completion Status </th><th width="151">Elapsed Time </th><th>Notes </th></tr></thead><tbody><tr><td>1</td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td></tr><tr><td>6</td><td></td><td></td><td></td></tr><tr><td>7</td><td></td><td></td><td></td></tr><tr><td>8</td><td></td><td></td><td></td></tr><tr><td>9</td><td></td><td></td><td></td></tr><tr><td>10</td><td></td><td></td><td></td></tr><tr><td>11</td><td></td><td></td><td></td></tr><tr><td>12</td><td></td><td></td><td></td></tr><tr><td>13</td><td></td><td></td><td></td></tr><tr><td>14</td><td></td><td></td><td></td></tr><tr><td>15</td><td></td><td></td><td></td></tr><tr><td>16</td><td></td><td></td><td></td></tr><tr><td>17</td><td></td><td></td><td></td></tr><tr><td>18</td><td></td><td></td><td></td></tr><tr><td>19</td><td></td><td></td><td></td></tr><tr><td>20</td><td></td><td></td><td></td></tr><tr><td>21</td><td></td><td></td><td></td></tr><tr><td>22</td><td></td><td></td><td></td></tr><tr><td>23</td><td></td><td></td><td></td></tr><tr><td>24</td><td></td><td></td><td></td></tr></tbody></table>
+
+
+{% endtab %}
+{% endtabs %}
 
 ### Task 7
 
+**Instructions:** View the items published from 1800-1850&#x20;
+
+**Expected answer:** Participants were expected to navigate to the “Limit your search” menu and find the “Date Range” facet. They were then expected to click the “Date Range” facet heading, to expand the default listing, which lists increments of 200 years from year 0 to the current year, as well as two inputs for entering a custom “from” and “to” range, and finally, an “Apply” button to initiate the custom-date-range filtered search.  Noticing that the required date range is not a 200-year interval, users were expected to enter “1800” in the “from” input, and “1850” in the “to” input, then press “Apply” to initiate the filtered search. Then, the search results filtered on the “Date Range” -> “1800-1850” were expected to be displayed.&#x20;
+
+{% tabs %}
+{% tab title="Summary" %}
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>16 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>96%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="Raw Data" %}
 <table><thead><tr><th width="104">User # </th><th width="173">Completion Status </th><th width="151">Elapsed Time </th><th>Notes </th></tr></thead><tbody><tr><td>1</td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td></tr><tr><td>6</td><td></td><td></td><td></td></tr><tr><td>7</td><td></td><td></td><td></td></tr><tr><td>8</td><td></td><td></td><td></td></tr><tr><td>9</td><td></td><td></td><td></td></tr><tr><td>10</td><td></td><td></td><td></td></tr><tr><td>11</td><td></td><td></td><td></td></tr><tr><td>12</td><td></td><td></td><td></td></tr><tr><td>13</td><td></td><td></td><td></td></tr><tr><td>14</td><td></td><td></td><td></td></tr><tr><td>15</td><td></td><td></td><td></td></tr><tr><td>16</td><td></td><td></td><td></td></tr><tr><td>17</td><td></td><td></td><td></td></tr><tr><td>18</td><td></td><td></td><td></td></tr><tr><td>19</td><td></td><td></td><td></td></tr><tr><td>20</td><td></td><td></td><td></td></tr><tr><td>21</td><td></td><td></td><td></td></tr><tr><td>22</td><td></td><td></td><td></td></tr><tr><td>23</td><td></td><td></td><td></td></tr><tr><td>24</td><td></td><td></td><td></td></tr></tbody></table>
+
+
+{% endtab %}
+{% endtabs %}
 
 ### Task 8
 
+**Instructions:** Remove all applied filters&#x20;
+
+**Expected answer:** Users were expected to move the cursor below the search box, to the section that lists all the applied facet values. Then, they were expected to notice a button which said, “Reset Search” and to click it. This would refresh the page to the default empty search, with no filters applied. &#x20;
+
+{% tabs %}
+{% tab title="Summary" %}
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>22 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>96%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="Raw Data" %}
 <table><thead><tr><th width="104">User # </th><th width="173">Completion Status </th><th width="151">Elapsed Time </th><th>Notes </th></tr></thead><tbody><tr><td>1</td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td></tr><tr><td>6</td><td></td><td></td><td></td></tr><tr><td>7</td><td></td><td></td><td></td></tr><tr><td>8</td><td></td><td></td><td></td></tr><tr><td>9</td><td></td><td></td><td></td></tr><tr><td>10</td><td></td><td></td><td></td></tr><tr><td>11</td><td></td><td></td><td></td></tr><tr><td>12</td><td></td><td></td><td></td></tr><tr><td>13</td><td></td><td></td><td></td></tr><tr><td>14</td><td></td><td></td><td></td></tr><tr><td>15</td><td></td><td></td><td></td></tr><tr><td>16</td><td></td><td></td><td></td></tr><tr><td>17</td><td></td><td></td><td></td></tr><tr><td>18</td><td></td><td></td><td></td></tr><tr><td>19</td><td></td><td></td><td></td></tr><tr><td>20</td><td></td><td></td><td></td></tr><tr><td>21</td><td></td><td></td><td></td></tr><tr><td>22</td><td></td><td></td><td></td></tr><tr><td>23</td><td></td><td></td><td></td></tr><tr><td>24</td><td></td><td></td><td></td></tr></tbody></table>
+
+
+{% endtab %}
+{% endtabs %}
 
