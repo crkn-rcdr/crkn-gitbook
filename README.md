@@ -237,6 +237,8 @@ Final SUS Score = 81.5 (good)&#x20;
 * Ensure all fields is the default for the search field drop down selector.&#x20;
 * Ensure that when the user presses enter, a search is initiated.&#x20;
 
+***
+
 ### Search Results Count Selector
 
 <details>
@@ -254,6 +256,8 @@ Final SUS Score = 81.5 (good)&#x20;
 #### Recommendations
 
 *
+
+***
 
 ### Search Results Sorting Selector
 
@@ -273,6 +277,8 @@ Final SUS Score = 81.5 (good)&#x20;
 
 *
 
+***
+
 ### Selected Filters Section
 
 <details>
@@ -291,6 +297,8 @@ Final SUS Score = 81.5 (good)&#x20;
 
 *
 
+***
+
 ### Facet Listing
 
 <details>
@@ -307,6 +315,8 @@ Final SUS Score = 81.5 (good)&#x20;
 #### Insights
 
 #### Recommendations
+
+***
 
 ### Facet Pop-ups
 
@@ -328,6 +338,8 @@ Final SUS Score = 81.5 (good)&#x20;
 
 *
 
+***
+
 ### Date Range Facet
 
 <details>
@@ -345,6 +357,8 @@ Final SUS Score = 81.5 (good)&#x20;
 #### Recommendations
 
 *
+
+***
 
 ### Search Results Listing
 
