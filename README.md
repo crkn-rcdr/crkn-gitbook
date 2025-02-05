@@ -46,7 +46,7 @@ Each participant individually carried out tasks on the Canadiana-Blacklight webs
 
 {% tabs %}
 {% tab title="Summary" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>31 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (3).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (3).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>91%</strong></td><td><a href=".gitbook/assets/173878413041721978 (4).png">173878413041721978 (4).png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>31 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (3).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (3).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>91%</strong></td><td><a href=".gitbook/assets/173878413041721978.png">173878413041721978.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Raw Data" %}
@@ -100,7 +100,7 @@ Each participant individually carried out tasks on the Canadiana-Blacklight webs
 
 {% tabs %}
 {% tab title="Summary" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>102 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (2) (2).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (2) (2).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>50%</strong></td><td><a href=".gitbook/assets/173878413041721978.png">173878413041721978.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>102 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (2) (2).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (2) (2).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>50%</strong></td><td><a href=".gitbook/assets/173878413041721978 (1).png">173878413041721978 (1).png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Raw Data" %}
@@ -172,7 +172,7 @@ System Usability Scale (SUS) is a standard way to assess a products overall user
 
 {% tabs %}
 {% tab title="Summary" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>SUS Score</strong></td><td>81.5 (good)</td><td><a href=".gitbook/assets/6586148_accept_check_good_mark_ok_icon (3).png">6586148_accept_check_good_mark_ok_icon (3).png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>SUS Score</strong></td><td>81.5 (good)</td><td><a href=".gitbook/assets/6586148_accept_check_good_mark_ok_icon (4).png">6586148_accept_check_good_mark_ok_icon (4).png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Raw Data" %}
@@ -199,9 +199,16 @@ Final SUS Score = 81.5 (good)&#x20;
 
 #### User Comments
 
-* Add a description (or little help explanation pop-up) of what main page search is searching when one selects Title vs Subject vs All Text vs Etc.&#x20;
-* I want more detail on the resources that could be searched.&#x20;
-* Add a filter by type of source (such as peer reviewed journal)&#x20;
-* It would be very good if it included more archives, museum catalogues, and library resources.&#x20;
-* More content. This is a great service. It helps me greatly with subjects that interest me. The more resources that could be added the happier I would be. Keep up the great work!&#x20;
-* If digitized microfilm files could have more than just image 1, image 2, etc. It would be so nice if for each new file to have something that indicates "new file, or file page."&#x20;
+> Add a description (or little help explanation pop-up) of what main page search is searching when one selects Title vs Subject vs All Text vs Etc.
+
+> I want more detail on the resources that could be searched.&#x20;
+
+> Add a filter by type of source (such as peer reviewed journal)&#x20;
+
+> It would be very good if it included more archives, museum catalogues, and library resources.&#x20;
+
+> More content. This is a great service. It helps me greatly with subjects that interest me. The more resources that could be added the happier I would be. Keep up the great work!
+
+> If digitized microfilm files could have more than just image 1, image 2, etc. It would be so nice if for each new file to have something that indicates "new file, or file page."&#x20;
+
+## Analysis
