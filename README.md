@@ -243,7 +243,7 @@ Final SUS Score = 81.5 (good)&#x20;
 
 <summary>Related Tasks</summary>
 
-* Task 2
+* [Task 2](./#task-2)
 
 </details>
 
@@ -255,7 +255,7 @@ Final SUS Score = 81.5 (good)&#x20;
 
 <summary>Related Tasks</summary>
 
-* Task 3
+* [Task 3](./#task-3)
 
 </details>
 
@@ -265,7 +265,7 @@ Final SUS Score = 81.5 (good)&#x20;
 
 <summary>Related Tasks</summary>
 
-* Task 8
+* [Task 8](./#task-8)
 
 </details>
 
@@ -275,10 +275,10 @@ Final SUS Score = 81.5 (good)&#x20;
 
 <summary>Related Tasks</summary>
 
-* Task 5
-* Task 6
-* Task 7
-* Task 8
+* [Task 5](./#task-5)
+* [Task 6](./#task-6)
+* [Task 7](./#task-7)
+* [Task 8](./#task-8)
 
 </details>
 
@@ -288,9 +288,9 @@ Final SUS Score = 81.5 (good)&#x20;
 
 <summary>Related Tasks</summary>
 
-* Task 4
-* Task 5
-* Task 6
+* [Task 4](./#task-4)
+* [Task 5](./#task-5)
+* [Task 6](./#task-6)
 
 </details>
 
@@ -300,7 +300,7 @@ Final SUS Score = 81.5 (good)&#x20;
 
 <summary>Related Tasks</summary>
 
-* Task 7
+* [Task 7](./#task-7)
 
 </details>
 
@@ -310,8 +310,8 @@ Final SUS Score = 81.5 (good)&#x20;
 
 <summary>Related Tasks</summary>
 
-* Task 1
-* Task 8
+* [Task 1](./#task-1)
+* [Task 8](./#task-8)
 
 </details>
 
