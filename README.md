@@ -28,7 +28,7 @@ Each participant individually carried out tasks on the Canadiana-Blacklight webs
 
 {% tabs %}
 {% tab title="Summary" %}
-
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>16 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon.png">3688427_hourglass_sand_sandtimer_timer_alarm_icon.png</a></td></tr><tr><td>Task Success Rate</td><td><strong>97%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Raw Data" %}
