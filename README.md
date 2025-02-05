@@ -28,7 +28,7 @@ Each participant individually carried out tasks on the Canadiana-Blacklight webs
 
 {% tabs %}
 {% tab title="Summary" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>16 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon.png">3688427_hourglass_sand_sandtimer_timer_alarm_icon.png</a></td></tr><tr><td>Task Success Rate</td><td><strong>97%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>16 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>97%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Raw Data" %}
@@ -39,6 +39,16 @@ Each participant individually carried out tasks on the Canadiana-Blacklight webs
 {% endtabs %}
 
 ### Task 2
+
+{% tabs %}
+{% tab title="Summary" %}
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>16 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (1).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>97%</strong></td><td><a href=".gitbook/assets/473803_achievement_arrow_goal_marketing_objective_icon.png">473803_achievement_arrow_goal_marketing_objective_icon.png</a></td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="Raw Data" %}
+
+{% endtab %}
+{% endtabs %}
 
 <table><thead><tr><th width="104">User # </th><th width="173">Completion Status </th><th width="151">Elapsed Time </th><th>Notes </th></tr></thead><tbody><tr><td>1</td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td></tr><tr><td>6</td><td></td><td></td><td></td></tr><tr><td>7</td><td></td><td></td><td></td></tr><tr><td>8</td><td></td><td></td><td></td></tr><tr><td>9</td><td></td><td></td><td></td></tr><tr><td>10</td><td></td><td></td><td></td></tr><tr><td>11</td><td></td><td></td><td></td></tr><tr><td>12</td><td></td><td></td><td></td></tr><tr><td>13</td><td></td><td></td><td></td></tr><tr><td>14</td><td></td><td></td><td></td></tr><tr><td>15</td><td></td><td></td><td></td></tr><tr><td>16</td><td></td><td></td><td></td></tr><tr><td>17</td><td></td><td></td><td></td></tr><tr><td>18</td><td></td><td></td><td></td></tr><tr><td>19</td><td></td><td></td><td></td></tr><tr><td>20</td><td></td><td></td><td></td></tr><tr><td>21</td><td></td><td></td><td></td></tr><tr><td>22</td><td></td><td></td><td></td></tr><tr><td>23</td><td></td><td></td><td></td></tr><tr><td>24</td><td></td><td></td><td></td></tr></tbody></table>
 
