@@ -279,24 +279,22 @@ System Usability Scale (SUS) is a standard way to assess a products overall user
 Final SUS Score = (3.1+3.2+3.1+3.7+2.8+3.7+3.2+3.2+3+3.6)\*2.5&#x20;
 
 Final SUS Score = 81.5 (good)&#x20;
-
-
 {% endtab %}
 {% endtabs %}
 
 #### User Comments
 
-> Add a description (or little help explanation pop-up) of what main page search is searching when one selects Title vs Subject vs All Text vs Etc.
+> "Add a description (or little help explanation pop-up) of what main page search is searching when one selects Title vs Subject vs All Text vs etc."
 
-> I want more detail on the resources that could be searched.&#x20;
+> "I want more detail on the resources that could be searched."
 
-> Add a filter by type of source (such as peer reviewed journal)&#x20;
+> "Add a filter by type of source (such as peer reviewed journal.)"
 
-> It would be very good if it included more archives, museum catalogues, and library resources.&#x20;
+> "It would be very good if it included more archives, museum catalogues, and library resources."
 
-> More content. This is a great service. It helps me greatly with subjects that interest me. The more resources that could be added the happier I would be. Keep up the great work!
+> "More content. This is a great service. It helps me greatly with subjects that interest me. The more resources that could be added the happier I would be. Keep up the great work!"
 
-> If digitized microfilm files could have more than just image 1, image 2, etc. It would be so nice if for each new file to have something that indicates "new file, or file page."&#x20;
+> "If digitized microfilm files could have more than just image 1, image 2, etc. It would be so nice if for each new file to have something that indicates 'new file, or file page.'"
 
 ## Interface Analysis
 
@@ -447,6 +445,10 @@ Final SUS Score = 81.5 (good)&#x20;
 
 </details>
 
+#### Quotes
+
+> “I don't know how to find this, oh my gosh.”
+
 #### Recommendations
 
 * Make facet lists easier to scan by adding dividers, adding spacing between values, or reducing the number of values listed if possible (without triggering the more interface, see the next component section for more information.)
@@ -492,6 +494,22 @@ Final SUS Score = 81.5 (good)&#x20;
 
 </details>
 
+#### Quotes
+
+> “I feel like I am missing how to do this properly.” &#x20;
+
+> “Why is it so hard to figure out?”
+
+> “Having to hit next is annoying.”
+
+> “Clicking, clicking, clicking, clicking! This is crazy – that needs work.”
+
+> “This is tedious!”
+
+> “I am never going to find it this way \[by clicking next], this is annoying, and I am done.”
+
+> “Why not just give me a full list at this point?”
+
 #### Recommendations
 
 * Redesign needed – do not use them in their current state if possible.&#x20;
@@ -532,6 +550,12 @@ Final SUS Score = 81.5 (good)&#x20;
 
 </details>
 
+#### Quotes
+
+> “Oh - custom year range, at the bottom!”&#x20;
+
+> “I think I could use that for genealogy for sure. This is fun.”&#x20;
+
 #### Recommendations
 
 * Place the custom date range inputs directly under the Date Range facet header.
@@ -564,6 +588,14 @@ Final SUS Score = 81.5 (good)&#x20;
 - Some users assumed bilingual cataloguing meant the item itself was bilingual.
 
 </details>
+
+#### Quotes
+
+> “It must be bilingual because the subject is bilingual.”
+
+> “It is telling me that there are 363,844 results in here, and I imagine these are individual items.”
+
+> “Serials – oh It is a journal.”
 
 #### Recommendations
 
