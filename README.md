@@ -122,7 +122,7 @@ Each participant individually carried out tasks on the Canadiana-Blacklight webs
 
 {% tabs %}
 {% tab title="Summary" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>102 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (2) (2).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (2) (2).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>50%</strong></td><td><a href=".gitbook/assets/173878413041721978 (1).png">173878413041721978 (1).png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Average Time on Task</td><td><strong>102 seconds</strong></td><td><a href=".gitbook/assets/3688427_hourglass_sand_sandtimer_timer_alarm_icon (2) (3).png">3688427_hourglass_sand_sandtimer_timer_alarm_icon (2) (3).png</a></td></tr><tr><td>Task Success Rate</td><td><strong>50%</strong></td><td><a href=".gitbook/assets/173878413041721978 (1).png">173878413041721978 (1).png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Raw Data" %}
@@ -504,3 +504,6 @@ Final SUS Score = 81.5 (good)&#x20;
 
 * Ensure that the distinction between a series and an individual item is clear to users, so they understand that they will encounter different page designs based on the item type.
 
+## Closing Statement&#x20;
+
+In conclusion, the usability evaluation of the Blacklight search interface identified important areas for improvement. While users generally found the interface intuitive, challenges such as missing loading indicators and issues with facet pop-ups were evident. By addressing these concerns and implementing usability enhancements, we can significantly improve the search experience and ensure a smoother transition for users familiar with the existing CAP system. Additionally, adopting an open-source and community-driven approach will enhance usability not just for Canadiana users, but also for other institutions utilizing Blacklight-powered search systems.&#x20;
