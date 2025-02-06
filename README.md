@@ -8,7 +8,7 @@ An evaluation of the default [Blacklight ](https://projectblacklight.org/)search
 
 The object of evaluation was the default Blacklight search interface, with CRKN-Canadiana branding applied, carried out in late 2024 by the CRKN team. See the figures below.&#x20;
 
-<figure><img src=".gitbook/assets/https2F2Fcatalog_refreshed_v1722448636523 (1).jpg" alt=""><figcaption><p>Figure 1: Description</p></figcaption></figure>
+<figure><img src=".gitbook/assets/https2F2Fcatalog_refreshed_v1722448636523 (1).jpg" alt=""><figcaption><p>Figure 1: The default design of the search results page includes a section for entering the search term, followed by a facets listing to the left, and the matching search results listing to the right. Users can sort the results list and configure how many results to show per page.</p></figcaption></figure>
 
 
 
@@ -16,7 +16,7 @@ The object of evaluation was the default Blacklight search interface, with CRKN-
 
 
 
-<figure><img src=".gitbook/assets/https2F2Fcatalog255Bpub_date_si255Bbegin3D1800255Bpub_date_si255Bend3D1850_refreshed_v1724694304593.jpg" alt=""><figcaption><p>Figure 2: Description</p></figcaption></figure>
+<figure><img src=".gitbook/assets/https2F2Fcatalog255Bpub_date_si255Bbegin3D1800255Bpub_date_si255Bend3D1850_refreshed_v1724694304593.jpg" alt=""><figcaption><p>Figure 2: The date range facet includes a list of pre-determined ranges to filter items upon, followed by a section where the user can enter a custom date range.</p></figcaption></figure>
 
 
 
@@ -24,7 +24,7 @@ The object of evaluation was the default Blacklight search interface, with CRKN-
 
 
 
-<figure><img src=".gitbook/assets/maze_screenshot_interaction (9) (1) (1).jpg" alt=""><figcaption><p>Figure 3: Description</p></figcaption></figure>
+<figure><img src=".gitbook/assets/maze_screenshot_interaction (9) (1) (1).jpg" alt=""><figcaption><p>Figure 3: The regular facet component shows a list which can be configured alphabetically or by top values. It can be configured to show a certain number of values before drawing a "more" button.</p></figcaption></figure>
 
 
 
@@ -32,7 +32,7 @@ The object of evaluation was the default Blacklight search interface, with CRKN-
 
 
 
-<figure><img src=".gitbook/assets/Screenshot 2025-02-05 160005.png" alt=""><figcaption><p>Figure 4: Description</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-02-05 160005.png" alt=""><figcaption><p>Figure 4: When the user presses "more" from the facet, a pop-up appears on the screen. This pop-up allows the user to paginate through all of the available values using "next" and "previous" buttons. </p></figcaption></figure>
 
 ## Evaluation Method&#x20;
 
