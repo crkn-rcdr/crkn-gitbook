@@ -512,7 +512,7 @@ Final SUS Score = 81.5 (good)&#x20;
 
 #### Recommendations
 
-* Redesign needed – do not use them in their current state if possible.&#x20;
+* Redesign needed to make the facet pop-ups usable for longer listings of values.
   * A temporary solution is to set the default before there being a “more” function to the count of your largest facet.
   * Do not rely on the search facets for displaying all the metadata values you want your users to be made aware of. Use facets sparingly and to support common filter experiences for users, such as date and language.  For supporting exploratory experiences or topical listings, instead design an index with alphabetical navigation as a separate experience. Label the page “Explore our collection by topic” or similar. &#x20;
   * To make it easier to explore from the search results, a value for a field of an item can be turned into a clickable link. When users click on this link, they will be directed to a search page that displays all items matching that specific field value. For example, if an item lists their subject, that could be a clickable link, which gives a search result matching all items with that subject.&#x20;
